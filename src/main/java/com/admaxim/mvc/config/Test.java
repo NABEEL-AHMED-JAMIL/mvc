@@ -3,9 +3,13 @@ package com.admaxim.mvc.config;
 import java.io.IOException;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.regex.Pattern;
 
+import com.google.common.primitives.Doubles;
 import net.sf.json.JSONObject;
 import net.sf.json.JSONSerializer;
+import org.apache.commons.lang.StringUtils;
+import static com.admaxim.mvc.mapping.IRtbRequest.RTB_R_BNR_API;
 
 
 public class Test {
@@ -35,7 +39,7 @@ public class Test {
 
     }
 
-    private static Set<Integer> filterCamignsBySizeAdType(Set<Integer> cpnIds, ArrayList<String> sizes, ArrayList<AdType> adTypes) {
+    private static Set<Integer> filerCampaignsBySizeAdType(Set<Integer> cpnIds, ArrayList<String> sizes, ArrayList<AdType> adTypes) {
         return null;
     }
 
@@ -64,6 +68,7 @@ public class Test {
     *       }
     *   }
      */
+    // ok
     private static String adxNativeResponse() {
         String NEW_LINE = "\n";
         StringBuilder nativead = new StringBuilder();
@@ -109,18 +114,64 @@ public class Test {
 
     }
 
+    // ok
     private static void helloBoss() {
         System.out.println("Hello Testing");
     }
 
-    private static String getAdType(JSONObject jsonObject) {
-        return null;
+
+    /**
+     *  "api": [ 3 ]
+     *  1 ==> VPAID 1.0
+     *  2 ==> VPAID 2.0
+     *  3 ==> MRAID-1
+     *  4 ==> ORMMA
+     *  5 ==> MRAID-2
+     *  */
+
+    /**
+     * "banner": {
+     *      "w": 728,
+     *      "h": 90,
+     *      "pos": 1,
+     *      "btype": [ 4 ],
+     *      "battr": [ 14 ],
+     *      "api": [ 3 ]
+     *  }
+     * */
+    // ok
+    private static String getAdType(JSONObject bannerObject) {
+
+        String adType = "";
+        if (bannerObject.containsKey(RTB_R_BNR_API) &&
+                !bannerObject.getString(RTB_R_BNR_API).equalsIgnoreCase("null")
+                && bannerObject.getJSONArray(RTB_R_BNR_API).size() > 0) {
+            // getting the first value from the array at index on "0"
+            int apiType = bannerObject.getJSONArray(RTB_R_BNR_API).getInt(0);
+
+            if (apiType == 3 || apiType == 5) { // according to OpenRTB2.3 documentation, api 3 and 5 means Mraid 1.0 and Mraid2.0 respectively.
+                adType = AdType.getNumericStringValue(AdType.BANNER_AD) + "," + AdType.getNumericStringValue(AdType.EXPANDABLE);
+            } else {
+                adType = AdType.getNumericStringValue(AdType.BANNER_AD);
+            }
+
+        }else {
+            adType = AdType.getNumericStringValue(AdType.BANNER_AD);
+        }
+
+        return adType;
     }
 
-
+    // ok
     private static double getDoubleAdRequestParameter(String param, double defaultValue) {
-        return 0.0;
+
+        if (StringUtils.isNotEmpty(param) && Doubles.tryParse(param) != null) {
+            return Double.parseDouble(param);
+        }
+
+        return defaultValue;
     }
+
 
     private static HashMap<String, Map<String, String>> populateDummyNativeVideoData() {
         return null;
@@ -146,16 +197,69 @@ public class Test {
         return null;
     }
 
-    private static String getAppId(String str) {
-        return null;
+
+    /**
+     * {
+     *   id: Z7844Z74338Z-1Z18736,
+     *   impid:24678Z8Z0Z0ZZ40.0Z30,
+     *   bidid:0Z0.0Z10.0ZgbZnorth
+     * }
+     */
+    // ok
+    private static String getAppIds(String str) {
+
+        String[] ids = new String[] {"id","impid","bidid"};
+        String[] values = str.split("_");
+        StringBuilder builder = new StringBuilder();
+        String newLine = "\n";
+
+        builder.append("{").append(newLine);
+        int i = 0;
+        for (String value: values) {
+
+            if(i == ids.length) { break; }
+            builder.append(ids[i]).append(":").append(value).append( ids.length-1 != i ? ","+newLine : newLine);
+            i++;
+
+        }
+        builder.append("}");
+
+        return builder.toString();
     }
 
     private static String getDealIds(HashMap<String, String> paramMap) {
         return null;
     }
 
+    // ok
     private static Map<String, String> getAdFormat(String formats) {
-        return null;
+
+        // String formats = "1,2,3";
+        String[] arrFormats = StringUtils.split(formats, ",");
+        Map map = new HashMap();
+
+        for (String arrFormat : arrFormats) {
+            if (StringUtils.equalsIgnoreCase(arrFormat, "114")) {
+
+                map.put("aType", "6");
+                map.put("adspot", "Interstitial");
+
+                break;
+            } else if (StringUtils.equalsIgnoreCase(arrFormat, "110") || StringUtils.equalsIgnoreCase(arrFormat, "111")
+                    || StringUtils.equalsIgnoreCase(arrFormat, "112") || StringUtils.equalsIgnoreCase(arrFormat, "116")
+                    || StringUtils.equalsIgnoreCase(arrFormat, "118")) {
+
+                map.put("aType", "6 & 10");
+
+                break;
+            }
+        }
+
+        if (map.isEmpty()) {
+            map.put("aType", "6");
+        }
+
+        return map;
     }
 
     private static String getSeatsByDealId(Map<String, String> map) {
@@ -187,21 +291,24 @@ public class Test {
         return null;
     }
 
+    // ok
     public static boolean isValidIP(String ipStr) {
-        return true;
+        String regex = "^(\\d{1,3})\\.(\\d{1,3})\\.(\\d{1,3})\\.(\\d{1,3})$";
+        return Pattern.matches(regex, ipStr);
     }
 
-    private static String getFloorPrice(String floorPrice) {
-        return null;
-    }
-
+    // ok
     private static String getFloorPrice(String floorKey, String floorValue) {
-        return null;
+
+        if(!StringUtils.equalsIgnoreCase(floorKey, "floorcur")) {
+            if(StringUtils.indexOf(floorValue,"=") > 0) {
+                floorValue = StringUtils.substringAfter(floorValue, "=");
+            }
+        }
+
+        return floorValue;
     }
 
-    private static Set<String> extractUrlFromBeacon(String imp) {
-        return null;
-    }
 
     private static String audioResponse() {
         return null;
@@ -211,13 +318,15 @@ public class Test {
         return null;
     }
 
-    static void getLongV(long l) {
 
-    }
-
+    // ok
     public static <E> void printArray(E[] inputArray) {
+        for (E element: inputArray) {
+            System.out.println(element);
+        }
 
     }
+
 
     private static String unityNoBidResponseMessage(String requestId) {
         return null;
@@ -231,6 +340,7 @@ public class Test {
         return null;
     }
 
+    // ok
     private static int getIntTestV(int a, int b) {
 
         if(a == 4) {
@@ -248,9 +358,12 @@ public class Test {
 
     public static void main(String[] args)  {
 
-
+        System.out.println(getDoubleAdRequestParameter("1.0", 2.0));
         System.out.println(adxNativeResponse().toString());
         System.out.println(getIntTestV(12, 18));
+        extractUrlFromBeacon();
+        System.out.println(getAdType(JSONObject.fromObject("{ \"api\": [3] }")));
+        System.out.println(isValidIP("124.29.217.7"));
 
     }
 
