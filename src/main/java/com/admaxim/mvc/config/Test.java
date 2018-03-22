@@ -1,6 +1,7 @@
 package com.admaxim.mvc.config;
 
 import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.regex.Pattern;
@@ -266,8 +267,11 @@ public class Test {
         return null;
     }
 
+    // current time-stamp
     public static String getCurrentTimeStamp() {
-        return null;
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.SSSZ");
+        Date date = new Date();
+        return simpleDateFormat.format(date);
     }
 
     /*
@@ -318,7 +322,6 @@ public class Test {
         return null;
     }
 
-
     // ok
     public static <E> void printArray(E[] inputArray) {
         for (E element: inputArray) {
@@ -336,8 +339,15 @@ public class Test {
         return 0;
     }
 
-    public static String[] getCategories(String cat) {
-        return null;
+    // 	IAB2-1, IAB2-2, IAB2-1, IAB2-2
+    // ok
+    public static ArrayList<String> getCategories(String cats) {
+
+        ArrayList<String> catsList = new ArrayList<>();
+        for (String cat : cats.split(",")) {
+            catsList.add(cat.trim());
+        }
+        return catsList;
     }
 
     // ok
@@ -358,12 +368,14 @@ public class Test {
 
     public static void main(String[] args)  {
 
-        System.out.println(getDoubleAdRequestParameter("1.0", 2.0));
-        System.out.println(adxNativeResponse().toString());
-        System.out.println(getIntTestV(12, 18));
-        extractUrlFromBeacon();
-        System.out.println(getAdType(JSONObject.fromObject("{ \"api\": [3] }")));
-        System.out.println(isValidIP("124.29.217.7"));
+//        System.out.println(getDoubleAdRequestParameter("1.0", 2.0));
+//        System.out.println(adxNativeResponse().toString());
+//        System.out.println(getIntTestV(12, 18));
+//        extractUrlFromBeacon();
+//        System.out.println(getAdType(JSONObject.fromObject("{ \"api\": [3] }")));
+//        System.out.println(isValidIP("124.29.217.7"));
+//        System.out.println(getCategories("IAB2-1, IAB2-2, IAB2-1, IAB2-2"));
+        System.out.println(getCurrentTimeStamp());
 
     }
 

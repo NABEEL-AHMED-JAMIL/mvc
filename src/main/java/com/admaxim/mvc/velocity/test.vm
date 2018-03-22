@@ -1,5 +1,22 @@
 {
-    "name" : "$arbic"
-
-
+    "id": "ded06290-f586-45c6-bbcb-015adba03e39",
+    "name" : "$arbic",
+    "imp": [{
+        "id": "1",
+        "video": {
+            "mimes": ["video/mp4", "video/webm; codecs=vp8, vorbis", "application/javascript"],
+            "linearity": 1,
+            "minduration": 0,
+            "maxduration": 120,
+            "protocols": [2, 5, 3, 6],
+            "name" : "$arbic",
+            "w": 1280,
+            "h": 720,
+            "startdelay": 0,
+            "skip": 1,
+            "sequence": 1,
+            "playbackmethod": [1, 2, 3],
+             "api": [2]
+        }
 }
+

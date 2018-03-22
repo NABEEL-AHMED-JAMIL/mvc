@@ -8,7 +8,6 @@ import java.util.Properties;
 
 public class Velocity {
 
-
     private VelocityEngine velocityEngine;
     private static Velocity ourInstance = new Velocity();
 
@@ -46,5 +45,6 @@ public class Velocity {
 
     public StringWriter getWriter() { return new StringWriter(); }
     public VelocityContext getVelocityContext() { return new VelocityContext(); }
+
 
 }

@@ -7,7 +7,6 @@ import java.util.HashMap;
 
 public class ErrorFilnd {
 
-
     public final Double defaultValue = 2.0;
 
     public static void main(String[] args) {
