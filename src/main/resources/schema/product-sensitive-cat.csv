@@ -1,0 +1,496 @@
+10001 Vehicles,IAB2,Automotive
+10002 Family & Community,IAB6,Family & Parenting
+10003 Real Estate,IAB21,Real Estate
+10004 Business & Industrial,IAB3,Business
+10005 Beauty & Personal Care,IAB18-1,Style & Fashion
+10006 Occasions & Gifts,IAB22,Shopping
+10007 Internet & Telecom,IAB19-18,Internet Technology
+10009 Home & Garden,IAB10,Home & Garden
+10010 Food & Groceries,IAB8,Food & Drink
+10011 Health,IAB7,Health & Fitness
+10012 Finance,IAB13,Personal Finance
+10013 Arts & Entertainment,IAB1,Arts & Entertainment
+10014 Sports & Fitness,IAB17,Sports
+10015 Hobbies & Leisure,IAB9,Hobbies & Interests
+10016 Jobs & Education,IAB5,Education
+10017 Travel & Tourism,IAB20,Travel
+10018 Law & Government,IAB11,Law Government & Politics
+10019 Computers & Consumer Electronics,IAB19,Technology & Computing
+10020 Dining & Nightlife,IAB8-9,Dining Out
+10021 Apparel,IAB18-5,Clothing
+10024 Motor Vehicles,IAB2,Automotive
+10026 Vehicle Parts & Accessories,IAB2,Automotive
+10027 Boats & Watercraft,IAB17-31,Sailing
+"10030 Baby, Parenting & Family",IAB6,Family & Parenting
+10031 Romance & Relationships,IAB14-1,Dating
+10032 Rental Listings,IAB21,Real Estate
+10035 Relocation & Household Moving,IAB21,Lifestyle
+10039 Property Development,IAB21,Real Estate
+10040 Real Estate Agents & Brokerages,IAB21,Real Estate
+10042 Real Estate Listings,IAB21,Real Estate
+10047 Skin Care,IAB7,Health & Fitness
+10048 Tanning & Sun Care,IAB7,Health & Fitness
+10049 Spa & Medical Spa,IAB20-24,Spas
+10050 Anti-Aging,IAB18-1,Beauty
+10052 Baby Care & Hygiene,IAB6-2,Babies & Toddlers
+10054 Make-Up & Cosmetics,IAB18-1,Beauty
+10055 Hair Care,IAB18-1,Beauty
+10057 Perfumes & Fragrances,IAB18-3,Fashion
+10058 Shaving & Grooming,IAB18-1,Beauty
+10059 Oral Care,IAB7,Health & Fitness
+10060 Hygiene & Toiletries,IAB7,Health & Fitness
+10061 Face Care,IAB18-1,Beauty
+10080 Tobacco,IAB7,Health & Fitness
+10081 Household Supplies,IAB10-1,Household Supplies
+10082 Food,IAB8,Food & Drink
+10083 Beverages,IAB8,Food & Drink
+10084 Online Grocery Shopping & Grocery Delivery,IAB22,Shopping
+10085 Health Conditions & Concerns,IAB7,Health & Fitness
+10086 Nutrition & Dieting,IAB7,Health & Fitness
+"10087 Medical Devices, Equipment & Supplies",IAB7,Health & Fitness
+10088 Biotech & Pharmaceutical,IAB7,Health & Fitness
+10089 Pharmacy,IAB7,Health & Fitness
+10090 Professional Medical Resources,IAB7,Health & Fitness
+10091 Health Care Services,IAB7,Health & Fitness
+10092 Financial Planning & Management,IAB13-4,Financial Planning
+10093 Banking,IAB13,Personal Finance
+10094 Money Transfer & Wire Services,IAB13,Personal Finance
+10095 Investing,IAB13-7,Personal Finance
+10096 Business Finance,IAB3,Business
+10097 Credit & Lending,IAB13,Personal Finance
+10098 Business News & Media,IAB3,Business
+"10099 Grants, Scholarships & Financial Aid",IAB4,Education
+10102 Insurance,IAB13-6,Insurance
+10103 TV & Video,IAB1-7,Television
+10105 Entertainment Industry,IAB19-29,Entertainment
+10106 Humor & Jokes,IAB1-4,Humor
+"10108 News, Media & Publications",IAB12,News
+10109 Music & Audio,IAB1-6,Music
+"10111 Events, Shows & Cultural Attractions",IAB1,Arts & Entertainment
+10112 Books & Literature,IAB1-1,Arts & Entertainment
+10113 Camping & Outdoor Recreation,IAB20-9,Camping
+10115 Sports & Fitness Apparel,IAB17,Sports
+10116 Sports Fan Gear & Apparel,IAB17,Sports
+10117 Boating & Water Recreation,IAB17,Sports
+10118 Sports Nutrition Supplements,IAB17,Sports
+10120 Sports Equipment Rental Services,IAB17,Sports
+10121 Sporting Goods,IAB17,Sports
+10123 Fitness,IAB7,Health & Fitness
+10125 Toys & Games,IAB9,Hobbies & Interests
+10127 Occult & Paranormal,IAB9-20,Magic & Illusion
+10128 Cooking,IAB8-12,Health/Lowfat Cooking                                                   
+10130 Pets & Animals,IAB16,Pets
+10131 Arts & Crafts,IAB9-2,Arts & Crafts
+10132 Photo & Video,IAB9-23,Photography
+10133 Ancestry & Genealogy,IAB9-14,Genealogy
+10135 Antiques & Collectibles,IAB9,Hobbies
+10137 Gambling,IAB24,Uncategorized
+10141 Education & Training,IAB5,Education
+10142 Accommodations,IAB20,Travel
+10144 Air Travel,IAB20-3,Air Travel
+10145 Tourist Attractions & Destinations,IAB20,Travel
+10146 Transportation & Excursions,IAB20,Travel
+10147 Last Minute Travel,IAB20,Travel
+10150 Specialty Travel,IAB20,Travel
+10151 Travel Booking Services,IAB20,Travel
+10153 Cruises & Cruise Services,IAB20-12,Cruises
+10154 Vacation Packages,IAB20,Travel
+10159 Military,IAB4,Careers
+10160 Public Services,IAB11,Law Government & Politics
+10163 Legal,IAB11-2,Legal Issues
+10167 Consumer Electronics,IAB19,Technology & Computing                                              
+10168 Computers,IAB19,Technology & Computing                                              
+10169 Restaurants,IAB8,Food & Drink
+10171 Jewelry,IAB9-19,Jewelry Making
+10176 Clothing,IAB18-5,Clothing
+10177 Footwear,IAB18-5,Clothing
+10182 Motorcycles,IAB2,Automotive
+10183 Campers & RVs,IAB2,Automotive
+10185 Cars & Trucks,IAB2,Automotive
+10191 Driving Instruction & Driver Education,IAB5,Education
+10193 Vehicle Repair & Maintenance,IAB2,Automotive
+10206 Vehicle Tires & Tire Parts,IAB2,Automotive
+10209 Car Parts & Accessories,IAB2,Accessories
+10224 Alcohol & Substance Abuse,IAB7-42,Substance Abuse
+10227 Social Issues & Advocacy,IAB11,Law Government & Politics
+10231 Faith & Belief,IAB23,Religion & Spirituality
+10235 Baby,IAB6-2,Babies & Toddlers
+10236 Parenting & Family,IAB6,Family & Parenting
+10238 Divorce & Separation,IAB14-2,Divorce Support
+10273 Design & Engineering,IAB3,Business
+10282 Building Construction & Maintenance,IAB3-5,Construction
+10294 Scientific Equipment & Services,IAB3,Business
+10295 Energy Industry,IAB3,Business
+10296 Business Management Software,IAB3-4,Business
+10299 Security Equipment & Services,IAB3,Business
+10300 Office,IAB3,Business
+10301 Food Service Industry,IAB3,Business
+10302 Industrial Electronics,IAB3,Business
+10306 Plant & Facility,IAB3,Business
+10307 Commercial & Industrial Printing,IAB3,Business
+10338 Shampoos & Conditioners,IAB18,Style & Fashion
+"10355 Antiperspirants, Deodorants & Body Spray",IAB18,Style & Fashion
+10356 Feminine Hygiene Products,IAB18,Style & Fashion
+10362 Flower Arrangements,IAB10,Home & Garden
+10364 Cards & Greetings,IAB9,Hobbies & Interests
+10365 Gifts,IAB9,Hobbies & Interests
+10366 Funerals & Bereavement,IAB24 ,Uncategorized
+10368 Parties & Party Supplies,IAB8,Food & Drink
+10369 Weddings,IAB14-7,Weddings
+10399 Residential Cleaning,IAB10,Home & Garden
+10404 Home Improvement & Maintenance,IAB10,Home & Garden
+10405 Home Decor & Interior Decorating,IAB10-7,Home & Garden
+"10406 Yard, Garden & Patio",IAB10,Home & Garden
+10407 Water Filters,IAB10,Home & Garden
+10410 Kitchen & Dining,IAB10,Home & Garden
+10411 Home Safety & Security,IAB10,Home & Garden
+10412 Home Appliances,IAB10,Home & Garden
+10413 Home Furniture,IAB10,Home & Garden
+10418 Home Heating & Cooling,IAB10,Home & Garden
+10419 Lights & Lighting,IAB10,Home & Garden
+10421 Paper Towels & Household Paper Products,IAB10,Home & Garden
+10422 Food Wraps & Food Storage,IAB8,Food & Drink
+10423 Household Cleaning Products,IAB10,Home & Garden
+10431 Sauces,IAB8,Food & Drink
+10432 Baked Goods,IAB8,Food & Drink
+10434 Baking Ingredients,IAB8,Food & Drink
+10435 Snack Foods,IAB8,Food & Drink
+10436 Desserts,IAB8-8,Desserts & Baking
+10437 Meat & Poultry,IAB8,Food & Drink
+"10438 Candy, Gum & Mints",IAB8,Food & Drink
+10439 Breakfast Foods,IAB8,Food & Drink
+10440 Dairy & Non-Dairy Alternatives,IAB8,Food & Drink
+10444 Non-Alcoholic Beverages,IAB8,Food & Drink
+10445 Alcoholic Beverages,IAB8-18,Wine
+10446 Allergy & Sinus,IAB7-4,Health & Fitness
+10449 Eating Disorders,IAB7,Health & Fitness
+10452 Cold Sores,IAB7-15,Health & Fitness
+10453 Smoking & Smoking Cessation,IAB7-41,Smoking Cessation
+10454 Warts,IAB7,Health & Fitness
+10456 Digestive Health & Disorders,IAB7,Health & Fitness
+10460 Vision,IAB7,Health & Fitness
+10464 Cancer & Cancer Treatment,IAB7-11,Health & Fitness
+10465 Geriatrics & Aging,IAB7,Health & Fitness
+10466 Hemorrhoids,IAB7,Health & Fitness
+10467 Hepatitis,IAB7,Health & Fitness
+10468 Infectious Diseases & Viruses,IAB7,Health & Fitness
+10469 Learning & Developmental Disabilities,IAB5,Education
+10473 Skin Conditions & Skin Health,IAB7,Health and Fitness
+10474 Neurological Conditions,IAB7,Health and Fitness
+10475 Heart Health,IAB7-24,Health & Fitness
+10476 AIDS & HIV,IAB7-3,AIDS/HIV
+10479 Arthritis,IAB7-6,Arthritis
+10480 Men's Health,IAB7-31,Men’s Health
+10481 Hearing Loss,IAB7,Health & Fitness
+10483 Blood Sugar & Diabetes,IAB7,Health & Fitness
+10486 Headache & Pain Management,IAB7-23,Headaches/Migraines
+10487 Dental Health,IAB7-17,Dental Care
+10488 Mental Health,IAB7,Health & Fitness
+10491 Diets & Diet Programs,IAB7,Health and Fitness
+10493 First Aid Supplies,IAB7,Health & Fitness
+10494 Mobility Equipment & Accessories,IAB2,Automotive
+10504 Medical Research,IAB4,Careers
+10505 Professional Health Care Education,IAB5,Education
+10507 Alternative & Natural Medicine,IAB7,Health and Fitness
+10508 Plastic Surgery,IAB7,Health and Fitness
+10509 Laboratory Testing & Medical Diagnostic Services,IAB7,Health and Fitness
+10511 Physical Rehabilitation,IAB7,Health & Fitness
+10515 Vision Services,AIB7,Health and Fitness
+10518 Mental Health Services,IAB7,Health & Fitness
+10519 Orthopedics & Sports Medicine,IAB7-33,Orthopedics
+10520 Hospitals & Health Clinics,IAB7,Health & Fitness
+10531 Real Estate Investments,IAB21,Real Estate
+10536 Student Loans,IAB13,Personal Finance
+10539 Life Insurance,IAB13,Personal Finance
+10544 Health Insurance,IAB13,Personal Finance
+10547 Property Insurance,IAB13,Personal Finance
+10550 Vehicle Insurance,IAB13,Personal Finance
+10557 TV Shows & Programs,IAB1-7,Television
+10566 TV Broadcasting,IAB1-7,Television
+10570 Radio,IAB9-24,Radio
+10578 Travel Media & Publications,IAB20,Travel
+10584 Celebrities & Entertainment News,IAB12,News
+10591 Music Streams & Downloads,IAB1-6,Music
+10598 Fantasy Sports,IAB9-26,Sci-Fi & Fantasy
+10603 Ticket Sales & Exchanges,IAB3,Business
+10609 Book Retailers,IAB1,Arts & Entertainment
+10611 E-Books,IAB1,Arts & Entertainment
+10615 Climbing,IAB17-8,Climbing
+10616 Hiking,IAB20,Travel
+10619 Athletic Shoes,IAB17,Sports
+10628 Fishing,IAB17,Sports
+10645 Bicycles & Accessories,IAB2,Automotive
+10648 Airsoft Equipment,IAB17,Sports
+10653 Golf Equipment,IAB17-15,Golf
+10666 Fitness Classes & Instruction,IAB7,Health and Fitness
+10668 Gyms & Gym Memberships,IAB17,Sports
+10669 Personal Training,IAB17,Sports
+10671 Toys,IAB9,Hobbies & Interests
+10672 Games,IAB9,Hobbies & Interests
+10679 Recipes,IAB8,Food & Drink
+10683 Pet Food & Supplies,IAB16,Pets
+10691 Digital Cameras,IAB19-5,Cameras & Camcorders                                                   
+10692 Video Cameras & Camcorders,IAB19-5,Cameras & Camcorders                                                   
+10693 Photo & Video Accessories,IAB19-5,Cameras & Camcorders                                                   
+10746 Job Listings,IAB4,Careers
+10752 Online Education & Degree Programs,IAB5,Education
+10754 Standardized & Admissions Tests,IAB4,Careers
+10756 Reference Materials & Resources,IAB12,News
+10757 Language Education,IAB5-8,Language Learning
+10758 Training & Certification,IAB19,Technology & Computing                                             
+10759 Vocational Training & Trade Schools,IAB5-15,Studying Business
+10761 Tutoring Services,IAB5,Education
+"10763 Colleges, Universities & Post-Secondary Education",IAB5,Education
+"10769 Hotels, Motels & Resorts",IAB20-18,Hotels
+10770 Vacation Rentals,IAB20,Travel
+10776 Luggage,IAB20,Travel
+"10778 Airline Tickets, Fares & Flights",IAB20,Travel
+10782 Car Rental Services,IAB2,Automotive
+10783 Bus & Rail Services,IAB2,Automotive
+10784 Taxi Services,IAB2,Automotive
+10829 Public Utilities,IAB11,Law Government & Politics
+10857 Immigration Law,IAB11-1,Immigration
+10872 Consumer Electronic Accessories,IAB18,Technology & Computing
+10873 Home Audio & Video,IAB 19,Cameras & Camcorders                                                   
+10876 Wireless Devices,IAB19,Technology & Computing                                              
+10877 Portable Media Devices,IAB19-28,Technology & Computing                                              
+10878 Telephony,IAB19,Technology & Computing                                              
+10880 GPS & Navigation,IAB19,Technology & Computing                                              
+10881 Car Audio & Video,IAB19,Technology & Computing                                              
+10883 Computer Hardware,IAB19-9,Technology & Computing                                              
+10885 Software,IAB19,Technology & Computing                                         
+10886 Computer Accessories,IAB19,Accessories
+10889 Cuisines,IAB8-7,Food and Drink
+10890 Dine-In Restaurants,IAB8,Food and Drink
+10891 Fast Food Restaurants,IAB8,Food & Drink
+10899 Watches & Watch Accessories,IAB18-6,Accessories
+10913 Underwear,IAB18-5,Clothing
+10920 Formal Wear,IAB18,Style & Fashion
+10923 Plus Size Clothing,IAB18-5,Clothing
+10925 Sleepwear,IAB18,Style & Fashion
+10963 Hybrid & Alternative Vehicles,IAB2,Automotive
+11005 Work & Labor Issues,IAB11,Law Government & Politics
+11006 Reproductive Rights,IAB11,Law Government & Politics
+11008 Environmental Activism,IAB11,Law Government & Politics
+11009 Animal Rights Activism,IAB11,Law Government & Politics
+11020 Baby Diapering & Toilet Training,IAB6,Family & Parenting
+11022 Baby Feeding,IAB6,Family & Parenting
+11028 Maternity & New Parent,IAB6,Family & Parenting
+11093 Accounting & Auditing,IAB13,Personal Finance
+11099 Office & Facilities Management,IAB13,Personal Finance
+11141 Commercial & General Contracting,IAB13,Personal Finance
+11270 Project Management Software,IAB19,Technology & Computing                                              
+11284 HVAC & Climate Control,IAB15,Science
+11287 Hardware Tools & Accessories,IAB19,Technology & Computing                                              
+11321 Security Weapons,IAB26,Illegal Content
+11339 Office Appliances,IAB24,Uncategorized
+11368 Graphics & Multimedia Software,IAB19,Technology & Computing                                          
+11412 Hand & Body Soaps & Cleansers,IAB7,Health and Fitness
+11491 Internet Service Plans,IAB19,Technology & Computing                                           
+11493 Web Design & Development,IAB19,Technology & Computing                                              
+11496 Social Networks & Online Communities,IAB19,Technology & Computing                                          
+11504 Web Hosting,IAB19,Technology & Computing                                              
+11511 Mobile Phone Plans,IAB19,Technology & Computing                                               
+11527 Home Appliance Service & Repair,IAB10,Home & Garden
+11541 Outdoor Cooking Equipment & Accessories,IAB10,Home & Garden
+11567 Major Kitchen Appliances,IAB10,Home & Garden
+11589 Bedding & Linens,IAB10,Home & Garden
+11597 Dish Detergents,IAB10,Home & Garden
+11598 Air Fresheners & Deodorizers,IAB10,Home & Garden
+11604 Frozen Foods,IAB8,Food & Drink
+11629 Breakfast Cereals,IAB8,Food & Drink
+11642 Soft Drinks,IAB8,Food & Drink
+11643 Juice,IAB8,Food & Drink
+11644 Coffee,IAB8,Food & Drink
+11645 Tea,IAB8,Food & Drink
+11647 Energy Drinks,IAB8,Food & Drink
+11648 Sports Drinks,IAB8,Food & Drink
+11649 Wine,IAB8,Food & Drink
+11650 Liquor,IAB8,Food & Drink
+11651 Beer,IAB8,Food & Drink
+11669 Weight Loss Products,IAB7-44,Health & Fitness
+11695 Alzheimer's Disease,IAB7,Health & Fitness
+11710 Acne,IAB7-19,Dermatology
+11719 High Blood Pressure,IAB7,Health & Fitness
+11721 High Cholesterol,IAB7,Health & Fitness
+11772 Vitamins & Supplements,IAB7,Health & Fitness
+11773 Drugs & Medications,IAB7,Health & Fitness
+11780 Chiropractors & Chiropractic,IAB7,Health & Fitness
+11783 Cosmetic & Aesthetic Plastic Surgery,IAB7,Health & Fitness
+11793 Wellness Therapy & Massage,IAB7,Health & Fitness
+11813 Private Banking,IAB13,Personal Finance
+11814 Online Banking,IAB13,Personal Finance
+11816 Debit & Check Cards,IAB13-2,Credit/Debt & Loans
+11818 Fixed Deposit Accounts & Certificates,IAB13-7,Investing
+11819 Brokerages & Day Trading,IAB13,Personal Finance
+11820 Investor Relations & Venture Capital,IAB9-18,Investors & Patents
+11824 Retirement Investments,IAB13-10,Retirement Planning
+11825 Spread Betting,IAB13,Retirement Planning
+11827 Securities,IAB13,Personal Finance
+11828 Mutual Funds,IAB13-8,Mutual Funds
+11831 Currencies & Foreign Exchange,IAB13,Personal Finance
+11838 Credit Reports & Reporting Services,IAB13,Personal Finance
+11839 Debt Management & Consolidation,IAB13,Personal Finance
+11840 Unsecured Credit & Lending,IAB13,Personal Finance
+11841 Loans,IAB13,Personal Finance
+11842 Credit Cards,IAB13-2,Credit/Debt & Loans
+"11870 Dining & Nightlife Reviews, Guides & Listings",IAB8,Food & Drink
+11883 Sports Event Tickets & Ticketing Services,IAB17,Sports
+11901 Sports Team Jerseys,IAB17,Sports
+11917 Swimwear,IAB17,Sports
+11929 Building Toys,IAB9,Hobbies & Interests
+"11937 Children's Dolls, Dress-Up Toys & Costumes",IAB9,Hobbies & Interests
+11939 Radio Controlled Toys & Accessories,IAB18-6,Accessories
+11941 Action Figures,IAB9,Hobbies & Interests
+11942 Online Games & Puzzles,IAB19-30,Shareware/Freeware
+11943 Card Games,IAB9-7,Card Games
+11944 Puzzles & Brain Teasers,IAB9-5,Board Games/Puzzles
+11945 Roleplaying Games,IAB9-25,Roleplaying Games
+11946 Strategy Games,IAB9-26,Sci-Fi & Fantasy
+"11950 Video Games, Consoles & Accessories",IAB9-30,Video & Computer Games
+11963 Pet Food & Treats,IAB16,Pets
+11964 Pet Medications,IAB16-7,Veterinary Medicine
+"11965 Flea & Tick Control Products, Consoles & Accessories",IAB9,Hobbies & Interests
+11980 Pet Breeding,IAB16,Pets
+11987 Fiber Craft,IAB9,Hobbies & Interests
+12066 Resorts,IAB20,Travel
+12067 Hotels,IAB20-18,Hotels
+12083 Bus Services,IAB20,Travel
+12084 Rail Services,IAB20,Travel
+12110 Renewable & Alternative Energy,IAB3,Business
+12113 Oil & Gas,IAB3,Business
+12138 Speakers,IAB19,Technology & Computing
+12143 Televisions,IAB19,Technology & Computing
+12161 Mobile Phones,IAB19-6,Cell Phones
+12184 Computer Networking Devices,IAB19,Technology & Computing
+12187 Laptop Computers,IAB19,Technology & Computing
+12204 Internet Software & Web Goodies,IAB19,Technology & Computing
+12209 Business & Productivity Software,IAB3,Business
+12228 Pizzerias & Pizza Delivery,IAB8,Food & Drink
+"12240 Shirts, Tops & Blouses",IAB18-5,Clothing
+12261 Sunglasses,IAB18,Style & Fashion
+12263 Handbags & Purses,IAB18,Style & Fashion
+12387 Tax Preparation & Planning,IAB4,Careers
+12494 Medical Diagnostic Equipment & Monitoring Devices,IAB7,Health & Fitness
+12590 Power Tools,IAB19,Technology & Computing
+12701 Photo Software,IAB19,Technology & Computing
+12757 RSS Feeds & Aggregators,IAB24,Uncategorized
+12766 Cable TV,IAB19,Technology & Computing
+12767 Satellite TV,IAB19,Technology & Computing
+12777 Garden Structures,IAB10-4,Gardening
+12795 Washers & Dryers,IAB10,Home & Garden
+12797 Vacuum Cleaners & Accessories,IAB18-6,Accessories
+12828 Laundry Detergents,IAB10,Home & Garden
+12849 Air Cleaners & Filters,IAB10-3,Home & Garden
+12864 Weight Loss Drugs & Medications,IAB7-44,Weight Loss
+12865 Weight Loss Supplements,IAB7-44,Weight Loss
+12866 Eyeglass Frames,IAB13,Health & Fitness
+12867 Contact Lenses & Accessories,IAB18-6,Accessories
+12926 Multi-Vitamins,IAB7,Health & Fitness
+12950 401(K)s,IAB13,Personal Finance
+12952 IRAs,IAB13,Personal Finance
+12956 Commercial Lending,IAB13,Personal Finance
+12957 Auto Financing,IAB13,Personal Finance
+12960 Home Loans & Mortgages,IAB13,Personal Finance
+12961 Personal Lending & Borrowing,IAB13,Personal Finance
+12997 Massive Multiplayer Online Games,IAB9,Hobbies & Interests
+13092 Network Security Software,IAB19,Technology & Computing
+13094 Email & Messaging,IAB19-15,Email
+13116 Jerseys & Knit Shirts,IAB18-5,Clothing
+13250 Pest & Weed Control,IAB10,Home & Garden
+13260 Mattresses,IAB10,Home & Garden
+13283 Commercial Mortgages,IAB13,Personal Finance
+13284 Auto Leasing,IAB13,Personal Finance
+13286 Title Loans,IAB13,Personal Finance
+13289 Interest Only Mortgages,IAB13,Personal Finance
+13291 Government Mortgages,IAB13,Personal Finance
+13292 Buy-To-Let Mortgages,IAB13,Personal Finance
+13293 Fixed Rate Mortgages,IAB13,Personal Finance
+13296 Home Equity Loans & Lines of Credit,IAB13,Personal Finance
+13299 Home Refinancing Loans,IAB13,Personal Finance
+13300 Payday & Emergency Loans,IAB13,Personal Finance
+13301 Personal Loans & Lines of Credit,IAB13,Personal Finance
+13314 Anti-Virus Software,IAB19-3,Antivirus Software
+13369 Gene Research,IAB9-14,Genealogy
+13372 Screensavers & Digital Wallpaper,IAB9,Hobbies & Interests
+"13374 Trees, Plants & Shrubs",IAB10-4,Home & Garden
+13376 Video Game Consoles,IAB9-30,Video & Computer Games
+13377 Computer & Video Games,IAB9-30,Video & Computer Games
+13381 Mobile Phones & Accessories,IAB19-6,Technology & Computing
+13388 Visual Art & Design,IAB1,Arts & Entertainment
+13405 Prizes & Competitions,IAB9,Hobbies & Interests
+13406 Web Browsers,IAB19,Technology & Computing
+13417 Movies & Films,IAB1-5,Movies
+13418 Internet,IAB19-18,Internet Technology
+13419 Phone Plans,IAB19-6,Cell Phones
+13422 Body Art,IAB18-2,Body Art
+13423 Guns & Firearms,IAB26,Illegal Content
+13425 Fun & Trivia,IAB1,Arts & Entertainment
+13426 Weather,IAB15-10,Weather
+13428 Multi-tools & Pocket Knives,IAB9,Hobbies & Interests
+13432 Translation,IAB12,News
+"13439 Nightclubs, Bars & Music Clubs",IAB8,Food & Drink
+13459 Stocks,IAB13-11,Stocks
+13464 Industrial Goods & Manufacturing,IAB3,Business
+13469 Astrology & Horoscopes,IAB15-1,Astrology
+13470 Psychics & Fortune Telling,IAB6,Family & Parenting
+13472 Christianity,IAB23-5,Christianity
+13473 Islam,IAB23-7,Islam
+13474 Buddhism,IAB23-3,Buddhism
+13475 Hinduism,IAB23-6,Hinduism
+13476 Judaism,IAB23-8,Judaism
+13479 Scientology,IAB23,Religion & Spirituality
+13489 Fun Tests & Silly Surveys,IAB1,Arts & Entertainment
+13491 Chemical Industry,IAB3,Business
+13493 Special Occasions,IAB8,Food & Drink
+13496 Theme Parks,IAB20,Travel
+13509 Holidays & Seasonal Events,IAB20,Travel
+13525 Horror Films,IAB1,Arts & Entertainment
+13530 Arts & Entertainment Awards,IAB1,Arts & Entertainment
+13536 Film & TV Industry,IAB1-5,Movies
+13566 Offbeat,IAB1,Arts & Entertainment
+13567 Edgy & Bizarre,IAB1,Arts & Entertainment
+13584 Adventure Games,IAB9,Hobbies & Interests
+13589 Shooter Games,IAB9,Hobbies & Interests
+13590 Simulation Games,IAB9,Hobbies & Interests
+13596 Photographic & Digital Arts,IAB9-23,Photography
+13605 Sports,IAB17,Sports
+13606 American Football,IAB17,Sports
+13608 Soccer,IAB17-44,World Soccer
+13609 Basketball,IAB17-26,Pro Basketball
+13610 Baseball,IAB17-2,Baseball
+13611 Hockey,IAB17-27,Pro Ice Hockey
+13612 Hunting & Shooting,IAB17-18,Hunting/Shooting
+13620 Winter Sports,IAB17,Sports
+13633 Combat Sports,IAB17,Sports
+13647 Newspapers,IAB12,News
+13655 Vehicle Dealers,IAB2,Automotive
+13656 Car Dealers,IAB2-3,Buying/Selling Cars
+13657 Boat & Yacht Sales & Brokers,IAB13,Personal Finance
+13658 Gardening,IAB10,Home & Garden
+"13680 Sweepstakes, Product Promotions & Giveaways",IAB9,Hobbies
+13686 Attorneys & Law Firms,IAB11,Law
+13710 People Search,IAB19,Internet
+13714 Used Motor Vehicles,IAB2,Automotive
+13716 Public Records,IAB11,Law Government & Politics
+13722 Cleansing & Detoxification,IAB7,Health
+13725 Web Portals,IAB19-33,Web Clip Art
+13740 Halloween & October 31st,IAB23,Religion & Spirituality
+13760 Cartoons,IAB19-2,Animation
+13767 Poker & Casino Games,IAB24,Uncategorized
+13768 Domain Names & Domain Name Registration,IAB19,Internet
+13778 Men's Clothing,IAB18-5,Clothing
+13779 Women's Clothing,IAB18-5,Clothing
+13780 Children's Clothing,IAB18-5,Clothing
+13797 Building Materials & Supplies,IAB3-5,Construction
+13801 Audio Books,IAB12,News
+13863 Action & Platform Games,IAB9-26,Sci-Fi & Fantasy
+13934 Mobile App Utilities,IAB19-26,Palmtops/PDAs
+13935 Mobile System Management Apps,IAB19-26,Palmtops/PDAs
+13936 Flashlight Apps,IAB19-26,Palmtops/PDAs
+13937 Location Tracking Apps,IAB19-26,Palmtops/PDAs
+13938 Network Connectivity Apps,IAB19-26,Palmtops/PDAs
+13939 Mobile Screen & App Locks,IAB19-26,Palmtops/PDAs
+13940 Battery Management Apps,IAB19-26,Palmtops/PDAs
+13941 File Manager Apps,IAB19-26,Palmtops/PDAs
+13942 Mobile Task & App Management,IAB19-26,Palmtops/PDAs

@@ -53,6 +53,12 @@
 			<artifactId>standard</artifactId>
 			<version>1.1.2</version>
 		</dependency>
+        <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.4</version>
+        </dependency>
 		<!-- Tomcat for JSP rendering -->
 		<!--<dependency>-->
 			<!--<groupId>org.apache.tomcat.embed</groupId>-->
@@ -60,6 +66,13 @@
 			<!--<scope>provided</scope>-->
 		<!--</dependency>-->
 		<!-- Add JPA support -->
+
+
+		<dependency>
+			<groupId>net.sf.opencsv</groupId>
+			<artifactId>opencsv</artifactId>
+			<version>2.0</version>
+		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
 		<dependency>
 			<groupId>com.google.guava</groupId>

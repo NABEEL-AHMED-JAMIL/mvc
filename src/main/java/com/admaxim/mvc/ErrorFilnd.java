@@ -11,7 +11,6 @@ public class ErrorFilnd {
 
     public static void main(String[] args) {
 
-
         String value = "1.0,1.0";
         System.out.println(new ErrorFilnd().getDoubleAdRequestParameter(value));
         String[] category = null;
