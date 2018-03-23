@@ -1,0 +1,103 @@
+{
+    "id": "request#1",
+    "at": 2,
+    "allimps": 0,
+    "imp": [
+        {
+            "id": "1",
+            "bidfloorcur": "USD",
+            "pmp": {
+                "private_auction": 0,
+                "deals": []
+            },
+            "banner": {
+                "w": 320,
+                "h": 320,
+                "pos": 4,
+                "battr": [
+                    8,
+                    9,
+                    10
+                ],
+                "id": "banner_1",
+                "wmax": 320,
+                "hmax": 320,
+                "wmin": 300,
+                "hmin": 50,
+                "btype": [
+                    3,
+                    4
+                ]
+            },
+            "tagid": "9318941052",
+            "bidfloor": 0
+        }
+    ],
+    "device": {
+        "dnt": 0,
+        "geo": {
+            "country": "NLD",
+            "city": "amsterdam",
+            "lat": 52.349998474121,
+            "lon": 4.916699886322,
+            "type": 2,
+            "regionfips104": "NL07"
+        },
+        "ua": "Mozilla/5.0 (Linux; U; Android 2.2.2; es-; GT-B7510 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1",
+        "ip": "213.127.223.58",
+        "make": "Samsung",
+        "model": "GT-B7510",
+        "os": "Android",
+        "osv": "2.2.2",
+        "carrier": "priority telecom",
+        "language": "en",
+        "connectiontype": 2,
+        "didsha1": "b02132081808b493c61e86626ee6c2e29326a662",
+        "didmd5": "1e4a1b03d1b6cd8a174a826f76e009f4",
+        "dpidsha1": "4b23cca8652f702663f43811943174f8e14d342b",
+        "dpidmd5": "a61a1432f40bac1e35f895776606fbce",
+        "ifa": "381293847023470238172"
+    },
+    "user": {
+        "id": "381293847023470238172",
+        "yob": 1980,
+        "gender": "M"
+    },
+    "site": {
+        "id": "3427",
+        "name": "Catherine test site",
+        "domain": "http://",
+        "cat": [
+            "IAB1",
+            "IAB15-7",
+            "IAB2-22",
+            "IAB8-6",
+            "IAB9-20"
+        ],
+        "publisher": {
+            "id": "8156041029",
+            "name": "MADS general test account"
+        },
+        "content": {
+            "id": "1",
+            "cat": [
+                "IAB1",
+                "IAB2-22",
+                "IAB8-6"
+            ],
+            "keywords": [
+                "Cars",
+                "Travelling",
+                "Happiness"
+            ],
+            "qagmediarating": 2,
+            "context": "5,6,6"
+        },
+        "ref": "http://developer.madsone.com/rtb/validator"
+    },
+    "wseat": [
+        "1",
+        "2",
+        "3"
+    ]
+}

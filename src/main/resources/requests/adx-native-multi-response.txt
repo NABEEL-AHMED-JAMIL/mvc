@@ -1,0 +1,118 @@
+ad {
+  adslot {
+    id: 1
+    max_cpm_micros: 5000
+    billing_id: 18292829446
+  }
+  click_through_url: "http://admaxim.com/press"
+  category: 0
+  buyer_creative_id: "1337_50"
+  width: 1200
+  height: 627
+  agency_id: 1
+  restricted_category: 0
+  native_ad {
+    headline: "MainIcon"
+    body: "Test of Main Icon Image"
+    call_to_action: "Download"
+    advertiser: "admaxim"
+    image {
+      url: "https://cdn.admaxim.com/50_040630110215114457.jpg"
+      width: 1200
+      height: 627
+    }
+    click_link_url: "https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z1337Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136105&creative_id=66496:1337"
+  }
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/view?id=Z1337Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136105&creative_id=66496:1337&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/imp?id=Z1337Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136105&creative_id=66496:1337&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://cm.g.doubleclick.net/pixel?google_nid=admaxim_emea&google_cm&cid=f8b0c9db-2dc1-4823-8d46-5700efd53332&google_hm=Q0FFU0VJR1NETXp5R0d0ZXFWUFltZWFMRklz"
+}
+ad {
+  adslot {
+    id: 1
+    max_cpm_micros: 5000
+    billing_id: 18292829446
+  }
+  click_through_url: "http://admaxim.com/press"
+  category: 0
+  buyer_creative_id: "1338_50"
+  width: 1200
+  height: 627
+  agency_id: 1
+  restricted_category: 0
+  native_ad {
+    headline: "MainIcon"
+    body: "Test of Main Icon Image"
+    call_to_action: "Download"
+    advertiser: "admaxim"
+    image {
+      url: "https://cdn.admaxim.com/50_040630110215114457.jpg"
+      width: 1200
+      height: 627
+    }
+    click_link_url: "https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z1338Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136110&creative_id=66496:1338"
+  }
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/view?id=Z1338Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136110&creative_id=66496:1338&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/imp?id=Z1338Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136110&creative_id=66496:1338&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://cm.g.doubleclick.net/pixel?google_nid=admaxim_emea&google_cm&cid=f8b0c9db-2dc1-4823-8d46-5700efd53332&google_hm=Q0FFU0VJR1NETXp5R0d0ZXFWUFltZWFMRklz"
+}
+ad {
+  adslot {
+    id: 1
+    max_cpm_micros: 5000
+    billing_id: 18292829446
+  }
+  click_through_url: "http://admaxim.com/press"
+  category: 0
+  buyer_creative_id: "1336_50"
+  width: 1200
+  height: 627
+  agency_id: 1
+  restricted_category: 0
+  native_ad {
+    headline: "MainIcon"
+    body: "Test of Main Icon Image"
+    call_to_action: "Download"
+    advertiser: "admaxim"
+    image {
+      url: "https://cdn.admaxim.com/50_040630110215114457.jpg"
+      width: 1200
+      height: 627
+    }
+    click_link_url: "https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z1336Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136115&creative_id=66496:1336"
+  }
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/view?id=Z1336Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136115&creative_id=66496:1336&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/imp?id=Z1336Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136115&creative_id=66496:1336&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://cm.g.doubleclick.net/pixel?google_nid=admaxim_emea&google_cm&cid=f8b0c9db-2dc1-4823-8d46-5700efd53332&google_hm=Q0FFU0VJR1NETXp5R0d0ZXFWUFltZWFMRklz"
+}
+ad {
+  adslot {
+    id: 1
+    max_cpm_micros: 5000
+    billing_id: 18292829446
+  }
+  click_through_url: "http://admaxim.com/press"
+  category: 0
+  buyer_creative_id: "795_50"
+  width: 1200
+  height: 627
+  agency_id: 1
+  restricted_category: 0
+  native_ad {
+    headline: "MainIcon"
+    body: "Test of Main Icon Image"
+    call_to_action: "Download"
+    advertiser: "admaxim"
+    image {
+      url: "https://cdn.admaxim.com/50_040630110215114457.jpg"
+      width: 1200
+      height: 627
+    }
+    click_link_url: "https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z795Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136118&creative_id=66496:795"
+  }
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/view?id=Z795Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136118&creative_id=66496:795&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/imp?id=Z795Z66496Z-1Z12968_com.popularapp.videodownloaderforinstagramZ50Z0Z0ZZ0.02Z0.015Z0.0Z0.005000000000000001ZsgZZZZsamsungZandroid_4.1.2Zgt-i8262Zf8b0c9db-2dc1-4823-8d46-5700efd53332Ziab1%2Ciab19%2Ciab19-17ZZagx3-gnx2Z0-0-Z-1Z1200x627Z88209552540818619102414118971531199ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1495433136118&creative_id=66496:795&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://cm.g.doubleclick.net/pixel?google_nid=admaxim_emea&google_cm&cid=f8b0c9db-2dc1-4823-8d46-5700efd53332&google_hm=Q0FFU0VJR1NETXp5R0d0ZXFWUFltZWFMRklz"
+}
+
+processing_time_ms: 172

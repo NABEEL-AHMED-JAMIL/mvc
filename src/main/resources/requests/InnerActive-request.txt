@@ -1,0 +1,78 @@
+{
+	"id": "7997983728781438024",
+	"imp": [{
+		"id": "1",
+		"secure": 0,
+		"banner": {
+			"id": "1",
+			"w": 320,
+			"h": 50,
+			"wmin": 320,
+			"hmin": 50,
+			"pos": 1,
+			"btype": [1, 4],
+			"battr": [3, 8, 9],
+			"topframe": 1,
+			"api": [],
+			"ext": {}
+		},
+		"instl": 0,
+		"bidfloor": 0.4643449419568823,
+		"bidfloorcur": "USD",
+		"ext": {}
+	}],
+	"app": {
+		"id": "605555",
+		"name": "iMusic iOS",
+		"cat": ["IAB1-6", "IAB1"],
+		"bundle": "1250358635",
+		"publisher": {
+			"id": "199414",
+			"name": "Performance platform supply",
+			"ext": {}
+		},
+		"storeurl": "https:\/\/itunes.apple.com\/us\/app\/imusic-free-player\/id1146245176?mt=8",
+		"ext": {}
+	},
+	"device": {
+		"dnt": 0,
+		"ua": "Mozilla\/5.0 (iPhone; CPU iPhone OS 10_3_2 like Mac OS X) AppleWebKit\/603.2.4 (KHTML, like Gecko) Mobile\/14F89",
+		"ip": "90.252.144.17",
+		"geo": {
+			"lat": 51.714996,
+			"lon": -3.454193,
+			"country": "GBR",
+			"region": "SOL",
+			"city": "Solihull",
+			"zip": "B91",
+			"type": 1,
+			"ext": {}
+		},
+		"dpidsha1": "",
+		"dpidmd5": "",
+		"carrier": "Vodafone Consumer Broadband",
+		"language": "en",
+		"make": "Apple",
+		"model": "iPhone",
+		"os": "iOS",
+		"osv": "10.3",
+		"w": 640,
+		"h": 1136,
+		"js": 1,
+		"connectiontype": 2,
+		"devicetype": 4,
+		"ifa": "",
+		"ext": {}
+	},
+	"user": {
+		"gender": ""
+	},
+	"regs": {
+		"coppa": 0
+	},
+	"at": 2,
+	"tmax": 250,
+	"bcat": ["IAB25", "IAB26"],
+	"badv": [],
+	"ext": {}
+}

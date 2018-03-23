@@ -1,0 +1,66 @@
+{
+	"app": {
+		"bundle": "977247771",
+		"cat": ["IAB1", "IAB1-6", "IAB3", "music", "productivity"],
+		"id": "8e2971d91f0f451f85d0de7ccec82f65",
+		"name": "Turbo Downloader - File Manager and Browser",
+		"publisher": {
+			"id": "7d9edc1c5a764ad2962803d0e6954237",
+			"name": "Mustafa Pehlivan"
+		},
+		"storeurl": "https://itunes.apple.com/us/app/turbo-downloader-file-manager/id977247771?mt=8\u0026uo=4",
+		"ver": "1.0.1"
+	},
+	"at": 2,
+	"bcat": ["IAB25", "IAB26", "IAB9-9"],
+	"device": {
+		"carrier": "234-30",
+		"connectiontype": 2,
+		"devicetype": 4,
+		"dnt": 0,
+		"geo": {
+			"city": "Lambeth",
+			"country": "GBR",
+			"region": "H1",
+			"zip": "SE1"
+		},
+		"h": 2208,
+		"hwv": "iPhone 6s+",
+		"ifa": "736CBEF8-9E7B-43E4-AD3B-A3ED7D7E845B",
+		"ip": "95.147.47.240",
+		"js": 1,
+		"language": "en",
+		"make": "Apple",
+		"model": "iPhone",
+		"os": "iOS",
+		"osv": "10.2.1",
+		"pxratio": 3.0,
+		"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_2_1 like Mac OS X) AppleWebKit/602.4.6 (KHTML, like Gecko) Mobile/14D27",
+		"w": 1242
+	},
+	"ext": {
+		"envisionx": {
+			"imp_price_available": true,
+			"ssp": 9
+		}
+	},
+	"id": "F6EE4BE5C869D774",
+	"imp": [{
+		"bidfloor": 0.220,
+		"displaymanager": "mopub",
+		"displaymanagerver": "4.11.0",
+		"ext": {
+			"brsrclk": 1,
+			"dlp": 1
+		},
+		"id": "1",
+		"instl": 0,
+		"native": {
+			"battr": [3, 6, 7, 8, 10, 14],
+			"request": "{\"native\":{\"assets\":[{\"data\":{\"len\":15,\"type\":12},\"id\":5,\"required\":0},{\"id\":3,\"img\":{\"hmin\":80,\"type\":1,\"wmin\":80},\"required\":1},{\"id\":2,\"img\":{\"h\":627,\"type\":3,\"w\":1200},\"required\":1},{\"data\":{\"len\":100,\"type\":2},\"id\":4,\"required\":1},{\"id\":1,\"required\":1,\"title\":{\"len\":25}}],\"layout\":6,\"seq\":2}}",
+			"ver": "1.0.0.2"
+		},
+		"secure": 1,
+		"tagid": "366d7d886aad4bf78a303eb0df3c80f1"
+	}]
+}

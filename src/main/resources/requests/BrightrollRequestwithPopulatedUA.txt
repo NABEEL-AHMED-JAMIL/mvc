@@ -1,0 +1,61 @@
+id: "WdrbT-lVMxXrUAOsnfHsDmghEv4B4"
+tmax: 90
+imp {
+  id: "1"
+  video {
+    mimes: MP4
+    linearity: LINEAR
+    minduration: 5
+    maxduration: 30
+    protocol: VAST_2_0
+    protocol: VAST_WRAPPER_2_0
+    api: NONE
+    w: 320
+    h: 240
+    startdelay: 0
+    maxbitrate: 400
+    playbackmethod: CLICK_TO_PLAY
+    delivery: PROGRESSIVE
+    pos: FULLSCREEN
+  }
+  instl: false
+}
+app {
+  id: "3852767"
+  name: "Mobile - Android app - Blip Blup"
+  cat: IAB9_30
+  privacypolicy: YES
+  paid: NO
+  storeurl: "https://play.google.com/store/apps/details?id=com.ustwo.blipblupfree"
+  content {
+    context: GAME
+    qagmediarating: ALL_AUDIENCES
+    embeddable: NO
+    language: "English"
+  }
+}
+device {
+  ip: "149.254.180.173"
+  ua: "Mozilla/5.0 (Linux; U; Android 2.3.5; en-gb; HTC Desire S Build/GRJ90) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1"
+  language: "En"
+  make: "HTC"
+  model: "HTC Desire S"
+  os: "android"
+  osv: "2.3.5"
+  connectiontype: CONNECTION_TYPE_UNKNOWN
+  devicetype: MOBILE_TABLET
+  dpidsha1: "6bb5d5cf4371fe6c2c21263c1b3f1cdad2b6d808"
+  dpidmd5: "b2024f93c23a97b4e68ee5dbaebbe839"
+}
+user {
+}
+ext {
+  is_skippable: NO
+  is_fullscreenexpandable: false
+  is_facebook: false
+  is_incentivized: NO
+  is_syndicated: NO
+  is_ugc: NO
+  max_wrapper_redirects: 1
+  inventory_class: SUPERPREMIUM
+}

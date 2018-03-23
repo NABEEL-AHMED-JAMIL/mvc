@@ -1,0 +1,91 @@
+{
+	"ext": {
+		"pchain": "INTOX:537135107"
+	},
+	"cur": ["USD"],
+	"user": {
+		"id": "7be9c364-5498-4cad-2350-27dc8a9ecac3"
+	},
+	"imp": [{
+		"banner": {
+			"ext": {
+				"matching_ad_id": [{
+					"ad_width": 728,
+					"ad_height": 90,
+					"creative_id": 538139382,
+					"placement_id": 537641083,
+					"campaign_id": 537307518
+				}]
+			},
+			"format": [{
+				"w": 160,
+				"h": 600
+			},
+			{
+				"w": 300,
+				"h": 600
+			}],
+			"h": 250,
+			"w": 300,
+			"battr": [1, 2, 6, 7, 9, 10, 14, 17]
+		},
+		"metric": [{
+				"vendor": "moat",
+				"type": "viewability",
+				"value": 0.89
+			}],
+		"id": "1",
+		"exp": 300,
+		"secure": 1
+	}],
+	"id": "71684eac-f084-4cc6-818a-281f9b4d09cf",
+	"regs": {
+		"ext": {
+			"sb568": 0
+		},
+		"coppa": 0
+	},
+	"test": 0,
+	"device": {
+		"ext": {
+			"language": ["en"],
+			"browser_version": "46",
+			"browser": "Firefox"
+		},
+		"language": "en",
+		"w": 1920,
+		"h": 1080,
+		"osv": "7",
+		"os": "Windows",
+		"model": "browser",
+		"make": "desktop",
+		"devicetype": 2,
+		"ip": "62.172.78.133",
+		"dnt": 0,
+		"geo": {
+			"ext": {
+				"continent": "europe"
+			},
+			"utcoffset": -60,
+			"zip": "rh13 9",
+			"city": "southwater",
+			"region": "GB-WSX",
+			"country": "GBR",
+			"type": 2,
+			"lon": -0.35,
+			"lat": 51.017
+		},
+		"ua": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0"
+	},
+	"site": {
+		"publisher": {
+			"id": "537135107"
+		},
+		"mobile": 1,
+		"ref": "https://forums.civfanatics.com/threads/4-strategy-games-to-play-before-you-die.455113/",
+		"page": "https://forums.civfanatics.com/threads/4-strategy-games-to-play-before-you-die.455113/page-2",
+		"cat": ["IAB9-30"],
+		"domain": "forums.civfanatics.com",
+		"id": "537259819"
+	}
+}

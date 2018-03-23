@@ -1,0 +1,56 @@
+id: "\240\352\245\330\242pI6;\323\t\321\023W\314\254"
+ip: "\217\321`"
+user_agent: "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.7pre) Gecko/20070815 Firefox/2.0.0.6 Navigator/9.0b3"
+detected_language: "en"
+detected_vertical {
+  id: 66
+  weight: 0.27461144
+}
+detected_vertical {
+  id: 380
+  weight: 0.20203647
+}
+detected_vertical {
+  id: 565
+  weight: 0.29779676
+}
+detected_vertical {
+  id: 22
+  weight: 0.86408406
+}
+detected_vertical {
+  id: 119
+  weight: 0.22816466
+}
+adslot {
+  id: 2
+  width: 120
+  height: 60
+  excluded_attribute: 8
+  excluded_attribute: 2
+  excluded_attribute: 7
+  allowed_vendor_type: 129
+  allowed_vendor_type: 226
+  allowed_vendor_type: 71
+  allowed_vendor_type: 234
+  allowed_vendor_type: 126
+  allowed_vendor_type: 312
+  allowed_vendor_type: 94
+  matching_ad_data {
+    adgroup_id: 42978630
+    minimum_cpm_micros: 330000
+    direct_deal {
+      direct_deal_id: 3140010176834633553
+      fixed_cpm_micros: 330000
+    }
+  }
+  publisher_settings_list_id: 90002303
+}
+is_test: true
+anonymous_id: "http://26.google.anonymous/"
+cookie_version: 1
+google_user_id: "gczwG6YZ_TlIWJm1aXPb9IeHKW0"
+cookie_age_seconds: 2294244
+postal_code: "2345"
+geo_criteria_id: 1002451
+publisher_settings_list_id: 90002301

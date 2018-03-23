@@ -1,0 +1,11 @@
+api_version: 12
+auction_id: "d4f775e7-7678-4c94-a12c-ab5644f7a330"
+results {
+  matching_ad_id {
+    campaign_id: 245180
+    placement_id: 783380
+    creative_id: 352050
+  }
+  status: win
+  clearing_price_micros: 1000000
+}

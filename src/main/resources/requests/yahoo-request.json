@@ -1,0 +1,74 @@
+{
+    "@xmlns": "urn:yahoo:amp:3pi:bidReq",
+    "@xmlns:bid": "urn:yahoo:amp:3pi:bidReqMain",
+    "@xmlns:fac": "urn:yahoo:amp:3pi:fac",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@version": "6.0",
+    "@xsi:schemaLocation": "urn:yahoo:amp:3pi:bidReq BidRequest.xsd",
+    "bidReqEnv": {
+        "@signature": "md5 SHA-1 hash of bidRequest",
+        "@signType": "SHA-1",
+        "@token": "1218078703"
+    },
+    "bidReq": {
+        "bid:bidCommon": {
+            "@xmlns:bid": "urn:yahoo:amp:3pi:bidReqMain",
+            "bid:oppId": "e33cc832-103d-11e1-bdf8-bf912fe33af1",
+            "bid:host": "ad.yieldmanager.com",
+            "bid:latency": "100",
+            "bid:adDimension": {
+                "bid:width": "300",
+                "bid:height": "250"
+            },
+            "bid:userAgent": "Mozilla/5.0 (Linux; X11; UTF-8)",
+            "bid:lang": "en",
+            "bid:exchangeId": "5e3049304390",
+            "bid:minQualBid": "1.2",
+            "bid:flashVer": "0",
+            "bid:isSecure": "0",
+            "bid:adPosition": "0",
+            "bid:pubUrl": "http://sports.yahoo.com/nba",
+            "bid:sellerId": "357890",
+            "bid:sectionId": "5962843",
+            "bid:pubChannel": {
+                "bid:pubChannelItem": [
+                    "sports",
+                    "fashion"
+                ]
+            },
+            "bid:age": "30",
+            "bid:gender": "u",
+            "bid:ip": "209.73.175.0",
+            "bid:country": "US",
+            "bid:userLocation": {
+                "bid:state": "CA",
+                "bid:metro": "803",
+                "bid:city": "Los Angeles"
+            },
+            "bid:mobileLocation": "\n12 45'56\"N,123 45'56\"E\n",
+            "bid:blocklistIds": "\n100000,100001,100002,100009,200000,200001,200002,200009\n",
+            "bid:sectionCode": "abc",
+            "bid:siteID": "123",
+            "bid:sellerSeatID": "123test"
+        },
+        "bid:advSet": {
+            "@xmlns:bid": "urn:yahoo:amp:3pi:bidReqMain",
+            "bid:adv": [
+                {
+                    "bid:advId": "123456",
+                    "bid:buyerLine": "6162843",
+                    "bid:revShare": "100",
+                    "bid:sellerLine": "2932132",
+                    "bid:sellerICode": "772443"
+                },
+                {
+                    "bid:advId": "237859",
+                    "bid:buyerLine": "5912843",
+                    "bid:revShare": "100",
+                    "bid:sellerLine": "2933341",
+                    "bid:sellerICode": "773413"
+                }
+            ]
+        }
+    }
+}

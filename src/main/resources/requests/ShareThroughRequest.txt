@@ -1,0 +1,152 @@
+{
+	"site": {
+		"domain": "http://dailystar.co.uk",
+		"page": "http://www.dailystar.co.uk/sport/football/566168/Man-Utd-West-Ham-EFL-Cup-quarter-final-Paul-Pogba-Marouane-Fellaini-Diafra-Sakho?utm_source=externaloutbrain&utm_medium=recommendations&utm_term=paid&utm_content=sport&utm_campaign=2016&utm_term=5422209",
+		"id": "Hmq2QCRp5VFAo7Ahz9c46WbY",
+		"publisher": {
+			"id": "79ac6ede"
+		},
+		"cat": ["IAB1", "IAB12", "IAB17"]
+	},
+	"device": {
+		"connectiontype": 0,
+		"devicetype": 2,
+		"ip": "86.145.202.38",
+		"model": "Unknown",
+		"ua": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko",
+		"geo": {
+			"type": 2,
+			"metro": "302",
+			"country": "GB"
+		},
+		"os": "Windows",
+		"osv": "",
+		"make": "Unknown",
+		"js": 1,
+		"dnt": 0
+	},
+	"imp": [{
+		"native": {
+			"plcmtcnt": 1,
+			"assets": [{
+				"id": 2,
+				"required": 0,
+				"img": {
+					"hmin": 0,
+					"wmin": 0,
+					"type": 1
+				}
+			}, {
+				"id": 3,
+				"required": 0,
+				"img": {
+					"hmin": 48,
+					"wmin": 48,
+					"type": 2
+				}
+			}, {
+				"id": 11,
+				"required": 0,
+				"data": {
+					"len": 2000,
+					"type": 501
+				}
+			}, {
+				"id": 12,
+				"required": 0,
+				"data": {
+					"len": 2000,
+					"type": 502
+				}
+			}, {
+				"id": 1,
+				"required": 1,
+				"title": {
+					"len": 90
+				}
+			}, {
+				"id": 4,
+				"required": 1,
+				"img": {
+					"hmin": 315,
+					"wmin": 600,
+					"type": 3
+				}
+			}, {
+				"id": 5,
+				"required": 1,
+				"data": {
+					"len": 140,
+					"type": 1
+				}
+			}, {
+				"id": 6,
+				"required": 1,
+				"data": {
+					"len": 140,
+					"type": 2
+				}
+			}],
+			"request": "{\"native\":{\"plcmtcnt\":1,\"assets\":[{\"id\":2,\"required\":0,\"img\":{\"hmin\":0,\"wmin\":0,\"type\":1}},{\"id\":3,\"required\":0,\"img\":{\"hmin\":48,\"wmin\":48,\"type\":2}},{\"id\":11,\"required\":0,\"data\":{\"len\":2000,\"type\":501}},{\"id\":12,\"required\":0,\"data\":{\"len\":2000,\"type\":502}},{\"id\":1,\"required\":1,\"title\":{\"len\":90}},{\"id\":4,\"required\":1,\"img\":{\"hmin\":315,\"wmin\":600,\"type\":3}},{\"id\":5,\"required\":1,\"data\":{\"len\":140,\"type\":1}},{\"id\":6,\"required\":1,\"data\":{\"len\":140,\"type\":2}}],\"adunit\":2,\"ver\":\"1\",\"layout\":3}}",
+			"adunit": 2,
+			"ver": "1",
+			"layout": 3
+		},
+		"id": "1",
+		"bidfloor": 6.21,
+		"pmp": {
+			"deals": [{
+				"bidfloor": 6.21,
+				"id": "R9zPeQ74c9pocfWu3XxENpot"
+			}, {
+				"bidfloor": 6.21,
+				"id": "NXd36udh1Wj8bnRtdui8AsxH"
+			}, {
+				"bidfloor": 6.21,
+				"id": "drcXh7qWi4JUChdxUXdRDyo8"
+			}, {
+				"bidfloor": 6.21,
+				"id": "Dk9ULnYmN1EyyEPqPpME99ix"
+			}, {
+				"bidfloor": 6.21,
+				"id": "23WU83xLThxZvEBtHc2ed2ec"
+			}, {
+				"bidfloor": 6.21,
+				"id": "2XfQciMRmTGVH6X1yXzQcrYv"
+			}, {
+				"bidfloor": 6.21,
+				"id": "5jiFvuaXWffySfJwzLPMjbWX"
+			}, {
+				"bidfloor": 6.21,
+				"id": "LanpwUs2AYdieA2MnH5SDgFU"
+			}, {
+				"bidfloor": 6.21,
+				"id": "o4Pd65Bt473Ji9enrhcUBeuh"
+			}, {
+				"bidfloor": 6.21,
+				"id": "2yeGCUyPvHGup3TWh7N7YNv3"
+			}, {
+				"bidfloor": 6.21,
+				"id": "YCBb3MaaUuJMU14NP3D6pt5T"
+			}, {
+				"bidfloor": 6.21,
+				"id": "ko1e1eaR3HQXubNuK9Vci9n8"
+			}, {
+				"bidfloor": 6.21,
+				"id": "xFkydBGm9umbxhi5S16CBHJT"
+			}, {
+				"bidfloor": 6.21,
+				"id": "QqLrFwBSCkuwMHrWpQTY8RiN"
+			}, {
+				"bidfloor": 6.21,
+				"id": "ArgxR5usdJqqXvjL5y1SK7VA"
+			}, {
+				"bidfloor": 6.21,
+				"id": "X5gGF81Dj1QX15iiGNdzx6Xu"
+			}],
+			"private_auction": 0
+		},
+		"secure": 0
+	}],
+	"id": "59cf038c-e03e-45cf-ac22-cbc86e05f476"
+}

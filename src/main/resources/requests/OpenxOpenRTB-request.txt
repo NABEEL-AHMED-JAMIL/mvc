@@ -1,0 +1,90 @@
+{
+    "imp": [
+        {
+            "id": "6b47d1d1-c8fc-4636-bab3-f28601c91a3f",
+            "banner": {
+                "w": 320,
+                "h": 50,
+                "ext": {
+                    "matching_ad_id": [
+                        {
+                            "campaign_id": 42674,
+                            "placement_id": 109,
+                            "creative_id": 997,
+                            "ad_height": 50,
+                            "ad_width": 320,
+                            "deal": {
+                                "deal_id": "14",
+                                "deal_pricing_type": 1,
+                                "deal_exclusivity": 0
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "user": {
+        "yob": 1984,
+        "gender": "M",
+        "ext": {
+            "income": 60000,
+            "ethnicity": 0,
+            "marital": "M"
+        },
+        "buyeruid": "52c69451-07ba-4aaa-0ab4-84463c18ae69"
+    },
+    "id": "6b47d1d1-c8fc-4636-bab3-f28601c91a3f",
+    "site": {
+        "id": "81ab8aad-8c0a-4f80-86ef-a4a92933bf2e",
+        "domain": "www.example.com",
+        "cat": [
+            "IAB14-8"
+        ],
+        "page": "http://www.example.com/",
+        "ref": "http://www.example.com/referer",
+        "ext": {
+            "is_mobile_site": false,
+            "ssl_enabled": false
+        }
+    },
+    "device": {
+        "dnt": 0,
+        "ua": "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8;",
+        "ip": "230.60.174.180",
+        "didsha1": "71b921a8a7fc664bb4e028a12121dc6a4750e7eb",
+        "dpidsha1": "andorid Id sha1",
+        "dpidmd5": "android Id md5",
+        "carrier": "test carrier",
+        "language": "en",
+        "make": "testDeviceMaker",
+        "model": "testDeviceModel",
+        "os": "test device OS",
+        "osv": "1",
+        "connectiontype": 0,
+        "geo": {
+            "lat": 29.69,
+            "lon": 95.2,
+            "city": "pasadena",
+            "zip": "91105"
+        },
+        "ext": {
+            "idforad": "idforad",
+            "idforad_enabled": 0,
+            "browser": "testDeviceBrowser",
+            "browser_version": "testDeviceBrowserVersion",
+            "odin1": "odin1",
+            "macaddress_md5": "mac address md5",
+            "macaddress_sha1": "mac address sha1"
+        }
+    },
+    "ext": {
+        "tp_key_val": {
+            "nt.type": "in-feed",
+            "nt.seq": "2",
+            "nt.iconw": "80",
+            "nt.iconh": "80",
+            "nt.reqfields": "title, body, impr, imgurl, clickurl"
+        }
+    }
+}

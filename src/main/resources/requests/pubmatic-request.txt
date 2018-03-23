@@ -1,0 +1,68 @@
+{
+    "id": "00ADECC9-849A-449A-9B9C-3C4455CCE2B6",
+    "imp": [
+        {
+            "id": "1",
+            "tagid": "72501",
+            "banner": {
+                "w": 300,
+                "h": 250,
+                "pos": 1,
+                "topframe": 1
+            }
+        }
+    ],
+    "site": {
+        "id": "44148",
+        "domain": "http://likes.com/MobileWeb",
+        "page": "http://likes.com/comedy/the-sexiest-selfies-you-ll-ever-see-totally-crazy?v=q22vrlro24vrZ3HTg8abAv651wV5j9fZM&page=2",
+        "ref": "http://likes.com/comedy/the-sexiest-selfies-you-ll-ever-see-totally-crazy?v=q22vrlro24vrZ3HTg8abAv651wV5j9fZM&page=2",
+        "publisher": {
+            "id": "41579"
+        }
+    },
+    "device": {
+        "ip": "101.175.157.131",
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 [FBAN/FBIOS;FBAV/11.0.0.28.23;FBBV/2816550;FBDV/iPhone4,1;FBMD/iPhone;FBSN/iPhone OS;FBSV/7.1.1;FBSS/2; FBCR/Telstra;FBID/phone;FBLC/en_GB;FBOP/5]",
+        "carrier": "Telstra Internet",
+        "language": "en-gb",
+        "make": "Apple",
+        "model": "iPhone",
+        "os": "iOS",
+        "js": 1,
+        "devicetype": 1,
+        "geo": {
+            "country": "AU",
+            "region": "02",
+            "city": "Woy Woy",
+            "lat": -33.4843,
+            "lon": 151.325,
+            "zip": "2256",
+            "type": 2
+        },
+        "ext": {
+            "res": "320x480",
+            "pf": 2
+        }
+    },
+    "user": {
+        "id": "E7AF5991-AB73-49A3-BCD4-884A1DECC26B",
+        "ext": {
+            "tmz": "10"
+        }
+    },
+    "ext": {
+        "wli": {
+            "rId": "3F0CA7F6-063C-423D-A862-FA5E6F7830C1",
+            "bCur": "USD",
+            "wBid": 0,
+            "csa": 1,
+            "bInfo": [
+                {
+                    "bId": "",
+                    "st": 1
+                }
+            ]
+        }
+    }
+}

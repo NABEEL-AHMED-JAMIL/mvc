@@ -1,0 +1,161 @@
+{
+    "@xmlns": "urn:yahoo:amp:3pi:bidReq",
+    "@xmlns:bid": "urn:yahoo:amp:3pi:bidReqMain",
+    "@xmlns:fac": "urn:yahoo:amp:3pi:fac",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@version": "6.0",
+    "@xsi:schemaLocation": "urn:yahoo:amp:3pi:bidReq BidRequest.xsd",
+    "bidReqEnv": {
+        "@signature": "bac7f3edb0c0121e1ca6ec371351b1fe625515a2",
+        "@signType": "HMAC_SHA1",
+        "@token": "1382408767"
+    },
+    "bid:bidReq": {
+        "bid:bidCommon": {
+            "bid:oppId": "4eb49f86-3ac1-11e3-bd3b-1f02a819b717",
+            "bid:ip": "69.126.137.0",
+            "bid:host": "ads.yahoo.com",
+            "bid:userAgent": " \nMozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:24.0) \nGecko/20100101 Firefox/24.0 ",
+            "bid:lang": "en",
+            "bid:exchangeId": "7SYZG6CgXTn84cuQoiQxkolP",
+            "bid:adDimension": {
+                "bid:width": "300",
+                "bid:height": "250"
+            },
+            "bid:latency": "100",
+            "bid:pubUrl": "https://itunes.apple.com/us/app/yahoonews/id351282480?mt=8",
+            "bid:sellerId": "747113",
+            "bid:pubChannel": {
+                "bid:pubChannelItem": [
+                    "4",
+                    "84"
+                ]
+            },
+            "bid:flashVer": "0",
+            "bid:age": "40",
+            "bid:gender": "f",
+            "bid:sectionId": "3041204",
+            "bid:isSecure": "0",
+            "bid:adPosition": "0",
+            "bid:blocklistIds": "926824,997559",
+            "bid:country": "US",
+            "bid:userLocation": {
+                "bid:state": "NY",
+                "bid:Metro": "502",
+                "bid:city": "New York"
+            },
+            "bid:mobileLocation": "37.579887,-77.384535",
+            "bid:sectionCode": "news234",
+            "bid:siteID": "9676134",
+            "bid:sellerSeatID": "23652",
+            "bid:extendParams": {
+                "@numParams": "9",
+                "bid:optParam": [
+                    {
+                        "@optParamKey": "applyCoppa",
+                        "#text": "0"
+                    },
+                    {
+                        "@optParamKey": "inventoryType",
+                        "#text": "8"
+                    },
+                    {
+                        "@optParamKey": "appName",
+                        "#text": "YahooNews"
+                    },
+                    {
+                        "@optParamKey": "appId",
+                        "#text": "351282480"
+                    },
+                    {
+                        "@optParamKey": "deviceIdType",
+                        "#text": "3"
+                    },
+                    {
+                        "@optParamKey": "deviceIdSha1",
+                        "#text": "866c0ac9ff1a8d712550dea99578c825de033186"
+                    },
+                    {
+                        "@optParamKey": "deviceIdMd5",
+                        "#text": "40c7084b4845eebce9d07b8a18a055fc"
+                    },
+                    {
+                        "@optParamKey": "encryptedDeviceId",
+                        "#text": "a1c3a39b8a7ef688ee957abb881d96f8284ee2c\ne45992ce1d632843350b956f81229afbfead8af5f"
+                    },
+                    {
+                        "@optParamKey": "excludedMediaTypes",
+                        "#text": "2,3,5,6"
+                    },
+                    {
+                        "@optParamKey": "puburlHash",
+                        "#text": "bdc48c2889508ef8a5be96ac8e456589314dfa2d9419e5\na8b07291f80f9534a5"
+                    },
+                    {
+                        "@optParamKey": "pubUrlHashVersion",
+                        "#text": "ngd.content_classification.salt.1"
+                    }
+                ]
+            }
+        },
+        "bid:advSet": {
+            "@numAdvs": "3",
+            "bid:adv": [
+                {
+                    "bid:advId": "123456",
+                    "bid:sellerLine": "6773754",
+                    "bid:sellerICode": "ABC-123_a",
+                    "bid:revShare": "100",
+                    "bid:buyerLine": "283472",
+                    "bid:extendParams": {
+                        "@numParams": "2",
+                        "bid:optParam": [
+                            {
+                                "@optParamKey": "deals",
+                                "#text": " \n207,1.25 "
+                            },
+                            {
+                                "@optParamKey": "partnerUserId",
+                                "#text": " AKR6I52xTotGYHS3Z \n"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "bid:advId": "234567",
+                    "bid:sellerLine": "5297843",
+                    "bid:sellerICode": "HSC-34-XC",
+                    "bid:revShare": "91",
+                    "bid:buyerLine": "78798",
+                    "bid:extendParams": {
+                        "@numParams": "2",
+                        "bid:optParam": [
+                            {
+                                "@optParamKey": "deals",
+                                "#text": " \n207,1.25 "
+                            },
+                            {
+                                "@optParamKey": "partnerUserId",
+                                "#text": " \n7c720AEDF15062mn85Fc3320F04a1B066 "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "bid:advId": "345678",
+                    "bid:sellerLine": "5363279",
+                    "bid:sellerICode": "MMTTW-54QH",
+                    "bid:revShare": "85",
+                    "bid:buyerLine": "2764287",
+                    "bid:extendParams": {
+                        "@numParams": "1",
+                        "bid:optParam": {
+                            "@optParamKey": "deals",
+                            "#text": " \n207,1.25;670,1.1499 "
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

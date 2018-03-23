@@ -1,0 +1,70 @@
+{
+	"id": "1510907156090964201_ip-172-31-6-39_589d58a8-7475-4e02-b415-eec1b581d973_delplaya",
+	"imp": [{
+		"id": "imp_1510907156090964201_ip-172-31-6-39_589d58a8-7475-4e02-b415-eec1b581d973_delplaya",
+		"video": {
+			"mimes": ["video/mp4"],
+			"minduration": 0,
+			"maxduration": 30,
+			"protocols": [2, 5, 3, 6],
+			"w": 480,
+			"h": 218,
+			"placement": 5,
+			"linearity": 2,
+			
+			"playbackmethod": [5],
+			"pos": 7,
+			"companionad": [{
+				"id": "1234567893-1",
+				"w": 320,
+				"h": 50,
+				"pos": 1,
+				"battr": [13, 14],
+				"expdir": [2, 4]
+			}],
+			"companiontype": [1, 2]
+		},
+		"instl": 1,
+		"pmp": {
+			"deals": [{
+				"id": "DAI-ATD-00001",
+				"bidfloor":0.1,
+				"bidfloorcur": "USD",
+				"at": 2
+			}],
+			"private_auction": 1
+		},
+		"secure": 0,
+		"bidfloorcur": "USD"
+	}],
+	"app": {
+		"id": "com.sgn.geniesandgems",
+		"name": "Genies ",
+		"bundle": "com.sgn.geniesandgems",
+		"storeurl": "https://itunes.apple.com/us/app/genies-gems/id1032443533?mt=8",
+		"cat": ["IAB1-6", "IAB1"],
+		"publisher": {
+			"id": "1",
+			"name": "StreamRail"
+		}
+	},
+	"device": {
+		"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Mobile/14A456",
+		"geo": {
+			"type": 2,
+			"ipservice": 3,
+			"country": "IN",
+			"city": "pune"
+		},
+		"ip": "",
+		"make": "Apple",
+		"model": "iPhone",
+		"os": "iOS",
+		"osv": "10.0.2",
+		"carrier": "Comcast Cable",
+		"connectiontype": 2,
+		"ifa": "A7A5ECB5-2203-4704-AC05-17DC1A20A763"
+	},
+	"at": 2,
+	"bcat": ["IAB25-3", "IAB25-2", "IAB25-5", "IAB26", "IAB26-1", "IAB26-3"]
+}

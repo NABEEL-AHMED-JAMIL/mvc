@@ -1,0 +1,73 @@
+{
+    "id": "1234534625254",
+    "at": 2,
+    "tmax": 120,
+    "wseat": 4,
+    "imp": [
+        {
+            "impid": "1",
+            "w": 320,
+            "h": 50,
+			"Instl":1,
+			"bidfloor":1.0
+        }
+    ],
+    "badv": [
+        "company1.com",
+        "company2.com"
+    ],
+    "bcat": [
+        "IAB7-28",
+        "IAB25-5",
+        "APL8-6",
+        "IAB7-42"
+    ],
+    "site": {
+        "id": "OnlineNMoblieBanner",
+        "name": "SiteABCD",
+        "domain": "siteabcd.com",
+        "cat": [
+            "IAB2-?-1",
+            "IAB2-?-2"
+        ],
+        "page": "http: //siteabcd.com/page.htm",
+        "ref": "http: //referringsite.com/referringpage.htm",
+        
+        "ext": {
+            "ext.nex_data_proximic": "dummyvalue"
+        }
+    },
+    "device": {
+        "make": "Apple",
+        "model": "iPhone",
+        "ua": "Mozilla/5.0(Macintosh;U;IntelMacOSX10.6;en-?-US;rv: 1.9.2.16)Gecko/20110319Firefox/3.6.16",
+        "os": "OSX",
+        "osv": "6.1",
+        "js": 1,
+        
+		"geo": {
+            "lat": "1.28767888",
+            "lon": "3.76546667",
+			"country": "US SFO",
+            "region": "US region",
+            "city": "US city",
+            "zip": "US zip",
+        },
+        
+    },
+    "user": {
+        "keywords": [
+            "keyword a",
+            "keyword b",
+            "keyword c"
+        ],
+    }
+	"app":{
+		"aid":"gt6ddb9f2-50gh-102c-8xc0-324324aaa002cd2",
+		"name":"abcedede",
+		"ver":"abcdefghidklmn",
+		"publisher":{
+			"id":"ad48fc80f68571bd3554e8ea87e4a2bf4f4bf36f"
+		}
+	}
+}

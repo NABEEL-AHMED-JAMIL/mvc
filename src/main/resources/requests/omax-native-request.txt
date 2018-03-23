@@ -1,0 +1,61 @@
+{
+	"at": 2,
+	"test": 0,
+	"tmax": 125,
+	"bcat": ["IAB3-10", "IAB5-2", "IAB8-5", "IAB8-18", "IAB9-9", "IAB11-4", "IAB13-2", "IAB14-1", "IAB23-1", "IAB23-2", "IAB23-3", "IAB23-4", "IAB23-5", "IAB23-6", "IAB23-7", "IAB23-8", "IAB23-9", "IAB23-10", "IAB25-1", "IAB25-2", "IAB25-3", "IAB25-4", "IAB25-5", "IAB25-6", "IAB25-7"],
+	"id": "bDwhm6HSWAyo3aa",
+	"app": {
+		"ext": {},
+		"storeurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.mxdata.tube.Market&hl=en_GB",
+		"cat": ["IAB20"],
+		"name": "Tube Map Android Application",
+		"paid": 1,
+		"id": "1835",
+		"bundle": "com.mxdata.tube.Market"
+	},
+	"tmax": 500,
+	"test": 0,
+	"bcat": [
+		"IAB25-2",
+		"IAB26-2"
+	],
+	"imp": [{
+		"id": "1",
+		"bidfloor": 1.0,
+		"native": {
+			"request": "{\"native\": {\"assets\": [ { \"id\": 1, \"required\": 1, \"title\": { \"len\": \"25\" } }, { \"id\": 2, \"required\": 1, \"img\":   { \"type\": 1, \"wmin\": 50, \"hmin\": 50 } },{ \"id\": 3, \"required\": 1, \"img\": { \"type\": 3, \"wmin\": 300, \"hmin\": 250 } },{ \"id\": 5,\"required\": 0, \"data\": { \"type\": 1 } },{ \"id\": 6, \"required\": 1, \"data\": { \"type\": 2, \"len\": \"45\" } },{ \"id\":7, \"required\": 0, \"data\": { \"type\": 3 } },{ \"id\": 8, \"required\": 0, \"data\": { \"type\": 10, \"len\": \"90\" } },{\"id\": 9, \"required\": 1, \"data\": { \"type\": 12 } } ], \"layout\": \"6\" }}",
+			"ver": "1.0"
+		},
+		"instl": 0,
+		"bidfloorcur": "USD"
+	}],
+	"at": 2,
+	"device": {
+		"ext": {
+			"aaid": "d546199c-3fe5-4534-82d6-bcde52ac826c"
+		},
+		"os": "Android",
+		"ifa": "d546199c-3fe5-4534-82d6-bcde52ac826c",
+		"ip": "",
+		"h": "1280",
+		"ppi": 320,
+		"dnt": 0,
+		"ua": "Mozilla\/5.0 (Linux; Android 5.1.1; SM-J500FN Build\/LMY48B; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/50.0.2661.86 Mobile Safari\/537.36",
+		"devicetype": 1,
+		"geo": {
+			"country": "PK"
+		},
+		"carrier": "234-15",
+		"lmt": 0,
+		"Osv": "5.1.1",
+		"osv": "5.1.1",
+		"w": "720",
+		"model": "SM-J500FN",
+		"connectiontype": 3,
+		"make": "Samsung"
+	},
+	"user": {
+		"id": "09bf4a2695f1758ed546199c3fe5453482d6bcde52ac826c"
+	},
+	"badv": ["thetrainline.com", "lyft.com", "side.cr", "gocurb.com", "easytaxi.com", "intersport.com", "asda.com", "karcher.com", "kaercher.com", "gameofwarapp.com", "machinezone.com", "karcherfollowme.com", "greggs.co.uk", "heathrow.com"]
+}

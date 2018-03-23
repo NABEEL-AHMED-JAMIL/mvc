@@ -1,0 +1,86 @@
+{
+    "app": {
+        "aid": "mopubvideoad",
+        "cat": [
+            "IAB9",
+            "IAB9-30",
+            "games"
+        ],
+        "global_aid": "568334356",
+        "name": "Icon Pop Quiz",
+        "paid": 0,
+        "pid": "ba1d596a3f7d11e2a30712313b12f67e",
+        "pub": "Alegrium"
+    },
+    "at": 2,
+    "device": {
+        "carrier": "Wi-Fi",
+        "country": "GB",
+        "dpid": "85090B3E-9F06-414A-87BB-006DC624B8B2",
+        "ip": "27.33.183.92",
+        "js": 1,
+        "make": "Apple",
+        "model": "iPhone",
+        "os": "iPhone OS",
+        "osv": "6.1.3",
+        "state": "04",
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329"
+    },
+    "id": "5ebcfd57-acd8-477e-8e85-1c1f38f256e4",
+    "imp": [
+        {
+            "battr": [
+                "9",
+                "10",
+                "14"
+            ],
+            "displaymanagerver": "1.11.3.2",
+            "ext": {
+                "video": {
+                    "linearity": 1,
+                    "maxduration": 30,
+                    "minduration": 5,
+                    "type": [
+                        "VAST 2.0",
+                        "HTML5"
+                    ]
+                }
+            },
+            "h": 480,
+            "impid": "5ebcfd57-acd8-477e-8e85-1c1f38f256e4",
+            "instl": 1,
+            "w": 320
+        }
+    ],
+    "pf": 6.5,
+    "restrictions": {
+        "badv": [
+            "www.indosat.com",
+            "www.indosatmentari.com/",
+            "www.myesia.com/",
+            "www.smartfren.com/",
+            "www.three.co.id/",
+            "www.xl.co.id"
+        ],
+        "bcat": [
+            "IAB6-7",
+            "IAB7-3",
+            "IAB7-28",
+            "IAB7-30",
+            "IAB7-39",
+            "IAB8-5",
+            "IAB8-18",
+            "IAB9-9",
+            "IAB14-1",
+            "IAB14-2",
+            "IAB14-3",
+            "IAB25",
+            "IAB26"
+        ]
+    },
+    "tmax": 300,
+    "user": {
+        "dnt": 0,
+        "uid": "85090B3E-9F06-414A-87BB-006DC624B8B2"
+    }
+}

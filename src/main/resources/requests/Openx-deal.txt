@@ -1,0 +1,112 @@
+{
+	"ext": {
+		"pchain": "INTOX:537114332",
+		"is_test": 0
+	},
+	"cur": ["USD"],
+	"user": {
+		"id": "862bb9cd-5d15-4ae3-07d0-36b9796d320a"
+	},
+	"device": {
+		"dnt": 0,
+		"ext": {
+			"language": ["en"],
+			"browser_version": "56",
+			"browser": "Chrome"
+		},
+		"language": "en",
+		"w": 1920,
+		"h": 1080,
+		"osv": "10",
+		"os": "Windows",
+		"model": "browser",
+		"make": "desktop",
+		"devicetype": 2,
+		"ip": "86.153.69.31",
+		"geo": {
+			"ext": {
+				"state": "leicestershire",
+				"continent": "europe"
+			},
+			"utcoffset": 0,
+			"zip": "le17 6",
+			"city": "swinford",
+			"region": "GB-LEC",
+			"country": "GBR",
+			"type": 2,
+			"lon": -1.165,
+			"lat": 52.413
+		},
+		"ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36"
+	},
+	"imp": [{
+		"pmp": {
+			"deals": [{
+				"at": 2,
+				"bidfloor": 6.527091,
+				"id": "OX-MPO-S4sSys"
+			}],
+			"private_auction": 0
+		},
+		"banner": {
+			"ext": {
+				"bcont": [1, 3, 4, 8, 11, 15],
+				"matching_ad_id": [{
+					"ad_width": 300,
+					"ad_height": 250,
+					"creative_id": 538139380,
+					"placement_id": 537641083,
+					"campaign_id": 537307518
+				}, {
+					"deal": [{
+						"deal_exclusivity": 0,
+						"deal_pricing_type": 2,
+						"deal_cpm_micros": 6527091,
+						"deal_id": "OX-MPO-S4sSys"
+					}],
+					"ad_width": 300,
+					"ad_height": 250,
+					"creative_id": 538157985,
+					"placement_id": 537650474,
+					"campaign_id": 537313133
+				}]
+			},
+			"format": [{
+				"w": 300,
+				"h": 250
+			}],
+			"h": 250,
+			"w": 300,
+			"battr": [1, 2, 6, 7, 17]
+		},
+		"id": "9d962443-ef5e-407d-88c1-267aaff189f2",
+		"secure": 0
+	}],
+	"regs": {
+		"ext": {
+			"sb568": 0
+		},
+		"coppa": 0
+	},
+	"bcat": ["IAB7-44"],
+	"test": 0,
+	"site": {
+		"ext": {
+			"ssl_enabled": false,
+			"is_mobile_site": true
+		},
+		"content": {
+			"qagmediarating": 1
+		},
+		"publisher": {
+			"id": "537114332"
+		},
+		"mobile": 1,
+		"ref": "http://europe.newsweek.com/donald-trump-fueling-isis-560999?rm=eu",
+		"page": "http://europe.newsweek.com/donald-trump-fueling-isis-560999?rm=eu",
+		"cat": ["IAB12"],
+		"domain": "europe.newsweek.com",
+		"id": "537201755"
+	},
+	"id": "9d962443-ef5e-407d-88c1-267aaff189f2"
+}

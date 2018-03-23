@@ -1,0 +1,85 @@
+{
+    "bid_request": {
+        "timestamp": "2013-01-01 11:11:28",
+        "bidder_timeout_ms": 75,
+        "members": [
+            {
+                "id": 1547
+            }
+        ],
+        "member_ad_profile_id": 99869,
+        "tags": [
+            {
+                "auction_id_64": 1593388878621576000,
+                "size": "300x250",
+                "sizes": [
+                    "300x250"
+                ],
+                "smaller_sizes_allowed": false,
+                "position": "above",
+                "tag_format": "iframe",
+                "site_id": 261169,
+                "creative_formats_map": "1111111111",
+                "creative_formats": [
+                    "unknown",
+                    "html-url",
+                    "js-url",
+                    "flash",
+                    "image",
+                    "js-raw",
+                    "html-raw",
+                    "html-iframe",
+                    "vast-url",
+                    "text"
+                ],
+                "visibility_profile_id": 424,
+                "venue_id": 136031,
+                "allowed_media_types": [
+                    1
+                ],
+                "media_subtypes": [
+                    "banner"
+                ],
+                "estimated_clear_price": 1,
+                "estimated_average_price": 0.5,
+                "id": 909025
+            }
+        ],
+        "bid_info": {
+            "user_id_64": 5576929814242231000,
+            "no_cookies": false,
+            "payment_rule_id": 166756,
+            "selling_member_id": 1410,
+            "no_flash": false,
+            "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:17.0) Gecko/20100101 Firefox/17.0",
+            "browser": 7,
+            "operating_system": 11,
+            "ip_address": "63.248.104.34",
+            "country": "UK",
+            "region": "UT",
+            "city": "Kaysville",
+            "postal_code": "84037",
+            "dma": 770,
+            "time_zone": "America/Denver",
+            "inventory_class": "unaudited",
+            "within_iframe": false,
+            "publisher_id": 139374,
+            "url": "http://www.webkinz.com/inside_frame.html?go=loadReturnUser&aol=0&fs=0",
+            "domain": "webkinz.com",
+            "inventory_audits": [
+                {
+                    "auditor_member_id": null,
+                    "intended_audience": "children",
+                    "inventory_attributes": [
+                        16
+                    ],
+                    "content_categories": [
+                        8206
+                    ]
+                }
+            ],
+            "userdata_json": "{}",
+            "segments": []
+        }
+    }
+}

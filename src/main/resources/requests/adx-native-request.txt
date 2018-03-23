@@ -1,0 +1,162 @@
+id: "X\3217\376\000\b\272\023\n\030\215\022a\017\037\307"
+ip: ""
+user_agent: "Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; GT-I8262 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 (Mobile; afma-sdk-a-v10298034.7895000.2)"
+url: "https://play.google.com/store/apps/details?id=com.popularapp.videodownloaderforinstagram"
+detected_language: "en"
+detected_vertical {
+  id: 978
+  weight: 0.2099899
+}
+detected_vertical {
+  id: 1500
+  weight: 0.2099899
+}
+detected_vertical {
+  id: 1461
+  weight: 0.2099899
+}
+detected_vertical {
+  id: 529
+  weight: 0.2099899
+}
+detected_vertical {
+  id: 211
+  weight: 0.16004036
+}
+adslot {
+  id: 1
+  excluded_attribute: 7
+  excluded_attribute: 13
+  excluded_attribute: 14
+  excluded_attribute: 15
+  excluded_attribute: 16
+  excluded_attribute: 17
+  excluded_attribute: 18
+  excluded_attribute: 19
+  excluded_attribute: 20
+  excluded_attribute: 22
+  excluded_attribute: 25
+  excluded_attribute: 26
+  excluded_attribute: 27
+  excluded_attribute: 30
+  excluded_attribute: 34
+  excluded_attribute: 48
+  excluded_attribute: 72
+  excluded_attribute: 13
+  excluded_attribute: 14
+  excluded_attribute: 15
+  excluded_attribute: 16
+  excluded_attribute: 17
+  excluded_attribute: 18
+  excluded_attribute: 19
+  excluded_attribute: 20
+  excluded_attribute: 26
+  excluded_attribute: 27
+  excluded_attribute: 13
+  excluded_attribute: 14
+  excluded_attribute: 15
+  excluded_attribute: 16
+  excluded_attribute: 17
+  excluded_attribute: 18
+  excluded_attribute: 19
+  excluded_attribute: 20
+  excluded_attribute: 26
+  excluded_attribute: 27
+  matching_ad_data {
+    billing_id: 18292829446
+    minimum_cpm_micros: 10000
+  }
+  slot_visibility: ABOVE_THE_FOLD
+  ad_block_key: 1
+  publisher_settings_list_id: 17775315217758098605
+  viewability: 70
+  click_through_rate: 0.008348553
+  video_completion_rate: 0.0036995143
+  sticky_settings {
+  }
+  allowed_ad_types: ALLOWED_AD_TYPE_NATIVE
+  native_ad_template {
+    required_fields: 31
+    recommended_fields: 32
+    headline_max_safe_length: 25
+    body_max_safe_length: 90
+    call_to_action_max_safe_length: 15
+    advertiser_max_safe_length: 25
+    image_width: 1200
+    image_height: 627
+    logo_width: 128
+    logo_height: 128
+  }
+  native_ad_template {
+    required_fields: 87
+    recommended_fields: 896
+    headline_max_safe_length: 25
+    body_max_safe_length: 90
+    call_to_action_max_safe_length: 15
+    image_width: 1200
+    image_height: 627
+    app_icon_width: 128
+    app_icon_height: 128
+  }
+  native_ad_template {
+    required_fields: 1085
+    recommended_fields: 2
+    headline_max_safe_length: 25
+    body_max_safe_length: 90
+    call_to_action_max_safe_length: 15
+    advertiser_max_safe_length: 25
+    logo_width: 128
+    logo_height: 128
+  }
+  native_ad_template {
+    required_fields: 1111
+    recommended_fields: 896
+    headline_max_safe_length: 25
+    body_max_safe_length: 90
+    call_to_action_max_safe_length: 15
+    app_icon_width: 128
+    app_icon_height: 128
+  }
+}
+is_test: false
+cookie_version: 1
+google_user_id: "CAESEIGSDMzyGGteqVPYmeaLFIs"
+timezone_offset: 240
+detected_content_label: 21
+detected_content_label: 39
+detected_content_label: 87
+detected_content_label: 87
+mobile {
+  app_id: "com.popularapp.videodownloaderforinstagram"
+  is_app: true
+  app_category_ids: 60013
+  app_category_ids: 60000
+  app_category_ids: 69500
+  encrypted_advertising_id: "X\3217\376\000\b\272\023\n\030\215\022\001\017\037\307\356|N\2143-\246q\341\351,\203\351dX\212\321f}["
+  app_name: "Video Downloader for Instagram"
+  app_rating: 4.71812
+  advertising_id: "\370\260\311\333-\301H#\215FW\000\357\32532"
+}
+cookie_age_seconds: 12960000
+geo_criteria_id: 1000148
+seller_network_id: 1
+publisher_settings_list_id: 8524931921776740856
+publisher_type: GOOGLE_REPRESENTED
+partner_id: 8524931921776740856
+device {
+  device_type: HIGHEND_PHONE
+  platform: "android"
+  brand: "samsung"
+  model: "gt-i8262"
+  os_version {
+    major: 4
+    minor: 1
+    micro: 2
+  }
+  carrier_id: 0
+  screen_width: 320
+  screen_height: 534
+  screen_pixel_ratio_millis: 1500
+  screen_orientation: PORTRAIT
+}
+publisher_country: "HK"

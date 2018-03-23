@@ -1,0 +1,119 @@
+<VAST version="2.0">
+
+
+<Ad id="5146">
+
+<InLine>
+		<AdSystem>AdMaxim</AdSystem>
+		<AdTitle><![CDATA[ HTTP - demographic specific ad]]></AdTitle>
+		<Description><![CDATA[ Inline Video Ad ]]></Description>
+
+		
+        <Impression id="AdMaxim">
+        	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/imp?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&ts=1423466433441]]>
+        </Impression>
+
+	<Creatives>
+
+
+	<Creative AdID="5146" sequence="0" id="5146">
+		<Linear>
+					<Duration>00:00:15</Duration>
+					<TrackingEvents>
+
+
+<Tracking event="start">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=start]]>
+</Tracking>
+<Tracking event="midpoint">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=midpoint]]>
+</Tracking>
+<Tracking event="firstQuartile">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=firstQuartile]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=thirdQuartile]]>
+</Tracking>
+<Tracking event="complete">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=complete]]>
+</Tracking>
+<Tracking event="mute">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=mute]]>
+</Tracking>
+<Tracking event="pause">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=pause]]>
+</Tracking>
+<Tracking event="replay">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=replay]]>
+</Tracking>
+<Tracking event="rewind">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=rewind]]>
+</Tracking>
+<Tracking event="fullscreen">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=fullscreen]]>
+</Tracking>
+<Tracking event="stop">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=stop]]>
+</Tracking>
+<Tracking event="unmute">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=unmute]]>
+</Tracking>
+<Tracking event="resume">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=resume]]>
+</Tracking>
+<Tracking event="expand">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=expand]]>
+</Tracking>
+<Tracking event="collapse">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=collapse]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=acceptInvitation]]>
+</Tracking>
+<Tracking event="creativeView">
+	<![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/interaction?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&type=video&event=creativeView]]>
+</Tracking>
+
+</TrackingEvents>
+	
+<VideoClicks>
+
+    <ClickThrough id="AdMaxim"><![CDATA[http://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z5146Z48287Z-1Zmopubvideo40Z8Z0Z0ZZ4.0Z0.0Z0.0Z4.0ZgbZnorfolkZking%27s+lynnZZappleZios_7.1.2Zipad+2+%28wifi%29ZI-168ba44e-1caa-45fb-b8c8-1e0d72d7d9baZgames%2Ciab1%2Ciab9-30%2Ciab9%2CentertainmentZZagx5-gnx2Z0-0-Z-1Z302x252Z47801014-635e-4d25-9ecd-13cac9e6492bZZ1Z6ZenZ6664Z14646Z5Z2ZZ&ts=1423466433441]]></ClickThrough>
+</VideoClicks>
+
+	<MediaFiles>
+				
+								
+						
+		<MediaFile delivery="progressive" bitrate="512" width="302" height="252" type="video/mp4">
+			<![CDATA[http://d3ly4i6m0duwbh.cloudfront.net/8_013102441358586137.mp4]]>
+		</MediaFile>
+		<MediaFile delivery="progressive" bitrate="512" width="302" height="252" type="video/ogg">
+			<![CDATA[http://d3ly4i6m0duwbh.cloudfront.net/8_013102441358586137.ogv]]>
+		</MediaFile>
+		<MediaFile delivery="progressive" bitrate="512" width="302" height="252" type="video/webm">
+			<![CDATA[http://d3ly4i6m0duwbh.cloudfront.net/8_013102441358586137.webm]]>
+		</MediaFile>
+		
+		<MediaFile delivery="progressive" bitrate="400" width="302" height="252" type="video/mp4">
+			<![CDATA[http://d3ly4i6m0duwbh.cloudfront.net/8_013102441358586137.mp4]]>
+		</MediaFile>
+		<MediaFile delivery="progressive" bitrate="400" width="302" height="252" type="video/ogg">
+			<![CDATA[http://d3ly4i6m0duwbh.cloudfront.net/8_013102441358586137.ogv]]>
+		</MediaFile>
+		<MediaFile delivery="progressive" bitrate="400" width="302" height="252" type="video/webm">
+			<![CDATA[http://d3ly4i6m0duwbh.cloudfront.net/8_013102441358586137.webm]]>
+		</MediaFile>
+			</MediaFiles>
+</Linear>
+</Creative>
+
+
+
+</Creatives>
+</InLine>
+
+</Ad>
+
+
+</VAST>

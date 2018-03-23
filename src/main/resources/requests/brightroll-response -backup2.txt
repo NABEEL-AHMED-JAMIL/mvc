@@ -1,0 +1,30 @@
+id: "OdQgAKClKO9CoAOskyDvJV-nuM5r0"
+bidid: "3427|35945|-1|3852594|8|0|0||2.0|0.0|0.8|1.2|US|NEW+YORK|ARMONK|10504|Apple|iOS_5.1|iPhone+Simulator|||||cpmf%3D0-bt%3D0|-1|0x0|a7d1901c-8bf9-41ef-99c3-e37447d740ad||"
+seatbid {
+  bid {
+    id: "3427|35945|-1|3852594|8|0|0||2.0|0.0|0.8|1.2|US|NEW+YORK|ARMONK|10504|Apple|iOS_5.1|iPhone+Simulator|||||cpmf%3D0-bt%3D0|-1|0x0|a7d1901c-8bf9-41ef-99c3-e37447d740ad||"
+    impid: "1"
+    price: 1.2
+    nurl: "http://rtbstaging.admaxim.com/adserver/adapi?fmt=vast2.0&numads=1&adspot=pre-roll&aType=8&siteId=3852594&country=US&duration=10&brightrollBidPrice=${BRX_CLEARING_PRICE}&cachebuster=3688782"
+    adomain: "facebook.com"
+    cid: "35945"
+    crid: "35945:3427:3852594:US:iOS"
+    ext {
+      campaign_name: "35945"
+      line_item_name: "Admaxim"
+      creative_name: "35945:3427:3852594:US:iOS"
+      creative_duration: 10
+      media_desc {
+        media_mime: MP4
+        media_bitrate: 400
+      }
+      api: NONE
+      lid: "35945:3427:3852594:US:iOS"
+      landingpage_url: "http://d3ly4i6m0duwbh.cloudfront.net/8_08345985469002304"
+      advertiser_name: "facebook.com"
+      adtype: ADTYPE_VIDEO
+      adserver_processing_time: 31
+    }
+  }
+  group: false
+}

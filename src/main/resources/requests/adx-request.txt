@@ -1,0 +1,15 @@
+id: "X\362)\316\000\003>\231\nw\211\311\022\016\236\032" ip: "" user_agent: "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Mobile/14A456" url: "https://itunes.apple.com/app/id656093141" 
+detected_language: "en_us" 
+detected_vertical { id: 408 weight: 0.33333334 } detected_vertical { id: 1462 weight: 0.33333334 } detected_vertical { id: 16 weight: 0.33333334 } 
+adslot { 
+matching_ad_data 
+{ billing_id: 22169586646 minimum_cpm_micros: 700000 pricing_rule {  } }
+id: 1 
+width: 320 height: 480 
+excluded_attribute: 22 excluded_attribute: 30 excluded_attribute: 34 excluded_attribute: 13 excluded_attribute: 14 excluded_attribute: 15 excluded_attribute: 16 excluded_attribute: 17 excluded_attribute: 18 excluded_attribute: 19 excluded_attribute: 70 excluded_attribute: 26 excluded_attribute: 95 excluded_attribute: 32 excluded_attribute: 28 excluded_attribute: 27 excluded_attribute: 48 excluded_attribute: 25 excluded_attribute: 20 allowed_vendor_type: 43 allowed_vendor_type: 144 allowed_vendor_type: 145 allowed_vendor_type: 182 allowed_vendor_type: 255 allowed_vendor_type: 474 allowed_vendor_type: 477 allowed_vendor_type: 485
+excluded_sensitive_category: 19 
+excluded_product_category: 10031 excluded_product_category: 10584 excluded_product_category: 13647
+slot_visibility: ABOVE_THE_FOLD ad_block_key: 1 publisher_settings_list_id: 880064981069265988 publisher_settings_list_id: 6806705699217803215 publisher_settings_list_id: 17101108477571701120 allowed_restricted_category: 0 viewability: 90 sticky_settings { } allowed_ad_types: ALLOWED_AD_TYPE_BANNER } is_test: false cookie_version: 1 google_user_id: "CAESEG3I1uGEA61k8BLs35HeAIg" timezone_offset: 540 detected_content_label: 41 detected_content_label: 87 detected_content_label: 87 mobile { app_id: "656093141" is_app: true app_category_ids: 60512 app_category_ids: 60504 app_category_ids: 60500 app_category_ids: 69500 encrypted_advertising_id: "X\362)\316\000\003>\231\nw\211\311\001\016\236\032\005\220\022\361\265\344\215\004\373\360\032A1\036\307\361c\222\264\224" app_name: "Navbharat Times" advertising_id: "\301!g4\006\303AC\251\306,[.q\347\240"} cookie_age_seconds: 15552000 postal_code: "" 
+geo_criteria_id: 1007788
+seller_network_id: 9059992 
+publisher_type: ADX_PUBLISHER_OWNED_AND_OPERATED device { device_type: HIGHEND_PHONE platform: "iphone" brand: "apple" model: "iphone" os_version { major: 10 minor: 0 micro: 2 } carrier_id: 0 screen_width: 320 screen_height: 568 screen_pixel_ratio_millis: 2000 screen_orientation: PORTRAIT hardware_version: "iphone 6s+" } publisher_country: "IN"

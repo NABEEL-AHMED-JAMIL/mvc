@@ -1,0 +1,75 @@
+{
+	"app": {
+		"id": "com.rovio.angrybirdsseasons",
+		"name": "Angry Birds Seasons",
+		"cat": [
+			"IAB9-30",
+			"IAB9-29"
+		],
+		"appcategory": [
+			"Games"
+		],
+		"appsubcategory": [
+			"Action",
+			"Family"
+		],
+		"bundle": "com.rovio.angrybirdsseasons",
+		"storeurl": "https://play.google.com/store/apps/details?id=com.rovio.angrybirdsseasons\\u0026hl = en "
+	},
+	"ext": {
+		"udi": {
+			"gaid": "0f1104a0-87dc-488b-822c-9905bd2b76a0"
+		}
+	},
+	"at": 2,
+	"tmax": 5000,
+	"bappcategory": [
+		"Finance",
+		"Utilities"
+	],
+	"bbundle": [
+		"com.sports.example",
+		"com.socialnetworking.example"
+	],
+	"id": "75A5C93D62F43EFE0003C863DEAD324B",
+	"imp": [{
+		"id": 1,
+		"displaymanager": "unity_sdk",
+		"displaymanagerver": 0,
+		"bidfloor": "0.050",
+		"secure": 1,
+		"bidfloorcur": "USD",
+		"ext": {
+			"strictbannersize": 1
+		},
+		"banner": {
+			"w": 320,
+			"h": 50,
+			"id": 1,
+			"bytpe": [4],
+			"battr": [10],
+			"api": [3]
+		}
+	}],
+	"device": {
+		"ua": "Dalvik\/2.1.0 (Linux; U; Android 5.1; Custom Phone - 5.1.0 - API 22 - 768 x1280 Build\/ LMY47D)",
+		"ip": "",
+		"carrier": "Apple",
+		"language": "en",
+		"make": "Apple",
+		"model": "iPhone",
+		"hwv": "iphone6",
+		"h": 1184,
+		"w": 768,
+		"os": "ios",
+		"osv": "10.1",
+		"connectiontype": 3,
+		"ifa": "25b60022-a980-44b4-83a4-ab072555d329",
+		"geo": {
+			"country": "IN"
+		}
+	},
+	"user": {
+		"id": "0f1104a0-87dc-488b-822c-9905bd2b76a0"
+	}
+}

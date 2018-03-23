@@ -1,0 +1,63 @@
+{
+	"id": "aed1b75d-1ca5-4381-b0a0-be90cea36929",
+	"imp": [{
+		"native": {
+			"request": "{\"ver\":1,\"layout\":6,\"assets\":[{\"id\":0,\"req\":1,\"title\":{\"len\":25}},{\"id\":1,\"req\":1,\"img\":{\"type\":3,\"wmin\":100,\"hmin\":100}},{\"id\":2,\"req\":1,\"img\":{\"type\":1,\"w\":50,\"h\":50}},{\"id\":3,\"req\":1,\"data\":{\"type\":2,\"len\":90}},{\"id\":4,\"req\":0,\"data\":{\"type\":3}},{\"id\":5,\"req\":0,\"data\":{\"type\":12,\"len\":15}}]}"
+		}
+	}],
+	"app": {
+		"id": "12252692",
+		"name": "Yahoo Weather",
+		"cat": ["IAB15", "IAB15-10"],
+		"bundle": "com.example.bundle",
+		"storeurl": "https://itunes.apple.com/app_id_url",
+		"publisher": {
+			"id": "qqwer1234xgfd",
+			"name": "publisher_name",
+			"domain": "publisher.name.com"
+		}
+	},
+	"device": {
+		"dnt": 0,
+		"dpimd5": "aasdfadsfwerqewr234",
+		"dpidsha1": "asdfasdfwererr",
+		"macsha1": "asdf2345562ds",
+		"macmd5": "asdfaxcv2345243",
+		"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/9537.53",
+		"ip": "134.201.250.155",
+		"geo": {
+			"lat": 34.067,
+			"lon": -118.242,
+			"country": "USA",
+			"city": "Los Angeles",
+			"region": "CA",
+			"zip": "90012",
+			"type": 2
+		},
+		"ifa": "asdfdfwerasd2454",
+		"carrier": "310-560",
+		"language": "en",
+		"make": "Apple",
+		"model": "iPhone",
+		"os": "iOS",
+		"osv": "7",
+		"connectiontype": 0,
+		"devicetype": 1
+	},
+	"user": {
+		"buyeruid": "89776897686798fwe878976fsd78665dsfgsdfg9678",
+		"id": "55816b39711f9b5acf3b90e313ed29e51665623f",
+		"gender": "M",
+		"yob": 1975,
+		"customdata": "Some custom data string",
+		"data": [{
+			"id": "12qwer34134kjjkklj",
+			"name": "data_name",
+			"segment": [{
+				"id": "345qw245wfrtgwertrt56765wert",
+				"name": "segment_name",
+				"value": "segment_value"
+			}]
+		}]
+	}
+}

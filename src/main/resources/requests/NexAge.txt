@@ -1,0 +1,77 @@
+{
+    "id": "58fb37bb-646a-4a5e-b1a9-a1f01c43ed62",
+    "at": 2,
+    "bcat": [
+        "IAB8-5",
+        "IAB14-1",
+        "IAB26",
+        "IAB25",
+        "IAB24",
+        "NEX8-101"
+    ],
+    "imp": [
+        {
+            "id": "58fb37bb-646a-4a5e-b1a9-a1f01c43ed62-1",
+            "instl": 0,
+            "video": {
+                "h": 480,
+                "w": 320,
+                "pos": 7,
+                "mimes": [
+                    "video/mp4",
+                    "video/3gpp"
+                ],
+                "linearity": 1,
+                "minduration": 0,
+                "maxduration": 30,
+                "protocol": 2
+            },
+            "displaymanager": "web",
+            "bidfloor": 6,
+            "ext": {
+                "nex_screen": 0
+            }
+        }
+    ],
+    "app": {
+        "id": "60204",
+        "name": "Kiip - INTL - iPhone",
+        "publisher": {
+            "id": "16745",
+            "name": "Kiip"
+        },
+        "domain": "kiip.me",
+        "cat": [
+            "IAB1"
+        ],
+        "ext": {
+            "nex_coppa": 0
+        },
+        "bundle": "VAST_com-pikpok-rivalstarsbasketball.app",
+        "storeurl": "www.kiip.me"
+    },
+    "device": {
+        "ip": "94.14.0.52",
+        "carrier": "WIFI",
+        "ua": "USER_AGENT",
+        "connectiontype": 2,
+        "devicetype": 1,
+        "geo": {
+            "country": "GBR",
+            "zip": "E1 8EP",
+            "type": 2
+        },
+        "ext": {
+            "nex_ifa": "2DD64F5B-8C4D-4054-813F-56AE6B6BC3D1",
+            "nex_tablet": 0
+        }
+    },
+    "user": {
+        "id": "2DD64F5B-8C4D-4054-813F-56AE6B6BC3D1",
+        "keywords": "Sports",
+        "geo": {
+            "zip": "E1 8EP",
+            "type": 3
+        }
+    }
+}

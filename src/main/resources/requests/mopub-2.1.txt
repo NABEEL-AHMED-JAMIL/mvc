@@ -1,0 +1,160 @@
+{
+    "app": {
+        "bundle": "418987775",
+        "cat": [
+            "IAB1",
+            "IAB1-6",
+            "entertainment",
+            "music"
+        ],
+        "id": "agltb3B1Yi1pbmNyDAsSA0FwcBjq_6EUDA",
+        "name": "TuneIn Radio",
+        "publisher": {
+            "id": "agltb3B1Yi1pbmNyEAsSB0FjY291bnQYsv-PFAw",
+            "name": "TuneIn"
+        },
+        "storeurl": "http://itunes.apple.com/us/app/tunein-radio/id418987775?mt=8&uo=4",
+        "ver": "7.0"
+    },
+    "at": 2,
+    "badv": [
+        "aharadio",
+        "aolradio",
+        "bank-31.ads.mp.mydas.mobi",
+        "brighthouse",
+        "cable",
+        "cablevision",
+        "fios",
+        "gameofwarapp.com",
+        "gamifive.au",
+        "gumi.sg",
+        "http://www.nq.com/",
+        "iheart",
+        "iheartradio",
+        "last.fm",
+        "meethue.com",
+        "mobitraxster.com",
+        "networks",
+        "ngsecuritysummitus.com",
+        "pandora",
+        "play.google.com",
+        "radio",
+        "radio.com",
+        "rhapsody",
+        "rhapsody.com",
+        "sexfuckteen.com",
+        "shazam",
+        "slacker",
+        "slackerradio",
+        "soundhound",
+        "spotify",
+        "stitcher",
+        "time",
+        "warner",
+        "wildturkey",
+        "wildturkeybourbon",
+        "www.aharadio.com",
+        "www.applift.com",
+        "www.doubledowncasino.com",
+        "www.droidscience.com",
+        "www.dsqads.com",
+        "www.gree.com/crimecity_",
+        "www.gree.com/modernwar_",
+        "www.gree.com/warofnations_",
+        "zoosk"
+    ],
+    "bcat": [
+        "IAB25",
+        "IAB26",
+        "IAB7-39",
+        "IAB8-5",
+        "IAB8-18",
+        "IAB9-9",
+        "IAB14-1",
+        "IAB6-7",
+        "IAB7-3",
+        "IAB7-28",
+        "IAB7-30",
+        "IAB14-2",
+        "IAB14-3"
+    ],
+    "device": {
+        "carrier": "268-01",
+        "connectiontype": 2,
+        "devicetype": 1,
+        "dnt": 0,
+        "dpidmd5": "256cf8e17f8973608a465839a12a4480",
+        "dpidsha1": "645de3d96c2eb4eaf63507a587d49ccf127dbbcd",
+        "ext": {
+            "idfa": "6C30A849-13F8-4336-AF6F-C6E1C6AA4B73"
+        },
+        "geo": {
+            "country": "GBR",
+            "lat": 51.536648,
+            "lon": -0.074549817
+        },
+        "ip": "82.47.127.43",
+        "js": 1,
+        "language": "en",
+        "make": "Apple",
+        "model": "iPhone 5s (GSM+CDMA)",
+        "os": "iOS",
+        "osv": "8.1.3",
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466"
+    },
+    "id": "af53f2fc-bd54-47af-8ebc-0abfd78b80cc",
+    "imp": [
+        {
+            "banner": {
+                "api": [
+                    3
+                ],
+                "battr": [
+                    9,
+                    10,
+                    8,
+                    14,
+                    6
+                ],
+                "btype": [
+                    4
+                ],
+                "ext": {
+                    "nativebrowserclick": 1
+                },
+                "h": 50,
+                "pos": 1,
+                "w": 320
+            },
+            "bidfloor": 0.7,
+            "displaymanager": "mopub",
+            "displaymanagerver": "3.2.0",
+            "id": "1",
+            "instl": 0,
+            "tagid": "agltb3B1Yi1pbmNyDQsSBFNpdGUY5bygFAw"
+        }
+    ],
+    "user": {
+        "data": [
+            {
+                "id": "bluekai",
+                "name": "bluekai",
+                "segment": [
+                    {
+                        "id": "2090"
+                    },
+                    {
+                        "id": "215762"
+                    },
+                    {
+                        "id": "234421"
+                    }
+                ]
+            }
+        ],
+        "keywords": "class:music,genre_id:g20,ListingId:s95445,is_mature:false,is_family:false"
+    },
+    "wseat": [
+        "agltb3B1Yi1pbmNyNAsSB0FkR3JvdXAiJ21rdDphZ2x0YjNCMVlpMXBibU55RFFzU0JGTnBkR1VZNWJ5Z0ZBdww"
+    ]
+}

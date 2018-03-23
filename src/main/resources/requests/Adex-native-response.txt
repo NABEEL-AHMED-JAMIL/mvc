@@ -1,0 +1,36 @@
+ad {
+  adslot {
+    id: 1
+    max_cpm_micros: 4000000
+  }
+  click_through_url: "https://ad.doubleclick.net/ddm/trackclk/N9253.789343ADMAXIM.COM0/B10314553.138951476;dc_trk_aid=311243265;dc_trk_cid=74522854;dc_lat=;dc_rdid=b2674cfc-7b9f-443c-96f8-d7ca5cc743f8;tag_for_child_directed_treatment="
+  attribute: 70
+  category: 0
+  buyer_creative_id: "876"
+  width: 1200
+  height: 627
+  agency_id: 1
+  restricted_category: 0
+  native_ad {
+    headline: "Sentido Resorts"
+body: "Explore the Letoonia Golf Resort via your mobile"
+call_to_action: "360 View"
+advertiser: "Thomas Cook"
+image {
+  url: "https://cdn.admaxim.com/50_019696523710676195.png"
+  width: 1200
+  height: 627
+}
+logo {
+  url: "https://cdn.admaxim.com/50_07532402259702573.png"
+  width: 128
+  height: 128
+}
+click_tracking_url: "https://rtbtrack-uk.admaxim.com/adtracker/track/track/click?id=Z965Z63283Z-1Z12968_com.dianxinos.optimizer.duplayZ50Z0Z0ZZ8.0Z6.0Z0.9139999999999999Z1.086ZgbZgreater+londonZlondonZec4nZhuaweiZandroid_4.4.2Zy360-u31Zp-6665-eb3d373a-7c49-1616-7770-0f94bddef559ZZZagx3-gnx2Z1-0-Z-1Z1200x627Z8841862600249961027608816641261ZZ1Z2ZenZ12968Z13550Z2Z0ZZZ2,1Z500Z&ts=1479104026155&creative_id=63283:965&ru="
+  }
+  impression_tracking_url: "https://adstaging.admaxim.com/adtracker/track/track/view?id=Z876Z61634Z-1Z12968_com.imo.android.imoimZ50Z0Z0ZZ20.0Z16.0Z0.0Z4.0ZsaZZZZlenovoZandroid_5.0.0Za7000-aZa-b2674cfc-7b9f-443c-96f8-d7ca5cc743f8Ziab19%2ciab4-9ZZagx4-gnx2Z0-0-Z-1Z1200x627Z876671110115656572837173755589706810411989651221196161ZZ1Z2ZenZ12968Z13537Z2Z0ZZZ1Z500Z&ts=1477635686327&creative_id=61634:876&CACHEBUSTER=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://adstaging.admaxim.com/adtracker/track/track/imp?id=Z876Z61634Z-1Z12968_com.imo.android.imoimZ50Z0Z0ZZ20.0Z16.0Z0.0Z4.0ZsaZZZZlenovoZandroid_5.0.0Za7000-aZa-b2674cfc-7b9f-443c-96f8-d7ca5cc743f8Ziab19%2ciab4-9ZZagx4-gnx2Z0-0-Z-1Z1200x627Z876671110115656572837173755589706810411989651221196161ZZ1Z2ZenZ12968Z13537Z2Z0ZZZ1Z500Z&ts=1477635686327&creative_id=61634:876&CACHEBUSTER=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://pixel.adsafeprotected.com/rfw/st/64105/10849136/skeleton.gif"
+  impression_tracking_url: "https://pixel.adsafeprotected.com/rjss/st/64105/10849137/skeleton.js"
+  impression_tracking_url: "https://ad.doubleclick.net/ddm/trackimp/N9253.789343ADMAXIM.COM0/B10314553.138951476;dc_trk_aid=311243265;dc_trk_cid=74522854;ord=876671110115656572837173755589706810411989651221196161;dc_lat=;dc_rdid=b2674cfc-7b9f-443c-96f8-d7ca5cc743f8;tag_for_child_directed_treatment=?"
+}

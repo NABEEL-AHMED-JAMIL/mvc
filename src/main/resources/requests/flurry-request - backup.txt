@@ -1,0 +1,70 @@
+{
+    "id": "bc511337-a982-4b30-864f-e2332393953c",
+    "imp": [
+        {
+            "id": "1d868451-397f-4b85-b3e3-2c3fd2b6e768",
+            "banner": {
+                "w": 320,
+                "h": 50,
+                "ext": {
+                    "vendors": [
+                        "Crisp",
+                        "Medialets",
+                        "Celtra"
+                    ]
+                },
+                "pos": 0,
+                "api": [
+                    2
+                ]
+            },
+            "instl": 0,
+            "displaymanager": "FlurryiOS",
+            "displaymanagerver": "121",
+            "bidFloor": 0.001
+        }
+    ],
+    "app": {
+        "id": "05c34db266858a070c7e51f0a1df3ecae233dc3d",
+        "name": "testapp_ios",
+        "domain": "testapp_ios",
+        "privacypolicy": 0,
+        "publisher": {
+            "id": "b44d7cf899c296031c4ec07139edf2294a58280d",
+            "name": "test"
+        },
+        "ext": {
+            "flurrycategory": "Books"
+        }
+    },
+    "device": {
+        "dnt": 0,
+        "ip": "62.189.234.238",
+        "geo": {
+            "city": "London",
+            "type": 2
+        },
+        "didsha1": "4C40111882A09D99039A532094F97F9768F303EB",
+        "dpidsha1": "f418785231848d55c502e437afaaee9ccfd23d16",
+        "ua": "Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329",
+        "language": "en",
+        "model": "iPad3,1",
+        "os": "iOS",
+        "osv": "6.1.3",
+        "connectiontype": 2,
+        "devicetype": 1,
+        "ext": {
+            "flurryDpid": "8510E423-5001-4FCE-8CFC-8DFD153A2C2A"
+        }
+    },
+    "user": {
+        "data": []
+    },
+    "bcat": [],
+    "badv": [],
+    "ext": {
+        "device_geo_country_alpha2": "GB"
+    },
+    "at": 2,
+    "tmax": 450
+}

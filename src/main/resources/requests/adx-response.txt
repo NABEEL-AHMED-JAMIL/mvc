@@ -1,0 +1,17 @@
+ad {
+  html_snippet: "<script type=\"text/javascript\">var tab_adloox_alerte_id_spaceandtime_admaxim=[\'Adx\',\'12968_804379658\',\'9021341840618719510237160981958127164\',\'076DA549-C5EC-4CD0-8E0F-50E3C6F14E39\'];</script>  <script type=\"text/javascript\" src=\"https://j.adlooxtracking.com/ads/js/tfav_spctmeadmxm_spctme1admxm.js\"></script><a href=\"%%CLICK_URL_UNESC%%https://track-fr.admaxim.com/adtracker/track/track/click?id=Z83776Z70978Z-1Z12968_804379658Z6Z0Z0ZZ1.5Z0.225Z0.0Z1.275ZgbZgreater+londonZlondonZe1+7bhZappleZios_9.3.5ZipadZ076DA549-C5EC-4CD0-8E0F-50E3C6F14E39Ziab1%2Ciab17%2Ciab9-5%2Ciab9ZZhix54-agx56-gnx52-htx51Z1-0-Z-1Z728x90Z9021341840618719510237160981958127164ZZ1Z6ZenZ12968Z13332Z2Z0ZZZZZ&ts=1511334584686&creative_id=70978:83776&ord=%%CACHEBUSTER%%\" target=\"_blank\"><img src=\"https://track-fr.admaxim.com/adtracker/track/track/imp?id=Z83776Z70978Z-1Z12968_804379658Z6Z0Z0ZZ1.5Z0.225Z0.0Z1.275ZgbZgreater+londonZlondonZe1+7bhZappleZios_9.3.5ZipadZ076DA549-C5EC-4CD0-8E0F-50E3C6F14E39Ziab1%2Ciab17%2Ciab9-5%2Ciab9ZZhix54-agx56-gnx52-htx51Z1-0-Z-1Z728x90Z9021341840618719510237160981958127164ZZ1Z6ZenZ12968Z13332Z2Z0ZZZZZ&ts=1511334584686&creative_id=70978:83776&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%\"></a>"
+  adslot {
+    id: 1
+    max_cpm_micros: 1275000
+    billing_id: 52133176048
+  }
+  click_through_url: "https://www.cala.co.uk"
+  attribute: 47
+  category: 0
+  buyer_creative_id: "83776_6"
+  width: 728
+  height: 90
+  agency_id: 1
+  restricted_category: 0
+  impression_tracking_url: "https://track-fr.admaxim.com/adtracker/track/track/view?id=Z83776Z70978Z-1Z12968_804379658Z6Z0Z0ZZ1.5Z0.225Z0.0Z1.275ZgbZgreater+londonZlondonZe1+7bhZappleZios_9.3.5ZipadZ076DA549-C5EC-4CD0-8E0F-50E3C6F14E39Ziab1%2Ciab17%2Ciab9-5%2Ciab9ZZhix54-agx56-gnx52-htx51Z1-0-Z-1Z728x90Z9021341840618719510237160981958127164ZZ1Z6ZenZ12968Z13332Z2Z0ZZZZZ&ts=1511334584686&creative_id=70978:83776&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+}

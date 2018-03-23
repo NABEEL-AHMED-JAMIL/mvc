@@ -1,0 +1,66 @@
+{
+    "at": 2,
+    "bcat": [
+        "IAB7-28",
+        "IAB17-18",
+        "IAB26",
+        "IAB25",
+        "IAB7-42",
+        "IAB9-9",
+        "IAB24",
+        "IAB23"
+    ],
+    "device": {
+        "connectiontype": 0,
+        "devicetype": 1,
+        "geo": {
+            "country": "IND",
+            "type": 3
+        },
+        "ip": "203.88.6.34",
+        "js": 1,
+        "make": "Dorado",
+        "model": "Wap Browser",
+        "ua": "Dorado WAP-Browser/1.0.0"
+    },
+    "ext": {
+        "carriername": "Vodafone",
+        "coppa": 0,
+        "operaminibrowser": 0,
+        "udi": {}
+    },
+    "id": "8HG4P100Bt",
+    "imp": [
+        {
+            "banner": {
+                "mimes": [
+                    "application/javascript",
+                    "image/gif",
+                    "image/jpeg",
+                    "image/png",
+                    "text/html",
+                    "text/javascript",
+                    "text/plain"
+                ],
+                "pos": 4
+            },
+            "displaymanager": "SOMA",
+            "id": "1",
+            "instl": 0
+        }
+    ],
+    "site": {
+        "cat": [
+            "IAB1",
+            "IAB1-6"
+        ],
+        "domain": "videomaza.in",
+        "id": "101000033",
+        "name": "VideoMaza.IN",
+        "publisher": {
+            "id": "1001000025",
+            "name": "VideoMaza.IN"
+        }
+    },
+    "user": {}
+}

@@ -1,0 +1,39 @@
+{
+    "id": "46b98393-fa6e-4778-a873-9d8913327bf5",
+    "tmax": 100,
+    "imp": [
+        {
+            "h": 50,
+            "impid": "80affe86-ccc9-4bca-8ee6-08fa1d2719ca",
+            "w": 320,
+            "instl": 0,
+            "bidfloor": 0.05,
+            "bidfloorcur": "USD"
+        }
+    ],
+    "app": {
+        "aid": "21808",
+        "cat": [
+            "Games"
+        ],
+        "name": "Monopoly Hotels"
+    },
+    "device": {
+        "loc": "0.93869567,-0.024143139",
+        "ip": "2.219.185.208",
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B350",
+        "make": "Apple",
+        "model": "iPhone",
+        "os": "iPhone+OS",
+        "osv": "6100.0",
+        "js": 1,
+        "devicetype": 0,
+        "language": "",
+        "dpid": "b1468c1ebedaa31a8c30c5e3ed1a6ea4"
+    },
+    "user": {
+        "zip": "",
+        "country": "GB",
+        "keywords": ""
+    }
+}

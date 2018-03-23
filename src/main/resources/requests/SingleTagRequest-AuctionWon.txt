@@ -1,0 +1,23 @@
+{   "notify_request":{
+      "timestamp":"2011-02-09 00:11:44",
+      "response_time_ms":4,
+      "tags":[
+         {
+            "id":474074,
+            "auction_id_64":7606327141949238687,
+            "payment_rule_id":65930,
+            "price_paid":0.90000,
+            "member_id":670,
+            "notify_type":"won",
+            "creative_id":12345,
+            "user_id_64":4628364836293826
+         }
+      ],
+      "responses":[
+         {
+            "result":"ok",
+            "price_bid":1.00000
+         }
+      ]
+   }
+}

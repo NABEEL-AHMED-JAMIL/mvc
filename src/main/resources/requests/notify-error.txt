@@ -1,0 +1,19 @@
+{
+    "notify_request": {
+        "timestamp": "2013-05-25 13:03:44",
+        "user_id_64": 8276281674300881000,
+        "response_time_ms": 26,
+        "fail": true,
+        "error": "Request throttled or aborted",
+        "error_id": 11,
+        "tags": [
+            {
+                "id": 978964,
+                "auction_id_64": 2005975269154217000,
+                "payment_rule_id": 175976,
+                "notify_type": "lost"
+            }
+        ],
+        "responses": []
+    }
+}

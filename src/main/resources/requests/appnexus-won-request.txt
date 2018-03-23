@@ -1,0 +1,26 @@
+{
+    "notify_request": {
+        "timestamp": "2013-07-24 17:43:33",
+        "response_time_ms": 84,
+        "tags": [
+            {
+                "id": 1439800,
+                "auction_id_64": 913936627553743600,
+                "payment_rule_id": 245228,
+                "valid_bid": true,
+                "price_paid": 1.25,
+                "member_id": 1547,
+                "creative_id": 7512491,
+                "notify_type": "won",
+                "custom_notify_data": "id=19572|29324|50003142|6663_370918|6|0|0|admaxim|5.0|3.75|0.0|1.25|AU|NEW+SOUTH+WALES|WOLLONGONG||Apple|Desktop|Safari|||||cpmf%3D0|-1|300x250|893c388f-91ef-48bb-88a5-fe1eaf6f11af|41|&creative_id=7512491"
+            }
+        ],
+        "responses": [
+            {
+                "result": "ok",
+                "price_bid": 1.25,
+                "custom_notify_data": "id=19572|29324|50003142|6663_370918|6|0|0|admaxim|5.0|3.75|0.0|1.25|AU|NEW+SOUTH+WALES|WOLLONGONG||Apple|Desktop|Safari|||||cpmf%3D0|-1|300x250|893c388f-91ef-48bb-88a5-fe1eaf6f11af|41|&creative_id=7512491"
+            }
+        ]
+    }
+}

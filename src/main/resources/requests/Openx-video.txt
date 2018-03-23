@@ -1,0 +1,83 @@
+{
+	"user": {
+		"buyeruid": "22a7c80b-4014-4561-4a06-cd16c6248fb8",
+		"id": "22a7c80b-4014-4561-4a06-cd16c6248fb8",
+		"ext": {
+			"marital": "M",
+			"ethnicity": 0,
+			"income": 60000
+		},
+		"gender": "M",
+		"yob": 1981
+	},
+	"imp": [{
+		"video": {
+			"ext": {
+				"matching_ad_id": [{
+					"ad_width": 240,
+					"ad_height": 400,
+					"creative_id": 803,
+					"placement_id": 940,
+					"campaign_id": 583
+				}]
+			},
+			"h": 400,
+			"w": 240,
+			"linearity": 1,
+			"startdelay": 0,
+			"protocols": [2],
+			"protocol": 2,
+			"maxduration": 30,
+			"minduration": 15,
+			"mimes": ["video/mp4"]
+		},
+		"id": "1b6e396c-9ecd-4324-a69a-013c7e0d8e7f",
+		"secure": 0
+	}],
+	"ext": {
+		"is_test": 1
+	},
+	"test": 1,
+	"device": {
+		"ext": {
+			"macaddress_sha1": "mac address sha1",
+			"macaddress_md5": "mac address md5",
+			"odin1": "odin1",
+			"browser_version": "testDeviceBrowserVersion",
+			"browser": "testDeviceBrowser"
+		},
+		"macmd5": "mac address md5",
+		"macsha1": "mac address sha1",
+		"dpidmd5": "android id md5",
+		"dpidsha1": "android id sha1",
+		"didsha1": "8a231772781e0d034bf4c5666a50af41f03425d0",
+		"connectiontype": 0,
+		"carrier": "test carrier",
+		"language": "en",
+		"osv": "8.1",
+		"os": "test device OS",
+		"model": "testDeviceModel",
+		"make": "testDeviceMaker",
+		"devicetype": 2,
+		"ip": "54.137.242.154",
+		"dnt": 0,
+		"ua": "Mozilla/5.0 (Windows; U; Windows NT 6.1; es-ES; rv:1.9.1.8) Gecko/20100202 Firefox/3.5.8;"
+	},
+	"site": {
+		"ext": {
+			"ssl_enabled": false,
+			"is_mobile_site": false
+		},
+		"publisher": {
+			"id": "6789"
+		},
+		"mobile": 0,
+		"ref": "http://www.example.com/referer",
+		"page": "http://www.example.com/",
+		"cat": ["IAB1-5"],
+		"domain": "www.example.com",
+		"name": "My Site",
+		"id": "e41efdb4-dffd-45a7-1e92-82f19f356189"
+	},
+	"id": "1b6e396c-9ecd-4324-a69a-013c7e0d8e7f"
+}

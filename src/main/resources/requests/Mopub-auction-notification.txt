@@ -1,0 +1,10 @@
+{
+    "latency": 0.137,
+    "reason": {
+        "description": "non_http_ok",
+        "id": 9
+    },
+    "bidfloor": 0.1,
+    "http_status": 503,
+    "id": "d42cca99e0584c21a33380d0f3efa3ce"
+}

@@ -1,0 +1,112 @@
+id: "W\367{\371\000\b\261!\n\206\024\r\330\r\211\341"
+ip: ""
+user_agent: "Mozilla/5.0 (Linux; Android 6.0.1; LG-H955 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.124 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9683448.8487000.2)"
+url: "https://play.google.com/store/apps/details?id=video.google.anonymous"
+detected_language: "hi"
+detected_vertical {
+  id: 926
+  weight: 0.33333334
+}
+detected_vertical {
+  id: 935
+  weight: 0.33333334
+}
+detected_vertical {
+  id: 1461
+  weight: 0.33333334
+}
+adslot {
+  id: 1
+    width: 640
+  height: 360
+   
+  excluded_attribute: 70
+  excluded_attribute: 27
+  excluded_attribute: 26
+  excluded_attribute: 16
+  excluded_attribute: 15
+  excluded_attribute: 14
+  excluded_attribute: 20
+  excluded_attribute: 25
+  excluded_attribute: 48
+  excluded_attribute: 13
+  excluded_attribute: 19
+  excluded_attribute: 18
+  excluded_attribute: 17
+  excluded_attribute: 34
+  excluded_attribute: 30
+  excluded_attribute: 7
+  allowed_vendor_type: 113
+  excluded_sensitive_category: 4
+  excluded_sensitive_category: 31
+  excluded_sensitive_category: 24
+  matching_ad_data {
+    billing_id: 10676000326
+  }
+  slot_visibility: ABOVE_THE_FOLD
+  ad_block_key: 1
+  publisher_settings_list_id: 2894703285869548161
+  viewability: 70
+  allowed_restricted_category: 33
+  click_through_rate: 0.0338379
+  renderer: GOOGLE
+}
+is_test: false
+cookie_version: 1
+google_user_id: "CAESEBHmIRB8zk37FxWVLDJz4cM"
+timezone_offset: 210
+detected_content_label: 59
+detected_content_label: 39
+detected_content_label: 87
+mobile {
+  app_id: "andyroid.net"
+  is_app: true
+  is_interstitial_request: true
+  app_category_ids: 60036
+  app_category_ids: 60008
+  app_category_ids: 60000
+  app_category_ids: 69500
+  encrypted_advertising_id: "W\367{\371\000\b\261!\n\206\024\r\001\r\211\341\t|\234\237y(^\317,\357\330\324e\237\344\321\356cT\362"
+  app_name: "slither.io"
+  app_rating: 4.224318
+  advertising_id: "\032\201\267|\'7L$\207X\214 0O\240\304"
+}
+video {
+  videoad_start_delay: 0
+  max_ad_duration: 90000
+  video_ad_skippable: REQUIRE_SKIPPABLE
+  allowed_video_formats: VIDEO_MP4
+  allowed_video_formats: YT_HOSTED
+ companion_slot {
+    height: 120
+    width: 20
+	height: 0
+    width: 0
+    creative_format: IMAGE_CREATIVE
+  }
+  playback_method: AUTO_PLAY_SOUND_ON
+  is_clickable: true
+  placement: INTERSTITIAL
+}
+cookie_age_seconds: 950400
+geo_criteria_id: 1007788
+seller_network_id: 1
+publisher_settings_list_id: 5828128834866304849
+publisher_type: GOOGLE_REPRESENTED
+partner_id: 5828128834866304849
+device {
+  device_type: HIGHEND_PHONE
+  platform: "android"
+  brand: "lg"
+  model: "h955"
+  os_version {
+    major: 6
+    minor: 0
+    micro: 1
+  }
+  carrier_id: 0
+  screen_width: 598
+  screen_height: 360
+  screen_pixel_ratio_millis: 3000
+  screen_orientation: LANDSCAPE
+}

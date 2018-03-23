@@ -1,0 +1,11 @@
+api_version: 10
+auction_id: "a6e61c13-5f3a-4502-9000-38f93746833c"
+results {
+  matching_ad_id {
+    campaign_id: 0
+    placement_id: 0
+    creative_id: 0
+  }
+  status: error
+  error_reason: "timeout"
+}

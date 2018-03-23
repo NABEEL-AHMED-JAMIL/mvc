@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<bidRequest version="6.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns="urn:yahoo:amp:3pi:bidReq" 
+xmlns:bid="urn:yahoo:amp:3pi:bidReqMain" 
+xmlns:fac="urn:yahoo:amp:3pi:fac" 
+xsi:schemaLocation="urn:yahoo:amp:3pi:bidReq BidRequest.xsd">
+  <bidReqEnv signature="md5 SHA-1 hash of bidRequest" signType="SHA-1" 
+token="1218078703"/>
+  <bidReq>
+    <bid:bidCommon>
+      <bid:oppId>e33cc832-103d-11e1-bdf8-bf912fe33af1</bid:oppId>
+      <bid:host>ad.yieldmanager.com</bid:host>
+      <bid:latency>100</bid:latency>
+      <bid:adDimension>
+        <bid:width>300</bid:width>
+        <bid:height>250</bid:height>
+      </bid:adDimension>
+      <bid:userAgent>Mozilla/5.0 (Linux; X11; UTF-8)</bid:userAgent>
+      <bid:lang>en</bid:lang>
+      <bid:exchangeId>5e3049304390</bid:exchangeId>
+      <bid:minQualBid>1.2</bid:minQualBid>
+      <bid:flashVer>0</bid:flashVer>
+      <bid:isSecure>0</bid:isSecure>
+      <bid:adPosition>0</bid:adPosition>
+      <bid:pubUrl>http://sports.yahoo.com/nba</bid:pubUrl>
+      <bid:sellerId>357890</bid:sellerId>
+      <bid:sectionId>5962843</bid:sectionId>
+      <bid:pubChannel>
+        <bid:pubChannelItem>sports</bid:pubChannelItem>
+        <bid:pubChannelItem>fashion</bid:pubChannelItem>
+      </bid:pubChannel>
+      <bid:age>30</bid:age>
+      <bid:gender>u</bid:gender>
+      <bid:ip>209.73.175.0</bid:ip>
+      <bid:country>US</bid:country>
+      <bid:userLocation>
+        <bid:state>CA</bid:state>
+        <bid:metro>803</bid:metro>
+        <bid:city>Los Angeles</bid:city>
+      </bid:userLocation>
+      <bid:mobileLocation>
+12 45'56"N,123 45'56"E
+</bid:mobileLocation>
+      <bid:blocklistIds>
+100000,100001,100002,100009,200000,200001,200002,200009
+</bid:blocklistIds>
+      <bid:sectionCode>abc</bid:sectionCode>
+      <bid:siteID>123</bid:siteID>
+      <bid:sellerSeatID>123test</bid:sellerSeatID>
+      
+    </bid:bidCommon>
+    <bid:advSet>
+      <bid:adv>
+        <bid:advId>123456</bid:advId>
+        <bid:buyerLine>6162843</bid:buyerLine>
+        <bid:revShare>100</bid:revShare>
+        <bid:sellerLine>2932132</bid:sellerLine>
+        <bid:sellerICode>772443</bid:sellerICode>
+        
+      </bid:adv>
+      <bid:adv>
+        <bid:advId>237859</bid:advId>
+        <bid:buyerLine>5912843</bid:buyerLine>
+        <bid:revShare>100</bid:revShare>
+        <bid:sellerLine>2933341</bid:sellerLine>
+        <bid:sellerICode>773413</bid:sellerICode>
+        
+      </bid:adv>
+    </bid:advSet>
+  </bidReq>
+</bidRequest>

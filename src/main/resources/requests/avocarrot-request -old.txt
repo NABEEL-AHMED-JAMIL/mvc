@@ -1,0 +1,125 @@
+{
+    "app": {
+        "bundle": "651510680",
+        "cat": [
+            "IAB1",
+            "IAB9",
+            "IAB9-30",
+            "entertainment",
+            "games"
+        ],
+        "id": "122526",
+        "name": "Trivia Crack iOS",
+        "publisher": {
+            "id": "8cc575bd24ad48bcbb6a3b0e1a71d171",
+            "name": "Etermax"
+        },
+        "storeurl": "https://itunes.apple.com/us/app/trivia-crack/id651510680?mt=8&uo=4",
+        "ver": "2.0.1"
+    },
+    "at": 2,
+    "badv": [
+        "club1616.com",
+        "huntmads.com",
+        "mobilestreams.com",
+        "mobilestrems.com",
+        "movistar.com",
+        "movistar.mobilewap.com",
+        "pdx.mobileboost.me",
+        "quizup.com",
+        "wlsmapi.com"
+    ],
+    "bcat": [
+        "IAB7-39",
+        "IAB8-5",
+        "IAB8-18",
+        "IAB9-9",
+        "IAB25",
+        "IAB26"
+    ],
+    "device": {
+        "carrier": "268-01",
+        "connectiontype": 2,
+        "devicetype": 1,
+        "dnt": 0,
+        "dpidmd5": "93ce518d990612559cc1606f7845b132",
+        "dpidsha1": "42c3bfc8addc4e77c7a37c4f4f308575c4305abe",
+        "idfa": "FB57D772-F461-477A-B05F-2CD0EC2FCE69",
+        "geo": {
+            "city": "Porto",
+            "country": "PRT",
+            "region": "17"
+        },
+        "ip": "89.154.189.14",
+        "js": 1,
+        "language": "pt",
+        "make": "Apple",
+        "model": "iPhone",
+        "os": "iOS",
+        "osv": "8.2",
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508"
+    },
+    "id": "cb6e826d-f2ef-48b2-aea7-e33a19bb0338",
+    "imp": [
+        {
+            "native": {
+                "api": [
+                    3,
+                    5
+                ],
+                "battr": [
+                    2,
+                    6,
+                    9,
+                    10,
+                    8,
+                    14
+                ],
+                "btype": [
+                    4
+                ],
+                "assets": [
+                    {
+                        "id": 1,
+                        "required": 1,
+                        "title": {
+                            "len": 30
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "required": 1,
+                        "img": {
+                            "type": 1,
+                            "wmin": 64,
+                            "hmin": 64,
+                            "mimes": []
+                        }
+                    },
+					{
+                        "id": 4,
+                        "required": 0,
+                        "data": {
+                            "type": 3,
+                            "len": 40
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "required": 0,
+                        "data": {
+                            "type": 2,
+                            "len": 40
+                        }
+                    }
+                ]
+            },
+            "bidfloor": 1.2,
+            "displaymanager": "avocarrot",
+            "displaymanagerver": "3.3.0",
+            "id": "1",
+            "instl": 0,
+            "tagid": "b8fece5dc496416baa66f3a66e1de275"
+        }
+    ]
+}

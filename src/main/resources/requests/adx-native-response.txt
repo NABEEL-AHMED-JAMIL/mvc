@@ -1,0 +1,37 @@
+ad {
+  adslot {
+    id: 1
+    max_cpm_micros: 2000000
+  }
+  click_through_url: "https://ad.doubleclick.net/ddm/trackclk/N9253.789343ADMAXIM.COM0/B10314553.138951474;dc_trk_aid=311243020;dc_trk_cid=74522854;dc_lat=;dc_rdid=0ea79c2c-7cb9-4189-b01a-13bd269595af;tag_for_child_directed_treatment="
+  attribute: 70
+  category: 0
+  buyer_creative_id: "873"
+  width: 1200
+  height: 627
+  agency_id: 1
+  restricted_category: 0
+  native_ad {
+    headline: "\330\263\330\261 \330\250\330\264\330\261\330\251 \330\247\331\204\330\243\330\267\331\201\330\247\331\204 \330\247\331\204\331\206\330\247\330\271\331\205\330\251"
+    body: "\331\205\331\202\330\247\330\261\331\206\330\251 \330\250\331\212\331\206 \330\257\331\205\330\271 \330\247\331\204\330\255\331\210\330\261\331\212\330\251 \331\210\330\254\331\210\331\206\330\263\331\210\331\206"
+    call_to_action: "\330\247\331\203\330\252\330\264\331\201\331\212 \330\247\331\204\331\206\330\252\331\212\330\254\330\251!"
+    advertiser: "Johnson\'s"
+    image {
+      url: "https://cdn.admaxim.com/50_047611102706499653.png"
+      width: 1200
+      height: 627
+    }
+    logo {
+      url: "https://cdn.admaxim.com/50_046373205565209064.png"
+      width: 128
+      height: 128
+    }
+    click_tracking_url: "https://rtbtrack-uk.admaxim.com/adtracker/track/track/click?id=Z873Z61635Z-1Z12968_1061724021Z50Z0Z0ZZ10.0Z8.0Z0.0Z2.0ZsaZar+riy%c3%a4%ef%bf%bd%c3%a1%c2%b8%e2%80%98ZriyadhZZappleZios_10.0.2ZiphoneZi-6c4c5472-1c74-4fe9-8833-5b4332ae79eaZiab18%2ciab19ZZagx5-gnx2Z0-0-Z-1Z1200x627Z88171671880018251102371351201621254171ZZ1Z2ZarZ12968Z13545Z2Z0ZZZ2Z500Z&ts=1477552060120&creative_id=61635:873&ru="
+  }
+  impression_tracking_url: "https://rtbtrack-uk.admaxim.com/adtracker/track/track/view?id=Z873Z61635Z-1Z12968_1061724021Z50Z0Z0ZZ10.0Z8.0Z0.0Z2.0ZsaZar+riy%c3%a4%ef%bf%bd%c3%a1%c2%b8%e2%80%98ZriyadhZZappleZios_10.0.2ZiphoneZi-6c4c5472-1c74-4fe9-8833-5b4332ae79eaZiab18%2ciab19ZZagx5-gnx2Z0-0-Z-1Z1200x627Z88171671880018251102371351201621254171ZZ1Z2ZarZ12968Z13545Z2Z0ZZZ2Z500Z&ts=1477552060120&creative_id=61635:873&CACHEBUSTER=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://rtbtrack-uk.admaxim.com/adtracker/track/track/imp?id=Z873Z61635Z-1Z12968_1061724021Z50Z0Z0ZZ10.0Z8.0Z0.0Z2.0ZsaZar+riy%c3%a4%ef%bf%bd%c3%a1%c2%b8%e2%80%98ZriyadhZZappleZios_10.0.2ZiphoneZi-6c4c5472-1c74-4fe9-8833-5b4332ae79eaZiab18%2ciab19ZZagx5-gnx2Z0-0-Z-1Z1200x627Z88171671880018251102371351201621254171ZZ1Z2ZarZ12968Z13545Z2Z0ZZZ2Z500Z&ts=1477552060120&creative_id=61635:873&CACHEBUSTER=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+  impression_tracking_url: "https://pixel.adsafeprotected.com/rjss/st/64105/10849135/skeleton.js"
+  impression_tracking_url: "https://ad.doubleclick.net/ddm/trackimp/N9253.789343ADMAXIM.COM0/B10314553.138951474;dc_trk_aid=311243020;dc_trk_cid=74522854;ord=8817212210981561081166110254712439;dc_lat=;dc_rdid=0ea79c2c-7cb9-4189-b01a-13bd269595af;tag_for_child_directed_treatment=?"
+  impression_tracking_url: "https://pixel.adsafeprotected.com/rfw/st/64105/10849134/skeleton.gif"
+}
+processing_time_ms: 24

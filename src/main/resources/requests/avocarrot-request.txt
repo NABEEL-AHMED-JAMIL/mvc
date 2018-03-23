@@ -1,0 +1,53 @@
+{
+    "timestamp": "2015-07-17T05:24:43+00:00",
+    "id": "ad89e53f-773a-415c-8430-238a13f516ac",
+    "at": 2,
+    "imp": [
+        {
+            "id": "e7feb8ce-a85b-4663-b2e7-b83dd07fffe5",
+            "bidfloor": 0.01,
+            "tagid": "default",
+            "native": {
+			"request": "{\"ver\":\"1\",\"layout\":6,\"assets\":[{\"id\":0,\"req\":1,\"title\":{\"len\":25}},{\"id\":1,\"req\":1,\"img\":{\"type\":3,\"wmin\":300,\"hmin\":250}},{\"id\":2,\"req\":1,\"img\":{\"type\":2,\"wmin\":50,\"hmin\":50}},{\"id\":3,\"req\":1,\"data\":{\"type\":2,\"len\":90}},{\"id\":4,\"req\":0,\"data\":{\"type\":3}},{\"id\":5,\"req\":0,\"data\":{\"type\":12,\"len\":15}}]}"
+		}
+        }
+    ],
+    "app": {
+        "storeurl": "https://play.google.com/store/apps/details?id=com.appeffectsuk.bustracker&hl=en",
+        "cat": [
+            "IAB24"
+        ],
+        "id": "2092",
+        "name": "LiveLondonBusTracker",
+        "publisher": {
+            "id": "1872"
+        }
+    },
+    "device": {
+        "connectiontype": 3,
+        "carrier": "3 UK",
+        "ip": "",
+        "geo": {
+            "country": "PK"
+        },
+        "language": "ro",
+        "make": "samsung SM-G900F",
+        "model": "Android",
+        "devicetype": 1,
+        "dnt": 1,
+        "os": "Android",
+        "osv": "5.0",
+        "didsha1": "f478fc2a30e886d9e6ac2145234d982b8ec69042",
+        "ua": "Dalvik/2.1.0 (Linux; U; Android 5.0; LG-D855 Build/LRX21R.A1445306351)"
+    },
+    "user": {
+        "id": "530a21c16f104d80"
+    },
+    "ext": {
+        "placementType": "LIST",
+        "imageDimensions": {
+            "w": 1200,
+            "h": 627
+        }
+    }
+}

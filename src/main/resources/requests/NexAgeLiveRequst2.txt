@@ -1,0 +1,65 @@
+{
+    "id": "6f923a76-e99d-48dc-9972-582432870904",
+    "at": 2,
+    "bcat": [
+        "IAB14",
+        "IAB24",
+        "IAB25",
+        "IAB26"
+    ],
+    "imp": [
+        {
+            "id": "6f923a76-e99d-48dc-9972-582432870904-1",
+            "banner": {
+                "h": 50,
+                "w": 320,
+                "btype": [
+                    4
+                ],
+                "pos": 0
+            },
+            "displayManager": "web",
+            "ext": {
+                "nex_screen": 0
+            }
+        }
+    ],
+    "app": {
+        "id": "23089",
+        "name": "InMobiSupply-INTL-Android-RTB",
+        "publisher": {
+            "id": "5253",
+            "name": "InMobi Supply"
+        },
+        "domain": "http://www.inmobi.com/",
+        "cat": [
+            "IAB1"
+        ],
+        "storeurl": "http://www.inmobi.com/"
+    },
+    "device": {
+        "dpidsha1": "76cfa1d78c8db34875b3061bb2119cedfa14ebcd",
+        "ip": "84.175.254.228",
+        "carrier": "WIFI",
+        "ua": "Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; LT18i Build/4.1.B.0.587) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+        "make": "Sony Ericsson",
+        "model": "LT18i/Ayame",
+        "osv": "4.0.4",
+        "os": "Android",
+        "connectiontype": 2,
+        "devicetype": 1,
+        "geo": {
+            "country": "DEU"
+        },
+        "ext": {
+            "nex_tablet": "0"
+        }
+    },
+    "user": {
+		"id":"ss",
+        "geo": {
+            "country": "DEU",
+            "type": "3"
+        }
+    }
+}

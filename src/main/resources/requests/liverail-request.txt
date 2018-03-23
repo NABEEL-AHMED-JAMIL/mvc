@@ -1,0 +1,64 @@
+{
+    "id": "LR_5552e22202e3c7.69369709",
+    "imp": [
+        {
+            "id": "1",
+            "video": {
+                "mimes": [
+                    "application/javascript",
+                    "application/x-javascript",
+                    "application/x-mpegurl",
+                    "application/vnd.apple.mpegurl",
+                    "video/mp4",
+                    "video/3gpp"
+                ],
+                "protocols": [
+                    2,
+                    5
+                ],
+                "w": 300,
+                "h": 250,
+                "startdelay": -1,
+                "linearity": 1,
+                "minduration": 0,
+                "maxduration": 180,
+                "minbitrate": 256,
+                "playbackmethod": [
+                    1
+                ],
+                "ext": {
+                    "adtype": 2
+                }
+            },
+            "displaymanager": "LiveRail",
+            "instl": 0
+        }
+    ],
+    "site": {
+        "id": "50589",
+        "domain": "answers.com",
+        "page": "http%3A%2F%2Fwww.answers.com%2Farticle%2F1214022%2F10-famous-child-stars-that-you-wouldn-apos-t-recognize-now%3Fparam4%3Dtb-us-mo-enter",
+        "publisher": {
+            "id": "50589",
+            "domain": "answers.com"
+        },
+        "content": {
+            "id": "1",
+            "title": "1",
+            "context": "7",
+            "livestream": null
+        }
+    },
+    "device": {
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4",
+        "ip": "70.198.130.200",
+        "carrier": "",
+        "make": "",
+        "model": "",
+        "connectiontype": 0,
+        "dnt": 0
+    },
+    "user": {
+        "id": "3.1431495201918.3101727640984010002"
+    }
+}

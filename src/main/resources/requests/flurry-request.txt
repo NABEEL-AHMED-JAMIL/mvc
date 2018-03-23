@@ -1,0 +1,91 @@
+{
+ 	"id": "ae159a4f-6250-4061-bca8-0e76b226eec2",
+ 	"imp": [{
+ 		"id": "fab1109e-184b-4207-a4ff-f45200dea29e",
+ 		"banner": {
+ 			"w": 320,
+ 			"h": 480,
+ 			"pos": 0,
+ 			"battr": [7]
+ 		},
+ 		"instl": 1
+ 	}],
+ 	"app": {
+ 		"id": "48777cb4bc4d31ae4fb309ac373066a70a610ddb",
+ 		"name": "Episode: Choose Your Story",
+ 		"domain": "Episode:ChooseYourStory.PocketGems.com",
+ 		"cat": ["IAB9-30"],
+ 		"bundle": "656971078",
+ 		"privacypolicy": 0,
+ 		"publisher": {
+ 			"id": "24d6849948d2f2f82af3b7e9fd805e43fad9e060",
+ 			"name": "Pocket Gems"
+ 		},
+ 		"ext": {
+ 			"flurrycategory": "Games"
+ 		}
+ 	},
+ 	"device": {
+ 		"dnt": 0,
+ 		"ip": "195.147.225.54",
+ 		"geo": {
+ 			"city": "London",
+ 			"type": 2
+ 		},
+ 		"dpidsha1": "99d3f3cbda255781684ca5073483208d7c5e89ed",
+ 		"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12D508",
+ 		"language": "en",
+ 		"model": "iPhone6,2",
+ 		"os": "iOS",
+ 		"osv": "8.2",
+ 		"connectiontype": 2,
+ 		"devicetype": 1,
+ 		"ext": {
+ 			"flurryDpid": "CF712CC5-C719-4084-81BE-BFE1F2962CAF",
+ 			"density": 2.0,
+ 			"agentVersion": "140"
+ 		}
+ 	},
+ 	"user": {
+ 		"gender": "F",
+ 		"data": [{
+ 			"id": "Flurry",
+ 			"name": "Flurry",
+ 			"segment": [{
+ 				"id": "2",
+ 				"name": "GenderEstimate",
+ 				"value": "Female"
+ 			}, {
+ 				"id": "1",
+ 				"name": "AgeEstimate",
+ 				"value": "65+"
+ 			}, {
+ 				"id": "3.40",
+ 				"name": "Persona",
+ 				"value": "Photo \u0026 Video Enthusiasts"
+ 			}, {
+ 				"id": "3.8",
+ 				"name": "Persona",
+ 				"value": "Casual \u0026 Social Gamers"
+ 			}, {
+ 				"id": "3.17",
+ 				"name": "Persona",
+ 				"value": "Entertainment Enthusiasts"
+ 			}, {
+ 				"id": "3.21",
+ 				"name": "Persona",
+ 				"value": "Music Lovers"
+ 			}]
+ 		}]
+ 	},
+ 	"bcat": [],
+ 	"badv": [],
+ 	"ext": {
+ 		"device_geo_country_alpha2": "GB",
+ 		"udi": {
+ 			"idfa": "CF712CC5-C719-4084-81BE-BFE1F2962CAF"
+ 		}
+ 	},
+ 	"at": 2,
+ 	"tmax": 270
+ }

@@ -1,0 +1,21 @@
+{   "notify_request":{
+      "timestamp":"2011-02-09 00:45:40",
+      "response_time_ms":2,
+      "tags":[
+         {
+            "id":183847,
+            "auction_id_64":7217182665961749689,
+            "payment_rule_id":25924,
+            "notify_type":"lost",
+			"custom_notify_data":"id=7681|21212|-1|6663_261169|6|0|0|admaxim|1.0|0.0|0.4|0.6|us|utah|fruit+heights|84037|firefox||17.0|||||cpmf%3D0|-1|300x250|30540829-b083-458a-afea-18677ac3e7d5||&creative_id=4425710"
+         }
+      ],
+      "responses":[
+         {
+            "result":"error",
+            "error":"Creative id 1467650344 was not found or inactive"
+         }
+      ]
+   }
+}
+

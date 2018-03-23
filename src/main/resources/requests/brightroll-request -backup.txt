@@ -1,0 +1,83 @@
+	id: "mdcUNQ0FBQLbQAOq-JSh_YTkDPy6s"
+	tmax: 90
+	badv: "www.google.com"
+		
+	
+	app {
+		id: "mopubvideoad"
+		name: "S2S Enabled Test Mobile"
+		privacypolicy:YES
+		bundle:"test"
+		cat:IAB0
+		cat:IAB1
+		cat:IAB10
+		domain: "testDOmain"
+		storeurl:"testStroreURL"
+		content{
+			url:"testContentURL"
+		}
+		
+	}
+	device {
+		ip: "208.80.67.113"
+		ua: "Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3_5 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8L1"
+		language: "en"
+		devicetype:1
+		dnt:0
+		connectiontype:2
+	}
+	
+	imp {
+		id: "1"
+		instl:1
+		video {
+			api: ORMMA
+			maxbitrate: 400
+			minduration: 5
+			maxduration: 60
+			w: 480
+			h: 320
+			startdelay: 0
+			companiontype:STATIC_RESOURCE
+			companiontype:HTML_RESOURCE
+			companiontype:IFRAME_RESOURCE
+			delivery:STREAMING
+			delivery:PROGRESSIVE
+			linearity:LINEAR
+			linearity:NON_LINEAR
+			playbackmethod:AUTOPLAY_SOUND_ON
+			playbackmethod:AUTOPLAY_SOUND_OFF
+			playbackmethod:CLICK_TO_PLAY
+			playbackmethod:MOUSE_OVER
+			pos:POSITION_UNKNOWN
+			pos:ABOVE_THE_FOLD
+			pos:ABOVE_THE_FOLD
+			pos:VARIABLE
+			protocol:VAST_1_0
+			protocol:VAST_2_0
+			protocol:VAST_3_0
+			protocol:VAST_WRAPPER_1_0
+			mimes:FLV
+			mimes:SHOCKWAVE_FLASH
+			mimes:MP4
+			mimes:TEXT_HTML
+			companionad{
+				id:"companionadID"
+				h:12
+				w:12
+				mimes:FLV
+				mimes:SHOCKWAVE_FLASH
+				mimes:MP4
+				mimes:TEXT_HTML
+				pos:POSITION_UNKNOWN
+			}
+			
+			
+		}
+	instl: false
+	}
+	
+	user {
+		id: "3UFAttGgkRVUBrsR9aA"
+	}
+		

@@ -1,0 +1,102 @@
+id: "W\244>\003\000\002\254h\n\323\002k\253\017n\327"
+ip: ""
+user_agent: "Mozilla/5.0 (iPad; CPU OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G34"
+url: "https://itunes.apple.com/app/id656971078"
+detected_language: "en"
+detected_vertical {
+  id: 925
+  weight: 0.5
+}
+detected_vertical {
+  id: 1462
+  weight: 0.5
+}
+adslot {
+  id: 1
+  width: 320
+  height: 480
+  width: 620
+  height: 200
+  excluded_attribute: 70
+  excluded_attribute: 27
+  excluded_attribute: 26
+  excluded_attribute: 19
+  excluded_attribute: 17
+  excluded_attribute: 16
+  excluded_attribute: 15
+  excluded_attribute: 14
+  excluded_attribute: 20
+  excluded_attribute: 25
+  excluded_attribute: 48
+  excluded_attribute: 13
+  excluded_attribute: 18
+  excluded_attribute: 34
+  excluded_attribute: 30
+  excluded_attribute: 7
+  excluded_attribute: 8
+  excluded_attribute: 9
+  allowed_vendor_type: 113
+  matching_ad_data {
+    adgroup_id: 21666416686
+    minimum_cpm_micros: 10000
+  }
+  matching_ad_data {
+    adgroup_id: 10676000326
+    minimum_cpm_micros: 10000
+  }
+  matching_ad_data {
+    adgroup_id: 21666416566
+    minimum_cpm_micros: 10000
+  }
+  excluded_product_category: 10137
+  excluded_product_category: 13423
+  slot_visibility: ABOVE_THE_FOLD
+  ad_block_key: 1
+  publisher_settings_list_id: 16441860558944469960
+  viewability: 80
+}
+is_test: false
+timezone_offset: 60
+detected_content_label: 59
+detected_content_label: 41
+detected_content_label: 87
+mobile {
+  platform: "ipad"
+  app_id: "656971078"
+  is_app: true
+  mobile_device_type: TABLET
+  screen_orientation: 1
+  is_interstitial_request: true
+  app_category_ids: 60506
+  app_category_ids: 60504
+  app_category_ids: 60535
+  app_category_ids: 60536
+  app_category_ids: 60500
+  app_category_ids: 69500
+  app_category_ids: 60585
+  brand: "apple"
+  model: "ipad"
+  os_version {
+    os_version_major: 9
+    os_version_minor: 3
+    os_version_micro: 3
+  }
+  screen_width: 768
+  screen_height: 1024
+  carrier_id: 0
+  device_pixel_ratio_millis: 2000
+}
+video {
+  videoad_start_delay: 0
+  max_ad_duration: 61000
+  inventory_type: 0
+  video_ad_skippable: ALLOW_SKIPPABLE
+  skippable_max_ad_duration: 9000
+  allowed_video_formats: VIDEO_HTML5
+}
+postal_code_prefix: "PE30"
+geo_criteria_id: 9047206
+anonymous_id: "http://video.google.anonymous/"
+seller_network_id: 1
+publisher_settings_list_id: 11517128307703583603
+user_data_treatment: TAG_FOR_CHILD_DIRECTED_TREATMENT

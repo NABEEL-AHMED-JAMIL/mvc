@@ -1,0 +1,40 @@
+{
+    "latency": 0.139,
+    "seatbid": [
+        {
+            "bid": [
+                {
+                    "reason": {
+                        "description": "outbid",
+                        "value": "bidder",
+                        "id": 1
+                    },
+                    "impid": "1",
+                    "price": 0.25,
+                    "adid": "3141592",
+                    "id": "bid1_2"
+                }
+            ],
+            "seat": "seat1"
+        },
+        {
+            "bid": [
+                {
+                    "reason": {
+                        "description": "below_floor",
+                        "id": 2
+                    },
+                    "impid": "1",
+                    "price": 0.04,
+                    "adid": "3141592",
+                    "id": "bid2_1"
+                }
+            ],
+            "seat": "seat2"
+        }
+    ],
+    "bidfloor": 0.1,
+    "http_status": 200,
+    "bidid": "bidid2",
+    "id": "2fa74f29­641e­44db­8893­1ea86c87ced6"
+}

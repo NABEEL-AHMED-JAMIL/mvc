@@ -1,0 +1,18 @@
+{
+    "notify_request": {
+        "timestamp": "2014-11-13 05:39:45",
+        "response_time_ms": 100,
+        "fail": true,
+        "error": "Request timed out",
+        "error_id": 10,
+        "tags": [
+            {
+                "id": 3217414,
+                "auction_id_64": 767962809205013000,
+                "payment_rule_id": 377825,
+                "notify_type": "lost"
+            }
+        ],
+        "responses": []
+    }
+}

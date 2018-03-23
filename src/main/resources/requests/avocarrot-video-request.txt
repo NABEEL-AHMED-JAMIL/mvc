@@ -1,0 +1,50 @@
+{
+	"timestamp": "2016-06-03T12:58:35+00:00",
+	"id": "96501671-acf2-4fb6-aed2-20982eae86d4",
+	"at": 2,
+	"imp": [{
+		"id": "3f09d39c-5618-4b8b-8461-56edafabf910",
+		"bidfloor": 0.37,
+		"tagid": "default",
+		"native": {
+			"request": "{\"ver\":\"1\",\"layout\":6,\"assets\":[{\"id\":0,\"title\":{\"len\":100},\"req\":0},{\"id\":2,\"img\":{\"type\":1,\"wmin\":50,\"hmin\":50},\"req\":1},{\"id\":3,\"data\":{\"type\":2,\"len\":90},\"req\":0},{\"id\":4,\"data\":{\"type\":3},\"req\":0},{\"id\":5,\"data\":{\"type\":12,\"len\":15},\"req\":0},{\"id\":6,\"video\":{\"minduration\":0,\"maxduration\":30,\"mimes\":[\"video/mp4\"],\"protocols\":[3,6],\"apis\":[],\"delivery\":[2],\"linearity\":1},\"req\":1}]}"
+		}
+	}],
+	"app": {
+		"storeurl": "https://play.google.com/store/apps/details?id=com.andrewshu.android.reddit&hl=en",
+		"cat": ["IAB12"],
+		"id": "2092",
+		"name": "reddit is fun",
+		"bundle": "com.andrewshu.android.reddit",
+		"publisher": {
+			"id": "923"
+		}
+	},
+	"device": {
+		"connectiontype": 2,
+		"carrier": "311-480",
+		"ip": "",
+		"geo": {
+			"country": "PK"
+		},
+		"language": "en",
+		"make": "motorola",
+		"model": "XT1254",
+		"devicetype": 1,
+		"dnt": 1,
+		"os": "Android",
+		"osv": "5.1",
+		"didsha1": "2f0b2cec179cb357f9afb36f86635478dd73354c",
+		"ua": "Dalvik/2.1.0 (Linux; U; Android 5.1; XT1254 Build/SU4TL-49)",
+		"ifa": "5b628be6-ae6d-4c0d-b939-b315c814c314"
+	},
+	"user": {
+		"id": "dee1e8bb-8484-4f97-9e6f-88233def22ae"
+	},
+	"bcat": ["IAB24", "IAB25", "IAB26"],
+	"badv": [],
+	"ext": {
+		"placementType": "CUST",
+		"slots": 1
+	}
+}

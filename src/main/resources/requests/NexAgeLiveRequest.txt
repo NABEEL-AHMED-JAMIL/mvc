@@ -1,0 +1,69 @@
+{
+    "id": "90febf71-179a-4be6-9f74-be3ab410e879",
+    "at": 2,
+    "bcat": [
+        "IAB23",
+        "IAB24",
+        "IAB25",
+        "IAB26"
+    ],
+    "imp": [
+        {
+            "id": "90febf71-179a-4be6-9f74-be3ab410e879-1",
+            "banner": {
+                "h": 50,
+                "w": 320,
+                "btype": [
+                    2,
+                    3
+                ],
+                "pos": 0
+            },
+            "displayManager": "web",
+            "displayManagerVer": "2",
+            "ext": {
+                "nex_screen": 0
+            }
+        }
+    ],
+    "app": {
+        "id": "12794",
+        "name": "FancyTran - BB",
+        "publisher": {
+            "id": "3109",
+            "name": "FancyApps Limited"
+        },
+        "domain": "http://fancyapps.net",
+        "cat": [
+            "IAB19",
+            "IAB3",
+            "IAB4",
+            "IAB5"
+        ],
+        "ext": {
+            "nex_sdkv": "2"
+        },
+        "storeurl": "htp://fancyapps.net"
+    },
+    "device": {
+        "didsha1": "3d59f4b765ad7b59231aa9808eb2bf79b68f8dac",
+        "ip": "206.53.148.241",
+        "carrier": "CABLE & WIRELESS",
+        "ua": "BlackBerry9000/5.0.0.681 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/302",
+        "make": "RIM",
+        "model": "BlackBerry 9000",
+        "osv": "5.0.0",
+        "os": "RIM",
+        "connectiontype": 1,
+        "devicetype": 1,
+        "geo": {
+            "country": "GBR"
+        },
+        "ext": {
+            "nex_tablet": "0"
+        }
+    },
+    "user": {
+        "keywords": "I am waiting forward for your favorable reply"
+    }
+}

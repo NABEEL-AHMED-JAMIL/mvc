@@ -1,0 +1,109 @@
+{
+	"id": "f09649f614006a722515954d4832a695ba27884a",
+	"at": 2,
+	"tmax": 86,
+	"imp": [{
+		"id": "1",
+		"tagid": "161050",
+		"secure": 0,
+		"native": {
+			"battr": [14018, 14019, 9, 10, 13, 14014, 14015, 1, 2, 3, 5, 8, 14],
+			"ver": "1",
+			"requestobj": {
+				"layout": 4,
+				"adunit": 500,
+				"plcmtcnt": 1,
+				"seq": 0,
+				"assets": [
+				{
+					"id": 1,
+					"required": 1,
+					"img": {
+						"type": 1,
+						"wmin": 75,
+						"hmin": 75
+					}
+				}, {
+					"id": 2,
+					"req": 1,
+					"img": {
+						"type": 3,
+						"wmin": 250,
+						"hmin": 300
+					}
+				},{
+					"id": 3,
+					"required": 1,
+					"title": {
+						"len": 100
+					}
+				},  {
+					"id": 4,
+					"required": 1,
+					"data": {
+						"type": 2,
+						"len": 100
+					}
+				}, {
+					"id": 5,
+					"required": 1,
+					"data": {
+						"type": 12
+					}
+				}, {
+					"id": 6,
+					"required": 1,
+					"data": {
+						"type": 4
+					}
+				}]
+			}
+		},
+		"instl": 0
+	}],
+	"app": {
+		"storeurl": "https://play.google.com/store/apps/details?id=com.hypermedia.songflip",
+		"domain": "http://inmobi.com",
+		"cat": ["IAB1"],
+		"name": "SongFlip - Free Music & Player",
+		"publisher": {
+			"id": "11726"
+		},
+		"id": "xapi:38312:mPqPFYT-OVQs",
+		"bundle": "com.hypermedia.songflip"
+	},
+	"device": {
+		"ext": {
+			"xff": "86.6.36.42"
+		},
+		"os": "Android",
+		"ifa": "891ce2dd-8c0a-4627-9e87-d6a9df9d39cc",
+		"ip": "",
+		"js": 1,
+		"language": "en",
+		"ua": "Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2564.106 Mobile Safari/537.36",
+		"devicetype": 1,
+		"geo": {
+			"type": 1,
+			"country": "PK",
+			"utcoffset": 0,
+			"ext": {
+				"latlonconsent": 1
+			}
+		},
+		"carrier": "Other",
+		"lmt": 0,
+		"osv": "4.4.2",
+		"dpidmd5": "6cea4c578fd9900fd23ee3c6d3519793",
+		"model": "SM-G900",
+		"connectiontype": 2,
+		"make": "Samsung",
+		"dpidsha1": "ffef1efa1c1b7dc66b8ce38003c4de858ac63283"
+	},
+	"user": {
+		"id": "018d66c50ff79c31be08b86a7b932eb9e8cf4a8d",
+		"ext": {
+			"sessiondepth": 0
+		}
+	}
+}

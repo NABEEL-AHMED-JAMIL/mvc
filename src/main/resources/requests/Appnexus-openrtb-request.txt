@@ -1,0 +1,50 @@
+{
+    "id": "4876290993254515176",
+    "imp": [
+        {
+            "id": "8278013996604217356",
+            "video": {
+                "maxduration": 11
+            },
+            "tagid": "40",
+            "secure": 0
+        }
+    ],
+    "site": {
+        "id": "39",
+        "publisher": {
+            "id": "15"
+        }
+    },
+    "device": {
+        "ua": "Mozilla/5.0",
+        "geo": {
+            "country": "USA",
+            "city": "Los Angeles"
+        },
+        "dnt": 0,
+        "ip": "68.67.148.76",
+        "devicetype": 2,
+        "os": "Unknown",
+        "carrier": "wifi",
+        "connectiontype": 0
+    },
+    "user": {
+        "id": "0"
+    },
+    "test": 0,
+    "at": 2,
+    "tmax": 350,
+    "cur": [
+        "USD"
+    ],
+    "ext": {
+        "appnexus": {
+            "seller_member_id": 2738,
+            "spend_protection": false
+        }
+    },
+	"regs": {
+        "coppa": 0
+    }
+}

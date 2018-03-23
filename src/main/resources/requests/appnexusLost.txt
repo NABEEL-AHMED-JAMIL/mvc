@@ -1,0 +1,19 @@
+{
+    "notify_request": {
+        "timestamp": "2013-07-25 06:13:37",
+        "user_id_64": 6561873848320191000,
+        "response_time_ms": 91,
+        "fail": true,
+        "error": "Request timed out",
+        "error_id": 10,
+        "tags": [
+            {
+                "id": 799084,
+                "auction_id_64": 932749760521895000,
+                "payment_rule_id": 150052,
+                "notify_type": "lost"
+            }
+        ],
+        "responses": []
+    }
+}

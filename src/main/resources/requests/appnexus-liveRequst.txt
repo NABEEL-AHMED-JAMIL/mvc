@@ -1,0 +1,73 @@
+{
+	"bid_request": {
+		"timestamp": "2015-12-01 13:51:24",
+		"bidder_timeout_ms": 100,
+		"members": [{
+			"id": 1547
+		}],
+		"member_ad_profile_id": 584175,
+		"excluded_technical_attributes": [33],
+		"tags": [{
+			"auction_id_64": 1538315819057322021,
+			"size": "320x50",
+			"sizes": ["320x50"],
+			"smaller_sizes_allowed": false,
+			"position": "unknown",
+			"tag_format": "iframe",
+			"supply_type": "mobile_web",
+			"site_id": 1265247,
+			"ad_profile_id": 584175,
+			"visibility_profile_id": 7749,
+			"venue_id": 1137958,
+			"pop_max_width": 320,
+			"pop_max_height": 50,
+			"pop_is_prepop": false,
+			"allowed_media_types": [1],
+			"media_subtypes": ["banner"],
+			"predicted_view_rate": 0.4330,
+			"reserve_price": 0.10000,
+			"estimated_clear_price": 0.85800,
+			"estimated_average_price": 0.3760
+		}],
+		"bid_info": {
+			"user_id_64": 0,
+			"no_cookies": true,
+			"payment_rule_id": 691403,
+			"no_flash": false,
+			"certified_supply": true,
+			"spend_protection": true,
+			"user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 [FBAN/FBIOS;FBAV/35.0.0.34.220;FBBV/12945441;FBDV/iPhone5,2;FBMD/iPhone;FBSN/iPhone OS;FBSV/9.1;FBSS/2; FBCR/Three;FBID/phone;FBLC/en_GB;FBOP/5]",
+			"browser": 12,
+			"operating_system": 8,
+			"operating_system_extended": 143,
+			"operating_system_family": 3,
+			"carrier": 359,
+			"device_make": 26,
+			"device_model": 301,
+			"device_type": 2,
+			"language": 1,
+			"accepted_languages": "en-gb",
+			"session_freq": 1,
+			"pub_session_freq": 1,
+			"ip_address": "86.157.93.145",
+			"country": "GB",
+			"region": "01",
+			"city": "Oban",
+			"dma": 1,
+			"time_zone": "Europe/London",
+			"within_iframe": false,
+			"device_ids": {},
+			"selling_member_id": 3202,
+			"url": "http://likes.com/g/5983804?utm_campaign=ml&v=t8lGGQHa3x0WScrO6kMb8Yy51A3Lju9xg16247&utm_medium=ml&utm_source=ml255&utm_term=2656114&page=9",
+			"domain": "likes.com",
+			"inventory_audits": [{
+				"auditor_member_id": null,
+				"intended_audience": "general",
+				"inventory_attributes": [8, 16],
+				"content_categories": [5, 10]
+			}],
+			"userdata_json": "{}",
+			"segments": []
+		}
+	}
+}

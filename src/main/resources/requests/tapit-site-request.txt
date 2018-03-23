@@ -1,0 +1,40 @@
+{
+    "id": "bea4dacb-8b0c-452a-ad15-1045b7e3c666",
+    "tmax": 100,
+    "imp": [
+        {
+            "h": 50,
+            "impid": "e6a92ed1-ee99-4aef-a9b2-26ecba020c71",
+            "w": 320,
+            "instl": 1,
+            "bidfloor": 0.05,
+            "bidfloorcur": "USD"
+        }
+    ],
+    "site": {
+        "sid": "17622",
+        "cat": [
+            "Uncategorized"
+        ],
+        "name": "UK- interstitial - 320x480 - RON",
+        "page": "http://tapit.com"
+    },
+    "device": {
+        "loc": "0.9317828,-0.024933968",
+        "ip": "86.149.217.122",
+        "ua": "Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; LT30p Build/9.1.A.1.141) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+        "make": "Sony",
+        "model": "LT30p",
+        "os": "Android",
+        "osv": "4100.0",
+        "js": 1,
+        "devicetype": 0,
+        "language": "en-us",
+        "dpid": "57c14c973f9a8630c8602d7fc2a120b44e83ea80"
+    },
+    "user": {
+        "zip": "",
+        "country": "GB",
+        "keywords": ""
+    }
+}

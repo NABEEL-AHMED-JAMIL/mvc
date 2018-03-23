@@ -1,0 +1,78 @@
+{
+	"bid_request": {
+		"timestamp": "2016-03-22 07:17:18",
+		"bidder_timeout_ms": 99,
+		"members": [{
+			"id": 1547
+		}],
+		"member_ad_profile_id": 688,
+		"excluded_categories": [22, 60, 79, 80],
+		"excluded_technical_attributes": [3, 7, 8, 21, 22, 26, 33, 36],
+		"tags": [{
+			"auction_id_64": 1583841938684689089,
+			"size": "1x1",
+			"sizes": ["1x1", "1024x768"],
+			"smaller_sizes_allowed": false,
+			"position": "unknown",
+			"tag_format": "vast",
+			"supply_type": "mobile_app",
+			"ad_profile_id": 688,
+			"visibility_profile_id": 533,
+			"allowed_media_subtypes": [64],
+			"media_subtypes": ["banner"],
+			"estimated_clear_price": 27.00000,
+			"estimated_average_price": 16.3310,
+			"id": 52047,
+			"site_id": 55598,
+			"venue_id": 692,
+			"inventory_audits": [{
+				"auditor_member_id": 459,
+				"content_categories": [9, 8136, 8202]
+			}]
+		}],
+		"bid_info": {
+			"no_cookies": false,
+			"payment_rule_id": 25733,
+			"no_flash": false,
+			"browser": 0,
+			"operating_system": 10,
+			"operating_system_extended": 144,
+			"operating_system_family": 3,
+			"carrier": 359,
+			"device_make": 26,
+			"device_type": 3,
+			"language": 1,
+			"session_freq": 1,
+			"pub_session_freq": 1,
+			"country": "GB",
+			"within_iframe": false,
+			"selling_member_id": 459,
+			"publisher_id": 18089,
+			"user_id_64": 3583435731562958962,
+			"ip_address": "86.130.139.228",
+			"user_agent": "Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15",
+			"region": "E2",
+			"city": "Crowborough",
+			"postal_code": "TN6 1",
+			"postal_code_id": 167805,
+			"dma": 1,
+			"time_zone": "Europe/London",
+			"app_id": "882507985",
+			"mobile_app_instance_id": 945039,
+			"device_model": 300,
+			"device_ids": {
+				"idfa": "fc1efb70-2b3b-4cb1-9aab-c3ba6d2b2e63",
+				"sha1udid": "7c5cf97ccdd0ca7bbaa46c672490ceb8e65bad66",
+				"md5udid": "b6d74eadb58521b5429a95973d4f8638"
+			},
+			"userdata_json": "{}",
+			"segments": [{
+				"id": 1,
+				"member_id": 0,
+				"code": "cookie_birthday",
+				"provider": "Appnexus",
+				"last_seen_min": 24306811
+			}]
+		}
+	}
+}

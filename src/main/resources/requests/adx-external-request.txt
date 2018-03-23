@@ -1,0 +1,72 @@
+id: "Vg\333T\000\vu\365\n\026\250\026\301\t8\377" 
+ip: "M`/" user_agent: "Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143" 
+url: "https://itunes.apple.com/app/id804379658" 
+detected_language: "en" 
+detected_vertical {
+id: 1494 
+weight: 0.33333334 
+} 
+detected_vertical {
+id: 1462 
+weight: 0.33333334 
+} 
+detected_vertical 
+{ 
+id: 105 
+weight: 0.33333334 
+} adslot 
+{ id: 1 
+width: 768 
+width: 640 
+width: 600 
+height: 1024 
+height: 960 
+height: 500 
+excluded_attribute: 
+70 excluded_attribute: 30 
+excluded_attribute: 34 
+excluded_attribute: 48 
+excluded_attribute: 22 
+excluded_attribute: 13 
+excluded_attribute: 14 
+excluded_attribute: 15 
+excluded_attribute: 16 
+excluded_attribute: 17 
+excluded_attribute: 18 
+excluded_attribute: 19 excluded_attribute: 20 excluded_attribute: 25 excluded_attribute: 26 excluded_attribute: 27 excluded_attribute: 52 allowed_vendor_type: 10 allowed_vendor_type: 42 allowed_vendor_type: 43 allowed_vendor_type: 56 allowed_vendor_type: 69 allowed_vendor_type: 94 allowed_vendor_type: 113 allowed_vendor_type: 130 allowed_vendor_type: 132 allowed_vendor_type: 144 allowed_vendor_type: 145 allowed_vendor_type: 182 allowed_vendor_type: 204 allowed_vendor_type: 225 allowed_vendor_type: 231 allowed_vendor_type: 233 allowed_vendor_type: 237 allowed_vendor_type: 238 allowed_vendor_type: 242 allowed_vendor_type: 255 allowed_vendor_type: 260 allowed_vendor_type: 267 allowed_vendor_type: 303 allowed_vendor_type: 331 allowed_vendor_type: 332 allowed_vendor_type: 334 allowed_vendor_type: 342 allowed_vendor_type: 395 allowed_vendor_type: 414 allowed_vendor_type: 432 allowed_vendor_type: 441 allowed_vendor_type: 445 allowed_vendor_type: 474 allowed_vendor_type: 476 allowed_vendor_type: 477 allowed_vendor_type: 481 allowed_vendor_type: 485 allowed_vendor_type: 486 allowed_vendor_type: 489 allowed_vendor_type: 490 allowed_vendor_type: 497 allowed_vendor_type: 523 allowed_vendor_type: 529 allowed_vendor_type: 537 allowed_vendor_type: 538 allowed_vendor_type: 542 allowed_vendor_type: 543 allowed_vendor_type: 550 allowed_vendor_type: 551 allowed_vendor_type: 562 allowed_vendor_type: 564 allowed_vendor_type: 566 allowed_vendor_type: 572 allowed_vendor_type: 573 allowed_vendor_type: 574 allowed_vendor_type: 575 allowed_vendor_type: 577 allowed_vendor_type: 606 allowed_vendor_type: 615 allowed_vendor_type: 616 allowed_vendor_type: 618 allowed_vendor_type: 623 allowed_vendor_type: 698 allowed_vendor_type: 704 allowed_vendor_type: 713 allowed_vendor_type: 724 allowed_vendor_type: 743 allowed_vendor_type: 745 allowed_vendor_type: 755 allowed_vendor_type: 767 allowed_vendor_type: 776 allowed_vendor_type: 780 allowed_vendor_type: 785 allowed_vendor_type: 790 allowed_vendor_type: 791 allowed_vendor_type: 793 allowed_vendor_type: 797 allowed_vendor_type: 798 allowed_vendor_type: 799 excluded_sensitive_category: 19 excluded_sensitive_category: 23 excluded_sensitive_category: 10 excluded_sensitive_category: 31 excluded_sensitive_category: 8 excluded_sensitive_category: 24 excluded_sensitive_category: 18 
+matching_ad_data { 
+minimum_cpm_micros: 8130000 
+pricing_rule { 
+minimum_cpm_micros: 8130000 } } 
+targetable_channel: "pack-brand-Zynga Gaming Network::All" 
+slot_visibility: ABOVE_THE_FOLD 
+excluded_product_category: 10137 
+excluded_product_category: 10453 excluded_product_category: 10491 excluded_product_category: 11870 excluded_product_category: 13423 ad_block_key: 1 publisher_settings_list_id: 7691466862508413292} is_test: false 
+cookie_version: 1 google_user_id: "CAESEGndQngLfN_qkDvSqYJ269w" 
+timezone_offset: 0 detected_content_label: 59 detected_content_label: 39 detected_content_label: 87 
+device{
+	platform: "ipad"
+	brand: "apple"
+model: "ipad" 
+os_version { 
+major: 9 
+minor: 1 
+} 
+screen_width: 768 
+screen_height: 1024 
+carrier_id: 0
+device_type: TABLET screen_orientation	: 1
+	}
+mobile { 
+ 
+app_id: "804379658" 
+is_app: true 
+ 
+is_interstitial_request: true 
+app_category_ids: 60506 
+app_category_ids: 60504 app_category_ids: 60525 app_category_ids: 60540 app_category_ids: 60500 app_category_ids: 69500 
+encrypted_advertising_id: "Vg\333T\000\vu\365\n\026\250\026\001\t8\377\017}\271\245\345\343\024\207\316\305\2158\304j\366\371T\031\036\361"} 
+cookie_age_seconds: 15552000 
+geo_criteria_id: 1006567 
+seller_network_id: 5660 
+publisher_settings_list_id: 4091509475128414241 

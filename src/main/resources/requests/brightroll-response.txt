@@ -1,0 +1,31 @@
+id: "WdrbT-lVMxXrUAOsnfHsDmghEv4B4"
+        bidid: "12969:1401100711749"
+           seatbid {
+                           bid {
+                                id: "12969:1401100711749"
+                                impid: "1"
+                                price: 1.2
+                                nurl: "http://rtbstaging.admaxim.com/adserver/adapi?fmt=vast2.0&numads=1&adspot=pre-roll&aType=8&siteId=12969_3854308&country=GB&duration=10&cachebuster=458132605&brightrollBidPrice=##BRX_CLEARING_PRICE##"
+                                adomain: "valoregame.com"
+                                cid: "43668"
+                                crid: "43668:1567"
+                            ext {
+                                campaign_name: "campaing:43668"
+                                line_item_name: "Admaxim"
+                                creative_name: "1567"
+                                creative_duration: 10
+                                media_desc {
+                                        media_mime: MP4
+                                        media_bitrate:
+                                }
+                                api: NONE
+                                lid: "1567"
+                                landingpage_url: "http://d3ly4i6m0duwbh.cloudfront.net/8_06726836679614162"
+                                advertiser_name: "valoregame.com"
+                                adserver_processing_time: %time%
+                                                        adtype: ADTYPE_VIDEO
+                           }
+                }
+                group: false
+  }
+    cur: "USD"

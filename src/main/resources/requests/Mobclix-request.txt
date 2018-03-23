@@ -1,0 +1,58 @@
+{
+    "id": "91908dacbd0c42908ae85400514edc32",
+    "app": {
+        "content": {
+            "keywords": ""
+        },
+        "id": "55148",
+        "cat": [
+            "IAB1",
+            "IAB1-1"
+        ],
+        "keywords": "RESTRICTED_CONTENT",
+        "name": "Wattpad",
+        "ver": "3.8.13"
+    },
+    "tmax": 100,
+    "imp": [
+        {
+            "id": "dc13b7f8-3232-4f02-8543-871a7297c2e8",
+            "instl": 0,
+            "ext": {
+                "mobclix": {
+                    "itunes_categories": "Books"
+                }
+            },
+            "banner": {
+                "w": 728,
+                "api": null,
+                "h": 90
+            }
+        }
+    ],
+    "device": {
+        "os": "iOS",
+        "model": "iPad",
+        "geo": {
+            "country": "AUS"
+        },
+        "osv": "6.1.3",
+        "dnt": 0,
+        "ext": {
+            "mobclix": {
+                "aid": "7686834A-84F3-4CA4-8C5E-DDB8EF9267EA"
+            }
+        },
+        "ip": "144.131.33.104",
+        "didsha1": null,
+        "connectiontype": 2,
+        "dpidsha1": "dbd8fb4ffe60d3ef18d5374320e720c58dd414fc",
+        "ua": "Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B329",
+        "carrier": "65535-65535",
+        "devicetype": 1,
+        "language": null,
+        "make": "Apple"
+    },
+    "at": 2,
+    "user": {}
+}

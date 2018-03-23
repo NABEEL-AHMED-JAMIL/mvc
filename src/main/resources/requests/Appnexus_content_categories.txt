@@ -1,0 +1,39 @@
+{
+    "response": {
+        "status": "OK",
+        "content_categories": [
+            {
+                "id": 1,
+                "name": "Book",
+                "description": null,
+                "is_system": false,
+                "parent_category": null,
+                "last_modified": "2010-03-04 18:18:52"
+            },
+            {
+                "id": 2,
+                "name": "Business",
+                "description": null,
+                "is_system": false,
+                "parent_category": null,
+                "last_modified": "2010-03-04 18:19:04"
+            },
+            {
+                "id": 3,
+                "name": "Entertainment",
+                "description": null,
+                "is_system": false,
+                "parent_category": null,
+                "last_modified": "2010-03-04 18:19:32"
+            },
+            {
+                "id": 4,
+                "name": "Arts & Fashion",
+                "description": null,
+                "is_system": true,
+                "parent_category": null,
+                "last_modified": "2010-10-24 02:43:16"
+            }
+        ]
+    }
+}

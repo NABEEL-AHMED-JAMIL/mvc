@@ -1,0 +1,16 @@
+{
+    "bid_response": {
+        "responses": [
+            {
+                "member_id": 1547,
+                "price": 2,
+                "pixel_url": "http://rtbtrack-uk.admaxim.com/adtracker/track/track/imp?id=46469|46189|-1|6663_450730|6|0|0||5.0|3.0|0.0|2.0|au|western+australia|perth||apple|ios_6.1|ipod+touch|P-6663-38631060071620670|||ag=2-gn=2|1-1-|-1|728x90|441bc36e-bf0d-42c7-a3a9-aaad3c917aff|41|1|2|EN|6663|9889|3|0||&ts=1413997682681&creative_id=46189:46469:6663_450730:AU:iOS",
+                "click_url": "http://rtbtrack-uk.admaxim.com/adtracker/track/track/click?id=46469|46189|-1|6663_450730|6|0|0||5.0|3.0|0.0|2.0|au|western+australia|perth||apple|ios_6.1|ipod+touch|P-6663-38631060071620670|||ag=2-gn=2|1-1-|-1|728x90|441bc36e-bf0d-42c7-a3a9-aaad3c917aff|41|1|2|EN|6663|9889|3|0||&ts=1413997682681&creative_id=46189:46469:6663_450730:AU:iOS",
+                "creative_id": 20938872,
+                "pixel_type": "image",
+                "custom_notify_data": "id=46469|46189|-1|6663_450730|6|0|0||5.0|3.0|0.0|2.0|au|western+australia|perth||apple|ios_6.1|ipod+touch|P-6663-38631060071620670|||ag=2-gn=2|1-1-|-1|728x90|441bc36e-bf0d-42c7-a3a9-aaad3c917aff|41|1|2|EN|6663|9889|3|0||&creative_id=20938872",
+                "auction_id_64": 4719052079095666000
+            }
+        ]
+    }
+}

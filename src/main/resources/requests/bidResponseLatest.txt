@@ -1,0 +1,23 @@
+api_version: 10
+auction_id: "f231640f-219b-495d-a16f-e2bc9784ccb4"
+bids {
+  matching_ad_id {
+    campaign_id: 245180
+    placement_id: 783380
+    creative_id: 352050
+    deprecated_deal_id: ""
+    ad_height: 50
+    ad_width: 320
+    deal {
+      deal_id: ""
+      deal_cpm_micros: 0
+      deal_pricing_type: fixed
+      deal_exclusivity: other_bids_accepted
+    }
+  }
+  cpm_bid_micros: 0
+  ad_code: "<a href=http://rtbstaging.admaxim.com/adtracker/track/track/click?id=16003|27218|-1|6665_18235_itunes.apple.com|6|0|0|admaxim|0.05|0.0|0.0|0.05|us|georgia|atlanta|30309|Apple|iPhone+OS|iPhone||IAB3|||cpmf%3D0|-1|320x50|cda71b86-a839-4ff1-ac27-a2c7c6602dec||&creative_id=27218:16003:6665_18235_itunes.apple.com:us:iPhone+OS><img src=\'http://rtbstaging.admaxim.com/adtracker/track/track/imp?id=16003|27218|-1|6665_18235_itunes.apple.com|6|0|0|admaxim|0.05|0.0|0.0|0.05|us|georgia|atlanta|30309|Apple|iPhone+OS|iPhone||IAB3|||cpmf%3D0|-1|320x50|cda71b86-a839-4ff1-ac27-a2c7c6602dec||&creative_id=27218:16003:6665_18235_itunes.apple.com:us:iPhone+OS&sp_openx=${winning_price}\'></a>"
+  ad_ox_cats: 20
+  click_through_urls: "http://rtbstaging.admaxim.com/adtracker/track/track/click?id=16003|27218|-1|6665_18235_itunes.apple.com|6|0|0|admaxim|0.05|0.0|0.0|0.05|us|georgia|atlanta|30309|Apple|iPhone+OS|iPhone||IAB3|||cpmf%3D0|-1|320x50|cda71b86-a839-4ff1-ac27-a2c7c6602dec||&creative_id=27218:16003:6665_18235_itunes.apple.com:us:iPhone+OS"
+  crid: "2721816003"
+}

@@ -1,0 +1,29 @@
+	id: "mdcUNQ0FBQLbQAOq-JSh_YTkDPy6s"
+	seatbid {
+		bid {
+			id: "1"
+			impid: "1"
+			price: 12.0
+			nurl: "http://adserver.com/vast/3850275?n=3474569194&cp=##BRX_CLEARING_PRICE##"
+			adomain: "redrobin.com"
+			cid: "19352"
+			crid: "207209"
+			ext {
+				campaign_name: "Red Robin Test"
+				line_item_name: "RTB Test Line"
+				creative_name: "Tavern Double"
+				creative_duration: 15
+				media_desc {
+					media_mime: MP4
+					media_bitrate: 400
+				}
+				api: NONE
+				lid: "428885"
+				landingpage_url: "http://www.redrobin.com/menu/item/2d49a5be-4298-401ea425-c2c2461eb7fc/RRGB-STNDTRI"
+				advertiser_name: "Red Robin"
+				adtype: ADTYPE_VIDEO
+				adserver_processing_time: 5
+			}
+		}
+}
+cur: "USD"

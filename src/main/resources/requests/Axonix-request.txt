@@ -1,0 +1,70 @@
+{
+	"app": {
+		"id": "143313",
+		"name": "s photo editor",
+		"publisher": {
+			"id": "32787",
+			"name": "Sungy Mobile Limited",
+			"ext": {
+				"nex_else": 0
+			}
+		},
+		"domain": "photoeditor.steam.com",
+		"cat": ["IAB19", "IAB9"],
+		"bundle": "com.steam.photoeditor",
+		"storeurl": "https://play.google.com/store/apps/details?id=com.steam.photoeditor&hl=en"
+	},
+	"tmax": 120,
+	"id": "41ca053ac657480ea166747696978764",
+	"imp": [{
+		"banner": {
+			"h": 250,
+			"w": 300
+		},
+		"bidfloor": 1.57,
+		"bidfloorcur": "USD",
+		"id": "c6bc0cb6-2566-4eef-93e3-3d01e260da59",
+		"instl": 0
+	}],
+	"device": {
+		"ext": {
+			"idfa": "7c33d4e8-c4ea-427c-a2cb-77bd8e0c4e05"
+		},
+		"os": "android",
+		"ifa": "7c33d4e8-c4ea-427c-a2cb-77bd8e0c4e05",
+		"ip": "90.199.83.93",
+		"js": 1,
+		"language": null,
+		"ua": "Mozilla/5.0 (Linux; Android 6.0.1; SM-A520F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/58.0.3029.83 Mobile Safari/537.36",
+		"devicetype": 1,
+		"geo": {
+			"zip": "RM11",
+			"country": "GBR",
+			"city": "Hornchurch",
+			"lon": 0.1572445,
+			"type": 1,
+			"region": "F6",
+			"lat": 51.87291
+		},
+		"osv": "6.0.1",
+		"didsha1": null,
+		"model": null,
+		"connectiontype": 0,
+		"make": "",
+		"dpidsha1": null
+	},
+	"user": {
+		"data": [ {
+			"segment": [{
+				 "name": "media_segment_keys1",
+				 "value": "1234" 
+			}, {
+				 "name": "media_segment_keys2",
+				"value": "567" 
+			}, {
+				 "name": "media_segment_keys3",
+				 "value": "894" 
+			}]
+		}]
+	}
+}

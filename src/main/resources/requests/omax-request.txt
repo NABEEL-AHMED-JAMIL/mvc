@@ -1,0 +1,70 @@
+{
+    "id": "bGSuC6s7Ncud75f",
+    "app": {
+        "id": "40",
+        "paid": 1,
+        "cat": [
+            "IAB1",
+            "IAB2",
+            "IAB3",
+            "IAB4",
+            "IAB5",
+            "IAB6",
+            "IAB7",
+            "IAB8",
+            "IAB9",
+            "IAB10",
+            "IAB11",
+            "IAB12",
+            "IAB13",
+            "IAB14",
+            "IAB15",
+            "IAB16",
+            "IAB17",
+            "IAB18",
+            "IAB19",
+            "IAB20",
+            "IAB21",
+            "IAB22",
+            "IAB23",
+            "IAB15-10"
+        ],
+        "name": "LTesterApp"
+    },
+    "tmax": 500,
+    "imp": [
+        {
+            "id": "1",
+            "bidfloor": 0,
+            "instl": 1,
+            "displaymanager": "admarvel",
+            "bidfloorcur": "USD",
+            "displaymanagerver": "3.1.1",
+            "video": {
+                "protocol": 2,
+                "minduration": 1,
+                "linearity": 1,
+                "maxduration": 1000
+            }
+        }
+    ],
+    "device": {
+        "os": "iOS",
+        "Osv": "7.1.2",
+        "model": "iPhone",
+        "connectiontype": 2,
+        "geo": {
+            "lon": -122.299769,
+            "type": 1,
+            "lat": 37.553203,
+            "country": "USA"
+        },
+        "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257",
+        "devicetype": 1,
+        "make": "Apple",
+        "ext": {
+            "idfa": "7594157A-6CC5-4F07-921A-0138FE5AA364"
+        },
+        "ip": "157.22.251.133"
+    }
+}

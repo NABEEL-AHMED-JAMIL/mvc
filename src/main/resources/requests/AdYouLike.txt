@@ -1,0 +1,58 @@
+{
+	"id": "c69ed8eb-51d6-4f0c-baab-3940aea342d2",
+	"imp": [{
+		"id": "34bf7ce2-ab7a-4e85-a176-e402ce64ef63",
+		"native": {
+			"request": "{\"ver\":\"1\",\"layout\":6,\"assets\":[{\"id\":0,\"required\":0,\"title\":{\"len\":100}},{\"id\":2,\"required\":1,\"img\":{\"type\":2,\"wmin\":50,\"hmin\":50}},{\"id\":3,\"required\":0,\"data\":{\"type\":2,\"len\":90}},{\"id\":4,\"required\":0,\"data\":{\"type\":3}},{\"id\":5,\"required\":0,\"data\":{\"type\":12,\"len\":15}},{\"id\":1,\"required\":0,\"img\":{\"type\":3,\"wmin\":300,\"hmin\":250}}]}"
+		},
+		"pmp": {
+			"deals": [{
+				"id": "DAI-ATD-00001",
+				"bidfloor": 0.1,
+				"bidfloorcur": "USD",
+				"at": 2
+			}],
+			"private_auction": 0
+		},
+		"tagid": "8244fd403424fe8b588fcf74522254ec461966d5",
+		"bidfloor": 0.01
+	}],
+	"app": {
+		"id": "1226",
+		"name": "Downloader & Private Browser",
+		"bundle": "com.app.downloadmanager",
+		"domain": "downloadmanager.app.com",
+		"storeurl": "https:\/\/play.google.com\/store\/apps\/details?id=com.app.downloadmanager",
+		"cat": ["IAB3"],
+		"publisher": {
+			"id": "9099"
+		}
+	},
+	"device": {
+		"ua": "Dalvik\/2.1.0 (Linux; U; Android 5.1.1; SM-J500F Build\/LMY48B)",
+		"geo": {
+			"country": "pk"
+		},
+		"dnt": 0,
+		"ip": "",
+		"devicetype": 4,
+		"make": "samsung",
+		"model": "SM-J500F",
+		"os": "Android",
+		"osv": "5.1.1",
+		"language": "en",
+		"carrier": "420-04",
+		"connectiontype": 2,
+		"ifa": "e38eada7-53df-4b2c-a01c-8d5e35146f39",
+		"didsha1": "a8c02b75475b6a9c5124542b0497dba6c88a7088"
+	},
+	"user": {
+		"id": "5049b874-0e2a-4de2-a2a4-7e9e71b994e6"
+	},
+	"at": 2,
+	"bcat": ["IAB24", "IAB25", "IAB26"],
+	"ext": {
+		"placementType": "CUST",
+		"slots": 1
+	}
+}

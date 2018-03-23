@@ -1,0 +1,53 @@
+{
+    "timestamp": "2015-06-08T11:27:09+00:00",
+    "id": "058f2391-3b52-4f9b-bbde-0e093caf3846",
+    "at": 2,
+    "imp": [
+        {
+            "id": "3b3c1289-bfa5-4f3b-9ff9-df2ad153e2ce",
+            "bidfloor": 0.01,
+            "tagid": "default",
+            "native": {
+                "request": "{\"ver\":1,\"layout\":6,\"assets\":[{\"id\":0,\"req\":1,\"title\":{\"len\":25}},{\"id\":1,\"req\":1,\"img\":{\"type\":3,\"wmin\":300,\"hmin\":250}},{\"id\":2,\"req\":1,\"img\":{\"type\":1,\"wmin\":50,\"hmin\":50}},{\"id\":3,\"req\":1,\"data\":{\"type\":2,\"len\":90}},{\"id\":4,\"req\":0,\"data\":{\"type\":3}},{\"id\":5,\"req\":0,\"data\":{\"type\":12,\"len\":15}}]}"
+            }
+        }
+    ],
+    "app": {
+        "storeurl": "https://play.google.com/store/apps/details?id=com.appeffectsuk.bustracker&hl=en",
+        "cat": [
+            "IAB24"
+        ],
+        "id": "1310",
+        "name": "LiveLondonBusTracker",
+        "publisher": {
+            "id": "1872"
+        }
+    },
+    "device": {
+        "connectiontype": 3,
+        "carrier": "EE",
+        "ip": "31.106.31.178",
+        "geo": {
+            "country": "GB"
+        },
+        "language": "en",
+        "make": "samsung GT-I9505",
+        "model": "Android",
+        "devicetype": 1,
+        "dnt": 0,
+        "os": "Android",
+        "osv": "4.4.2",
+        "didsha1": "87fb9053c06f336ff225ccabac3d1b6a52f9eb39",
+        "ua": "Dalvik/1.6.0 (Linux; U; Android 4.4.2; GT-I9505 Build/KOT49H)"
+    },
+    "user": {
+        "id": "8a20147022af9190"
+    },
+    "ext": {
+        "placementType": "LIST",
+        "imageDimensions": {
+            "w": 300,
+            "h": 250
+        }
+    }
+}

@@ -1,0 +1,155 @@
+id: "WBGnsAAHSGIK7YFDhwYAzw=="
+ip: "37.224.170"
+user_agent: "Mozilla/5.0 (Linux; Android 5.0; Lenovo A7000-a Build/LRX21M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 (Mobile; afma-sdk-a-v9877246.9256000.2)"
+url: "https://play.google.com/store/apps/details?id=com.imo.android.imoim"
+detected_language: "en"
+detected_vertical { 
+  id: 1379
+  weight: 0.33333334
+}
+detected_vertical {
+  id: 386
+  weight: 0.33333334
+}
+detected_vertical {
+  id: 1461
+  weight: 0.33333334
+}
+adslot {
+  id: 1
+  excluded_attribute: 72
+  excluded_attribute: 34
+  excluded_attribute: 27
+  excluded_attribute: 26
+  excluded_attribute: 48
+  excluded_attribute: 25
+  excluded_attribute: 20
+  excluded_attribute: 19
+  excluded_attribute: 18
+  excluded_attribute: 17
+  excluded_attribute: 16
+  excluded_attribute: 15
+  excluded_attribute: 14
+  excluded_attribute: 13
+  excluded_attribute: 30
+  excluded_attribute: 7
+  excluded_attribute: 22
+  excluded_attribute: 13
+  excluded_attribute: 14
+  excluded_attribute: 15
+  excluded_attribute: 16
+  excluded_attribute: 17
+  excluded_attribute: 18
+  excluded_attribute: 19
+  excluded_attribute: 20
+  excluded_attribute: 26
+  excluded_attribute: 27
+  excluded_attribute: 13
+  excluded_attribute: 14
+  excluded_attribute: 15
+  excluded_attribute: 16
+  excluded_attribute: 17
+  excluded_attribute: 18
+  excluded_attribute: 19
+  excluded_attribute: 20
+  excluded_attribute: 26
+  excluded_attribute: 27
+  excluded_sensitive_category: 19
+  excluded_sensitive_category: 4
+  excluded_sensitive_category: 23
+  excluded_sensitive_category: 30
+  excluded_sensitive_category: 10
+  excluded_sensitive_category: 3
+  excluded_sensitive_category: 31
+  excluded_sensitive_category: 5
+  excluded_sensitive_category: 8
+  excluded_sensitive_category: 24
+  excluded_sensitive_category: 7
+  excluded_sensitive_category: 18
+  matching_ad_data {
+    minimum_cpm_micros: 650000
+  }
+  slot_visibility: ABOVE_THE_FOLD
+  excluded_product_category: 10137
+  excluded_product_category: 11496
+  excluded_product_category: 13094
+  excluded_product_category: 13314
+  ad_block_key: 1
+  publisher_settings_list_id: 6474092799035489966
+  viewability: 60
+  click_through_rate: 0.018974816
+  native_ad_template {
+    required_fields: 31
+    recommended_fields: 32
+    headline_max_safe_length: 25
+    body_max_safe_length: 90
+    call_to_action_max_safe_length: 15
+    advertiser_max_safe_length: 25
+    image_width: 1200
+    image_height: 627
+    logo_width: 128
+    logo_height: 128
+  }
+  native_ad_template {
+    required_fields: 87
+    recommended_fields: 896
+    headline_max_safe_length: 25
+    body_max_safe_length: 90
+    call_to_action_max_safe_length: 15
+    image_width: 1200
+    image_height: 627
+    app_icon_width: 128
+    app_icon_height: 128
+  }
+}
+is_test: false
+cookie_version: 1
+google_user_id: "CAESEFUYLbTYZHbgKevxJAFh9dM"
+timezone_offset: 180
+mobile {
+  DEPRECATED_platform: "android"
+  app_id: "com.imo.android.imoim"
+  is_app: true
+  DEPRECATED_mobile_device_type: HIGHEND_PHONE
+  DEPRECATED_screen_orientation: 1
+  app_category_ids: 60004
+  app_category_ids: 60000
+  app_category_ids: 69500
+  DEPRECATED_brand: "lenovo"
+  DEPRECATED_model: "a7000-a"
+  DEPRECATED_os_version {
+    os_version_major: 5
+    os_version_minor: 0
+  }
+  DEPRECATED_screen_width: 360
+  DEPRECATED_screen_height: 640
+  DEPRECATED_carrier_id: 0
+  DEPRECATED_device_pixel_ratio_millis: 2000
+  encrypted_advertising_id: "X\323d\360\000\f\321\214\nQ\245\253\001\000\250\304\321|\276a3$D\300\035\312\327w0P\025\033P\r\267\256"
+  app_name: "imo free video calls and chat"
+  app_rating: 4.23387
+  advertising_id: "X\323d\360\000\f\321\214\nQ\245\253\001\000\250\304\321|\276a3$D\300\035\312\327w0P\025\033P\r\267\256"
+}
+cookie_age_seconds: 33696000
+postal_code: "14964"
+geo_criteria_id: 1012088
+encrypted_hyperlocal_set: "X\3217\376\000\b`j\n\355\201#\002\a\234\346}tE\a\221r\237\213\026\224g\342S\355\360\247\372b\243 \'!`Y\257\023.\211g\333f\216\006@\260K\276hN\177\263\357\3445\362\335\363\v\265\220+_~\371\210*\020;\236\326V\031\341Dd\313"
+seller_network_id: 1
+publisher_settings_list_id: 16061073092338240469
+publisher_type: GOOGLE_REPRESENTED
+partner_id: 16061073092338240469
+device {
+  device_type: HIGHEND_PHONE
+  platform: "android"
+  brand: "lenovo"
+  model: "a7000-a"
+  os_version {
+    major: 5
+    minor: 0
+  }
+  carrier_id: 0
+  screen_width: 360
+  screen_height: 640
+  screen_pixel_ratio_millis: 2000
+  screen_orientation: PORTRAIT
+}

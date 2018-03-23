@@ -1,0 +1,99 @@
+{
+	"type":"object",
+	"$schema": "http://json-schema.org/draft-03/schema",
+	"id": "http://jsonschema.net",
+	"required":false,
+	"properties":{
+		"id": {
+			"type":"string",
+			"id": "http://jsonschema.net/id",
+			"required":false
+		},
+		"seatbid": {
+			"type":"array",
+			"id": "http://jsonschema.net/seatbid",
+			"required":false,
+			"items":
+				{
+					"type":"object",
+					"id": "http://jsonschema.net/seatbid/0",
+					"required":false,
+					"properties":{
+						"bid": {
+							"type":"array",
+							"id": "http://jsonschema.net/seatbid/0/bid",
+							"required":false,
+							"items":
+								{
+									"type":"object",
+									"id": "http://jsonschema.net/seatbid/0/bid/0",
+									"required":false,
+									"properties":{
+										"adm": {
+											"type":"string",
+											"id": "http://jsonschema.net/seatbid/0/bid/0/adm",
+											"required":false
+										},
+										"adomain": {
+											"type":"array",
+											"id": "http://jsonschema.net/seatbid/0/bid/0/adomain",
+											"required":false,
+											"items":
+												{
+													"type":"string",
+													"id": "http://jsonschema.net/seatbid/0/bid/0/adomain/0",
+													"required":false
+												}
+											
+
+										},
+										"attr": {
+											"type":"array",
+											"id": "http://jsonschema.net/seatbid/0/bid/0/attr",
+											"required":false,
+											"items":
+												{
+													"type":"number",
+													"id": "http://jsonschema.net/seatbid/0/bid/0/attr/0",
+													"required":false
+												}
+											
+
+										},
+										"crid": {
+											"type":"string",
+											"id": "http://jsonschema.net/seatbid/0/bid/0/crid",
+											"required":false
+										},
+										"id": {
+											"type":"string",
+											"id": "http://jsonschema.net/seatbid/0/bid/0/id",
+											"required":false
+										},
+										"impid": {
+											"type":"string",
+											"id": "http://jsonschema.net/seatbid/0/bid/0/impid",
+											"required":false
+										},
+										"price": {
+											"type":"number",
+											"id": "http://jsonschema.net/seatbid/0/bid/0/price",
+											"required":false
+										}
+									}
+								}
+							
+
+						},
+						"seat": {
+							"type":"string",
+							"id": "http://jsonschema.net/seatbid/0/seat",
+							"required":false
+						}
+					}
+				}
+			
+
+		}
+	}
+}

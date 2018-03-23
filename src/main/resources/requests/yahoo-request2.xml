@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bidRequest 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns="urn:yahoo:amp:3pi:bidReq" 
+xmlns:bid="urn:yahoo:amp:3pi:bidReqMain" 
+xmlns:fac="urn:yahoo:amp:3pi:fac" version="6.0" 
+xsi:schemaLocation="urn:yahoo:amp:3pi:bidReq BidRequest.xsd">
+  <bidReqEnv signature="bac7f3edb0c0121e1ca6ec371351b1fe625515a2" 
+signType="HMAC_SHA1" token="1382408767"/>
+  <bid:bidReq>
+    <bid:bidCommon>
+      <bid:oppId>4eb49f86-3ac1-11e3-bd3b-1f02a819b717</bid:oppId>
+      <bid:ip>69.126.137.0</bid:ip>
+      <bid:host>ads.yahoo.com</bid:host>
+      <bid:userAgent> 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:24.0) 
+Gecko/20100101 Firefox/24.0 </bid:userAgent>
+      <bid:lang>en</bid:lang>
+      <bid:exchangeId>7SYZG6CgXTn84cuQoiQxkolP</bid:exchangeId>
+      <bid:adDimension>
+        <bid:width>300</bid:width>
+        <bid:height>50</bid:height>
+      </bid:adDimension>
+      <bid:latency>100</bid:latency>
+      <bid:pubUrl>https://itunes.apple.com/us/app/yahoonews/id351282480?mt=8</bid:pubUrl>
+        <bid:sellerId>747113</bid:sellerId>
+        <bid:pubChannel>
+          <bid:pubChannelItem>4</bid:pubChannelItem>
+          <bid:pubChannelItem>84</bid:pubChannelItem>
+        </bid:pubChannel>
+        <bid:flashVer>0</bid:flashVer>
+        <bid:age>40</bid:age>
+        <bid:gender>f</bid:gender>
+        <bid:sectionId>3041204</bid:sectionId>
+        <bid:isSecure>0</bid:isSecure>
+        <bid:adPosition>0</bid:adPosition>
+        <bid:blocklistIds>926824,997559</bid:blocklistIds>
+        <bid:country>US</bid:country>
+        <bid:userLocation>
+          <bid:state>NY</bid:state>
+          <bid:Metro>502</bid:Metro>
+          <bid:city>New York</bid:city>
+        </bid:userLocation>
+        <bid:mobileLocation>37.579887,-77.384535</bid:mobileLocation>
+        <bid:sectionCode>news234</bid:sectionCode>
+        <bid:siteID>9676134</bid:siteID>
+        <bid:sellerSeatID>23652</bid:sellerSeatID>
+        <bid:extendParams numParams="9">
+          <bid:optParam optParamKey="applyCoppa">0</bid:optParam>
+          <bid:optParam optParamKey="inventoryType">8</bid:optParam>
+          <bid:optParam optParamKey="appName">YahooNews</bid:optParam>
+          <bid:optParam optParamKey="appId">351282480</bid:optParam>
+          <bid:optParam optParamKey="deviceIdType">3</bid:optParam>
+          <bid:optParam optParamKey="deviceIdSha1">866c0ac9ff1a8d712550dea99578c825de033186</bid:optParam>
+          <bid:optParam optParamKey="deviceIdMd5">40c7084b4845eebce9d07b8a18a055fc</bid:optParam>
+          <bid:optParam optParamKey="encryptedDeviceId">a1c3a39b8a7ef688ee957abb881d96f8284ee2c
+e45992ce1d632843350b956f81229afbfead8af5f</bid:optParam>
+          <bid:optParam optParamKey="excludedMediaTypes">1,2,3,5</bid:optParam>
+          <bid:optParam optParamKey="puburlHash">bdc48c2889508ef8a5be96ac8e456589314dfa2d9419e5
+a8b07291f80f9534a5</bid:optParam>
+          <bid:optParam optParamKey="pubUrlHashVersion">ngd.content_classification.salt.1</bid:optParam>
+        </bid:extendParams>
+      </bid:bidCommon>
+      <bid:advSet numAdvs="3">
+        <bid:adv>
+          <bid:advId>123456</bid:advId>
+          <bid:sellerLine>6773754</bid:sellerLine>
+          <bid:sellerICode>ABC-123_a</bid:sellerICode>
+          <bid:revShare>100</bid:revShare>
+          <bid:buyerLine>283472</bid:buyerLine>
+          <bid:extendParams numParams="2">
+            <bid:optParam optParamKey="deals"> 
+207,1.25 </bid:optParam>
+            <bid:optParam optParamKey="partnerUserId"> AKR6I52xTotGYHS3Z 
+</bid:optParam>
+          </bid:extendParams>
+        </bid:adv>
+        <bid:adv>
+          <bid:advId>234567</bid:advId>
+          <bid:sellerLine>5297843</bid:sellerLine>
+          <bid:sellerICode>HSC-34-XC</bid:sellerICode>
+          <bid:revShare>91</bid:revShare>
+          <bid:buyerLine>78798</bid:buyerLine>
+          <bid:extendParams numParams="2">
+            <bid:optParam optParamKey="deals"> 
+207,1.25 </bid:optParam>
+            <bid:optParam optParamKey="partnerUserId"> 
+7c720AEDF15062mn85Fc3320F04a1B066 </bid:optParam>
+          </bid:extendParams>
+        </bid:adv>
+        <bid:adv>
+          <bid:advId>345678</bid:advId>
+          <bid:sellerLine>5363279</bid:sellerLine>
+          <bid:sellerICode>MMTTW-54QH</bid:sellerICode>
+          <bid:revShare>85</bid:revShare>
+          <bid:buyerLine>2764287</bid:buyerLine>
+          <bid:extendParams numParams="1">
+            <bid:optParam optParamKey="deals"> 
+207,1.25;670,1.1499 </bid:optParam>
+          </bid:extendParams>
+        </bid:adv>
+      </bid:advSet>
+    </bid:bidReq>
+  </bidRequest>

@@ -1,0 +1,86 @@
+ad {
+  html_snippet: "<a href=\"%%CLICK_URL_UNESC%%https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z43519Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683153&creative_id=66495:43519&ord=%%CACHEBUSTER%%\" target=\"_blank\"><img src=\"https://rtbstaging.admaxim.com/adtracker/track/track/imp?id=Z43519Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683153&creative_id=66495:43519&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%\"></a><img src=\"https://cm.g.doubleclick.net/pixel?google_nid=admaxim_emea&google_cm&cid=C1216734-06C3-4143-A9C6-2C5B2E71E7A0&google_hm=Q0FFU0VHM0kxdUdFQTYxazhCTHMzNUhlQUln\" />"
+  adslot {
+    id: 1
+    max_cpm_micros: 2500
+    billing_id: 22169586646
+  }
+  click_through_url: "admaxim.com"
+  attribute: 47
+  category: 0
+  buyer_creative_id: "43519_6"
+  width: 320
+  height: 480
+  agency_id: 1
+  restricted_category: 0
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/view?id=Z43519Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683153&creative_id=66495:43519&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+}
+ad {
+  html_snippet: "<script type=\"text/javascript\" src=\"https://adfarm.mediaplex.com/ad/js/30457-222402-49790-14?mpt=8824241206036215310119137201181415826&mpvc=https%3A%2F%2Frtbstaging.admaxim.com%2Fadtracker%2Ftrack%2Ftrack%2Fclick%3Fid%3DZ62701Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%252Ciab19%252Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ%26ts%3D1495432683140%26ru%3D\"> </script> <noscript> <a target=\"_blank\" href=\"%%CLICK_URL_UNESC%%https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z62701Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683140&ru=https://adfarm.mediaplex.com/ad/nc/30457-222402-49790-14?mpt=8824241206036215310119137201181415826\"> <img src=\"https://adfarm.mediaplex.com/ad/nb/30457-222402-49790-14?mpt=8824241206036215310119137201181415826\" alt=\"Click Here\" border=\"0\"> </a> </noscript> <img src=\"https://rtbstaging.admaxim.com/adtracker/track/track/imp?id=Z62701Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&googleBidPrice=%%WINNING_PRICE%%&ts=1495432683140&ru=\" width=\"0\" height=\"0\" /><img src=\"https://cm.g.doubleclick.net/pixel?google_nid=admaxim_emea&google_cm&cid=C1216734-06C3-4143-A9C6-2C5B2E71E7A0&google_hm=Q0FFU0VHM0kxdUdFQTYxazhCTHMzNUhlQUln\" />"
+  adslot {
+    id: 1
+    max_cpm_micros: 2500
+    billing_id: 22169586646
+  }
+  click_through_url: "http://www.docusolbaby.co.uk/"
+  attribute: 47
+  category: 0
+  buyer_creative_id: "62701_6"
+  width: 320
+  height: 480
+  agency_id: 1
+  restricted_category: 0
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/view?id=Z62701Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683157&creative_id=66495:62701&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+}
+ad {
+  html_snippet: "<IFRAME SRC=\"https://ad.doubleclick.net/ddm/adi/N4378.789343.ADMAXIM.COM1/B9576420.130075903;sz=320x480;click=%%CLICK_URL_UNESC%%https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z61316Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683136&ru=;ord=8824241206036215310119137201181415826;dc_lat=;dc_rdid=C1216734-06C3-4143-A9C6-2C5B2E71E7A0;tag_for_child_directed_treatment=?\" WIDTH=320 HEIGHT=480 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR=\'#000000\'> <SCRIPT language=\'JavaScript1.1\' SRC=\"https://ad.doubleclick.net/ddm/adj/N4378.789343.ADMAXIM.COM1/B9576420.130075903;abr=!ie;sz=320x480;click=%%CLICK_URL_UNESC%%https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z61316Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683136&ru=;ord=8824241206036215310119137201181415826;dc_lat=;dc_rdid=C1216734-06C3-4143-A9C6-2C5B2E71E7A0;tag_for_child_directed_treatment=?\"> </SCRIPT> <NOSCRIPT> <A HREF=\"%%CLICK_URL_UNESC%%https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z61316Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683136&ru=https://ad.doubleclick.net/ddm/jump/N4378.789343.ADMAXIM.COM1/B9576420.130075903;abr=!ie4;abr=!ie5;sz=320x480;ord=8824241206036215310119137201181415826?\"> <IMG SRC=\"https://ad.doubleclick.net/ddm/ad/N4378.789343.ADMAXIM.COM1/B9576420.130075903;abr=!ie4;abr=!ie5;sz=320x480;ord=8824241206036215310119137201181415826;dc_lat=;dc_rdid=C1216734-06C3-4143-A9C6-2C5B2E71E7A0;tag_for_child_directed_treatment=?\" BORDER=0 WIDTH=320 HEIGHT=480 ALT=\"Advertisement\"></A> </NOSCRIPT> </IFRAME><img src=\"https://rtbstaging.admaxim.com/adtracker/track/track/imp?id=Z61316Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&googleBidPrice=%%WINNING_PRICE%%&ts=1495432683136&ru=\" width=\"0\" height=\"0\" /><img src=\"https://cm.g.doubleclick.net/pixel?google_nid=admaxim_emea&google_cm&cid=C1216734-06C3-4143-A9C6-2C5B2E71E7A0&google_hm=Q0FFU0VHM0kxdUdFQTYxazhCTHMzNUhlQUln\" />"
+  adslot {
+    id: 1
+    max_cpm_micros: 2500
+    billing_id: 22169586646
+  }
+  click_through_url: "http://www.stanstedairport.com"
+  attribute: 47
+  category: 0
+  buyer_creative_id: "61316_6"
+  width: 320
+  height: 480
+  agency_id: 1
+  restricted_category: 0
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/view?id=Z61316Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683160&creative_id=66495:61316&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+}
+ad {
+  html_snippet: "<a href=\"%%CLICK_URL_UNESC%%https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z51964Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683163&creative_id=66495:51964&ord=%%CACHEBUSTER%%\" target=\"_blank\"><img src=\"https://rtbstaging.admaxim.com/adtracker/track/track/imp?id=Z51964Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683163&creative_id=66495:51964&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%\"></a><img src=\"https://cm.g.doubleclick.net/pixel?google_nid=admaxim_emea&google_cm&cid=C1216734-06C3-4143-A9C6-2C5B2E71E7A0&google_hm=Q0FFU0VHM0kxdUdFQTYxazhCTHMzNUhlQUln\" />"
+  adslot {
+    id: 1
+    max_cpm_micros: 2500
+    billing_id: 22169586646
+  }
+  click_through_url: "admaxim.com"
+  attribute: 47
+  category: 0
+  buyer_creative_id: "51964_6"
+  width: 320
+  height: 480
+  agency_id: 1
+  restricted_category: 0
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/view?id=Z51964Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683163&creative_id=66495:51964&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+}
+ad {
+  html_snippet: "<IMG SRC=\"https://ad.doubleclick.net/ddm/ad/N2121.789343ADMAXIM.COM/B9311480.128302056;sz=1x1;ord=8824241206036215310119137201181415826;dc_lat=;dc_rdid=C1216734-06C3-4143-A9C6-2C5B2E71E7A0;tag_for_child_directed_treatment=?\" BORDER=0 WIDTH=1 HEIGHT=1 ALT=\"Advertisement\"></IMG><a href=\"%%CLICK_URL_UNESC%%https://rtbstaging.admaxim.com/adtracker/track/track/click?id=Z62092Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683166&creative_id=66495:62092&ord=%%CACHEBUSTER%%\" target=\"_blank\"><img src=\"https://rtbstaging.admaxim.com/adtracker/track/track/imp?id=Z62092Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683166&creative_id=66495:62092&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%\"></a><img src=\"https://cm.g.doubleclick.net/pixel?google_nid=admaxim_emea&google_cm&cid=C1216734-06C3-4143-A9C6-2C5B2E71E7A0&google_hm=Q0FFU0VHM0kxdUdFQTYxazhCTHMzNUhlQUln\" />"
+  adslot {
+    id: 1
+    max_cpm_micros: 2500
+    billing_id: 22169586646
+  }
+  click_through_url: "asda.com"
+  attribute: 47
+  category: 0
+  buyer_creative_id: "62092_6"
+  width: 320
+  height: 480
+  agency_id: 1
+  restricted_category: 0
+  impression_tracking_url: "https://rtbstaging.admaxim.com/adtracker/track/track/view?id=Z62092Z66495Z-1Z12968_656093141Z6Z0Z0ZZ0.01Z0.0075Z0.0Z0.0025000000000000005ZsgZZZZappleZios_10.0.2ZiphoneZC1216734-06C3-4143-A9C6-2C5B2E71E7A0Ziab1%2Ciab19%2Ciab12ZZagx3-gnx1Z0-0-Z-1Z320x480Z8824241206036215310119137201181415826ZZ1Z2ZenZ12968Z13332Z2Z0ZZZZZ&ts=1495432683166&creative_id=66495:62092&ord=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&ru="
+}
+processing_time_ms: 95

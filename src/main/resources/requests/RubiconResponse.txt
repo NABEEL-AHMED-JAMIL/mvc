@@ -1,0 +1,30 @@
+{
+    "id": "38f09352e958f7340ebc4fbb50c20d1c08259dc1",
+    "seatbid": [
+        {
+            "seat": "731",
+            "bid": [
+                {
+                    "id": "7878|30841|-1|10185_207928_2017726|6|0|0||2.0|0.0|0.8|1.2|ie||||Apple|iOS_7.0.4|iPhone|P-8815b967875edffa618f294b3018ed6a7f249474|IAB12|||cpmf%3D0-bt%3D0|-1|320x50|38f09352e958f7340ebc4fbb50c20d1c08259dc1|280|",
+                    "impid": "1",
+                    "price": 1.2,
+                    "adm": " <a href=\"http://rtbstaging.admaxim.com/adtracker/track/track/click?id=7878|30841|-1|10185_207928_2017726|6|0|0||2.0|0.0|0.8|1.2|ie||||Apple|iOS_7.0.4|iPhone|P-8815b967875edffa618f294b3018ed6a7f249474|IAB12|||cpmf%3D0-bt%3D0|-1|320x50|38f09352e958f7340ebc4fbb50c20d1c08259dc1|280|&ts=1399532550290&creative_id=30841:7878:10185_207928_2017726:ie:iOS\"><img src=\"http://rtbstaging.admaxim.com/adtracker/track/track/imp?id=7878|30841|-1|10185_207928_2017726|6|0|0||2.0|0.0|0.8|1.2|ie||||Apple|iOS_7.0.4|iPhone|P-8815b967875edffa618f294b3018ed6a7f249474|IAB12|||cpmf%3D0-bt%3D0|-1|320x50|38f09352e958f7340ebc4fbb50c20d1c08259dc1|280|&ts=1399532550290&creative_id=30841:7878:10185_207928_2017726:ie:iOS&click_url=%%click_track_url_encoded%%&rubiconBidPrice=\\{AUCTION_PRICE:BF}\"></a>",
+                    "adomain": [
+                        "facebook.com"
+                    ],
+                    "attr": [
+                        2,
+                        4,
+                        6,
+                        7,
+                        11,
+                        12,
+                        15,
+                        16
+                    ],
+                    "crid": "30841:7878:10185_207928_2017726:ie:iOS"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+ad {
+  adslot {
+    id: 1
+    max_cpm_micros: 2000000
+  }
+  click_through_url: "http://samsung.com"
+  vendor_type: 451
+  attribute: 44
+  attribute: 22
+  category: 0
+  video_url: "https://rtbstaging.admaxim.com/adserver/adapi?fmt=vast3.0&numads=1&adspot=pre-roll&aType=8&siteId=12968_video.google.anonymous&country=au&state=western australia&city=perth&size=400x226&duration=15&cpnId=56550&adId=1504&tdata=true&bt=0&bf=0.0&bp=2.0&directserve=1&agId=-1&ua=Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75&remoteIP=&CACHEBUSTER=%%CACHEBUSTER%%&googleBidPrice=%%WINNING_PRICE%%&SITE=%%SITE%%&skippable=true"
+  buyer_creative_id: "56550:1504"
+  width: 400
+  height: 226
+  agency_id: 1
+  restricted_category: 0
+}
+processing_time_ms: 868

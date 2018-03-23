@@ -1,0 +1,69 @@
+{
+	"app": {
+		"storeurl": "cheezburger.com",
+		"domain": "Cheezburger",
+		"cat": [" "],
+		"name": "Cheezburger",
+		"publisher": {
+			"ext": {},
+			"id": "8825"
+		},
+		"id": "89508e266fe7696e54c12a06997c0d01",
+		"bundle": "598338664"
+	},
+	"cur": ["USD"],
+	"at": 2,
+	"allimps": 0,
+	"tmax": 350,
+	"regs": {},
+	"id": "8a5098e0-5f25-4244-a728-f8f3673807bc",
+	"user": {},
+	"imp": [{
+		"ext": {
+			"viewabilitymeasurability": 2
+		},
+		"bidfloor": 5.36,
+		"bidfloorcur": "USD",
+		"id": "1",
+		"video": {
+			"boxingallowed": 1,
+			"ext": {
+				"skippability": 1,
+				"incentivized": 2,
+				"clickability": 1,
+				"instream": 1
+			},
+			"sequence": 1,
+			"protocol": 2,
+			"maxduration": 30,
+			"w": 492,
+			"h": 517,
+			"playbackmethod": [1],
+			"protocols": [2, 5],
+			"minduration": 15,
+			"mimes": ["video/mp4"]
+		},
+		"instl": 1
+	}],
+	"device": {
+		"geo": {
+			"zip": "B16",
+			"country": "GBR",
+			"city": "Birmingham",
+			"metro": "0",
+			"lon": -1.9167023,
+			"region": "GB-A7",
+			"type": 2,
+			"lat": 52.466705
+		},
+		"carrier": "Virgin Media",
+		"osv": "4.0",
+		"os": "Android",
+		"ip": "94.173.158.0",
+		"js": 1,
+		"model": "Android 4 Tablet",
+		"ua": "Mozilla/5.0 (Linux; Android 4.0.3; Build/ICS.f11ref.20120629) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Safari/537.36",
+		"make": "Unknown",
+		"devicetype": 5
+	}
+}

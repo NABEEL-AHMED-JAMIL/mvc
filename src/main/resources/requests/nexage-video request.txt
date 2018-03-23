@@ -1,0 +1,150 @@
+{
+    "id": "nexagevideo",
+    "at": 2,
+    "bcat": [
+        "IAB7-28",
+        "IAB7-29",
+        "IAB9-9",
+        "IAB19-3",
+        "IAB22-1",
+        "IAB14-1",
+        "IAB14-2",
+        "IAB14-3",
+        "IAB7-45",
+        "IAB26",
+        "IAB7-44",
+        "IAB7-31",
+        "IAB25",
+        "IAB7-30",
+        "IAB7-3",
+        "IAB8-5",
+        "IAB24",
+        "IAB14-8",
+        "IAB23",
+        "IAB8-18",
+        "IAB7-39",
+        "IAB6-7",
+        "IAB7-34",
+        "IAB4-10",
+        "IAB7-41",
+        "IAB7-42",
+        "IAB11-4"
+    ],
+    "badv": [
+        "millercoors.com",
+        "kolikkopelit.com",
+        "leovegas.com",
+        "gamesyscorporate.com",
+        "offers.moshields.com",
+        "anastasiadate.com",
+        "dailyprizes4u.com",
+        "instantcheckmate.com",
+        "gamesofa.com",
+        "betfair.com",
+        "playtika.com",
+        "pkr.com",
+        "midversestudios.com",
+        "williamhill.com",
+        "bigfishgames.com",
+        "6waves.com",
+        "aeriagames.com",
+        "apostek.com",
+        "funzio.com",
+        "onlineskill.com",
+        "phoenixage.com"
+    ],
+    "imp": [
+        {
+            "id": "3e845de9-5f4a-495f-8546-a712a3e34447-1",
+            "instl": 1,
+            "banner": {
+                "h": 50,
+                "w": 320,
+                "btype": [],
+                "battr": [
+                    3,
+                    4,
+                    5,
+                    8,
+                    9,
+                    10,
+                    12,
+                    14
+                ],
+                "pos": 7
+            },
+            "video": {
+                "h": 320,
+                "w": 480,
+                "pos": 7,
+                "mimes": [
+                    "video/mp4",
+                    "video/3gpp",
+                    "video/x-m4v"
+                ],
+                "linearity": 1,
+                "minduration": 0,
+                "maxduration": 15,
+                "protocol": 2,
+                "battr": [
+                    3,
+                    4,
+                    5,
+                    8,
+                    9,
+                    10,
+                    12,
+                    14
+                ]
+            },
+            "displaymanager": "burstly",
+            "displaymanagerver": "1.16.1.28359",
+            "ext": {
+                "nex_screen": 0
+            }
+        }
+    ],
+    "app": {
+        "id": "nexagevideo",
+        "name": "Android - Interstitial",
+        "publisher": {
+            "id": "1263",
+            "name": "Rovio"
+        },
+        "domain": "rovio.com",
+        "cat": [
+            "IAB1",
+            "IAB9"
+        ],
+        "ext": {
+            "nex_coppa": 1,
+            "nex_sdkv": "1.16.1.28359"
+        },
+        "storeurl": "https://play.google.com/store/apps/details?id=com.rovio.angrybirds"
+    },
+    "device": {
+        "didsha1": "6c4e1f98d4ddd53be5a43ea063c35f884e591e31",
+        "dpidsha1": "c57ed70bc6147d803bd774972735f21c14a47e62",
+        "didmd5": "bca5afb8c6bf2b6d553eaf454ad30317",
+        "dpidmd5": "22172aa08e296026fa54e8f1995a6c9b",
+        "ip": "86.24.204.67",
+        "carrier": "WIFI",
+        "ua": "Mozilla/5.0 (Linux; U; Android 2.3.5; en-gb; GT-I9100 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1",
+        "make": "Samsung",
+        "model": "GT-I9100 Galaxy S2",
+        "osv": "2.3.5",
+        "js": 1,
+        "os": "Android",
+        "connectiontype": 2,
+        "devicetype": 1,
+        "geo": {
+            "lat": 51.69814,
+            "lon": -1.12424,
+            "country": "GBR",
+            "type": 2
+        },
+        "ext": {
+            "nex_tablet": "0"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+id: "LdQxlzRVMxXu0AOsZ8MRnFMWqn100"
+tmax: 90
+imp {
+  id: "1"
+  video {
+    mimes: MP4
+    linearity: LINEAR
+    minduration: 5
+    maxduration: 30
+    protocol: VAST_2_0
+    protocol: VAST_WRAPPER_2_0
+    api: NONE
+    w: 640
+    h: 480
+    startdelay: 0
+    maxbitrate: 400
+    playbackmethod: CLICK_TO_PLAY
+    delivery: PROGRESSIVE
+    pos: FULLSCREEN
+  }
+  instl: false
+}
+app {
+  id: "3851900"
+  name: "Mobile - iPad app - Talking Friends Cartoon"
+  cat: IAB9_30
+  cat: IAB9_26
+  cat: IAB9_25
+  cat: IAB1
+  privacypolicy: YES
+  paid: NO
+  storeurl: "[appURL]"
+  content {
+    context: GAME
+    qagmediarating: ALL_AUDIENCES
+    embeddable: NO
+    language: "English"
+  }
+}
+device {
+  ip: "69.115.25.67"
+  ua: "[useragent]"
+  devicetype: MOBILE_TABLET
+  didsha1: "[sha1deviceid]"
+  dpidsha1: "[sha1deviceplatformid]"
+}
+user {
+}
+ext {
+  is_skippable: YES
+  skip_offset: 0
+  is_fullscreenexpandable: false
+  is_facebook: false
+  is_incentivized: NO
+  is_syndicated: NO
+  is_ugc: NO
+  max_wrapper_redirects: 1
+  inventory_class: REACH
+}
