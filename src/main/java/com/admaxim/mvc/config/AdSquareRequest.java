@@ -31,6 +31,7 @@ public class AdSquareRequest {
         try {
 
             ClassLoader loader = Thread.currentThread().getContextClassLoader();
+            // ClassLoader.getSystemResource("test.htm");
             inputStream = loader.getResourceAsStream("schema/Adsquare-Audience.csv");
 
             synchronized (inputStream) {
