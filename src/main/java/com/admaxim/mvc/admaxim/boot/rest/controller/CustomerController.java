@@ -5,7 +5,7 @@ import java.util.List;
 import javax.servlet.http.HttpServletResponse;
 
 
-import com.admaxim.mvc.admaxim.boot.rest.exception.CustomerNotFoundException;
+//import com.admaxim.mvc.admaxim.boot.rest.exception.CustomerNotFoundException;
 import com.admaxim.mvc.admaxim.boot.rest.exception.InvalidCustomerRequestException;
 import com.admaxim.mvc.admaxim.boot.rest.model.Customer;
 import com.admaxim.mvc.admaxim.boot.rest.repository.CustomerRepository;
@@ -46,7 +46,7 @@ public class CustomerController {
         Customer customer = customerRepository.findOne(customerId);
 
         if(null==customer){
-            throw new CustomerNotFoundException();
+//            throw new CustomerNotFoundException();
         }
 
         return customer;

@@ -23,6 +23,12 @@ public class ErrorFilnd {
 
     }
 
+
+    // i frst create the thread <---- 5 mint
+    // 10 to 15 reauest  check
+    // i wll goto the
+
+
     private Double getDoubleAdRequestParameter(String value) {
 
         if (StringUtils.isNotEmpty(value)) {

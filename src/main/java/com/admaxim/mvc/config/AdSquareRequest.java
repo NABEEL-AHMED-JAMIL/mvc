@@ -12,6 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import org.apache.commons.io.IOUtils;
+import org.apache.commons.lang.StringUtils;
 
 
 public class AdSquareRequest {
@@ -41,6 +42,7 @@ public class AdSquareRequest {
             List<String[]> list = csvReader.readAll();
             int count = 0;
             // strings [] = {id, name, description}
+            // read line and convert the line into the list
             for (String[] strings: list) {
                 // this one stop to show these think
                 // id,name,description
@@ -81,19 +83,62 @@ public class AdSquareRequest {
         return null;
     }
 
-    private static String buildAdSquareUrlParams(APIParams apiParams) {
-
+    private static String buildAdSquareUrlParams() {
+        APIParams apiParams = new APIParams();
         final String apiKey = "f48f9f9c-7622-4f99-926e-f6261f167b84";
         final String adSquareUrl = "http://api.adsquare.com/2.0/";
         final String audienceUrlPart = "audience/query";
-
         StringBuilder url = new StringBuilder();
 
+        // lat and lon is mandoary for adsquare segment data
+        if (StringUtils.isNotBlank((apiParams.getLAT())) && StringUtils.isNotBlank(apiParams.getLON())) {
+            url.append(adSquareUrl).append(audienceUrlPart).append("?apiKey=").append(apiKey);
+            url.append("&lat=").append(apiParams.getLAT()).append("&lng=").append(apiParams.getLON());
 
+            if (StringUtils.isNotBlank(apiParams.getDeviceIdfa())) {
+                url.append("&idfa=").append(apiParams.getDeviceIdfa());
+            }
+            if (StringUtils.isNotBlank(apiParams.getDeviceMd5udid())) {
+                url.append("&md5=").append(apiParams.getDeviceMd5udid());
+            }
 
-        return null;
+            if (StringUtils.isNotBlank(apiParams.getDeviceSha1mac())) {
+                url.append("&sha1=").append(apiParams.getDeviceSha1mac());
+            }
+            if (StringUtils.isNotBlank(apiParams.getRemoteIp())) {
+                url.append("&userIp=").append(apiParams.getRemoteIp());
+            }
+            // need to discuss this point
+            if (StringUtils.isNotBlank(apiParams.getSiteId())) {
+                url.append("&appId=").append(StringUtils.substringAfter(apiParams.getSiteId(), "_"));
+            }
+            if (StringUtils.isNotBlank(apiParams.getMAKE())) {
+                url.append("&vendor=").append(apiParams.getMAKE());
+            }
+            if (StringUtils.isNotBlank(apiParams.getMODEL())) {
+                url.append("&model=").append(apiParams.getMODEL());
+            }
+            if (StringUtils.isNotBlank(apiParams.getCARRIER())) {
+                url.append("&carrier=").append(apiParams.getCARRIER());
+            }
+            if (StringUtils.isNotBlank(apiParams.getConnectionType())) {
+                url.append("&connection=").append(apiParams.getConnectionType());
+            }
+            if (StringUtils.isNotBlank(apiParams.getCOUNTRY())) {
+                url.append("&country=").append(apiParams.getCOUNTRY());
+            }
+            if (StringUtils.isNotBlank(apiParams.getSTATE())) {
+                url.append("&state=").append(apiParams.getSTATE());
+            }
+            if (StringUtils.isNotBlank(apiParams.getCITY())) {
+                url.append("&city=").append(apiParams.getCITY());
+            }
+            if (StringUtils.isNotBlank(apiParams.getZIP())) {
+                url.append("&zipcode=").append(apiParams.getZIP());
+            }
+        }
+        return url.toString();
     }
-
 
 
     private static void test() {
@@ -126,7 +171,7 @@ public class AdSquareRequest {
     }
 
     public static void main(String[] args) {
-//        System.out.println(getSegmentCatMap());
-        test();
+        System.out.println(buildAdSquareUrlParams());
+//        test();
     }
 }

@@ -1,22 +1,46 @@
-{
-    "id": "ded06290-f586-45c6-bbcb-015adba03e39",
-    "name" : "$arbic",
-    "imp": [{
-        "id": "1",
-        "video": {
-            "mimes": ["video/mp4", "video/webm; codecs=vp8, vorbis", "application/javascript"],
-            "linearity": 1,
-            "minduration": 0,
-            "maxduration": 120,
-            "protocols": [2, 5, 3, 6],
-            "name" : "$arbic",
-            "w": 1280,
-            "h": 720,
-            "startdelay": 0,
-            "skip": 1,
-            "sequence": 1,
-            "playbackmethod": [1, 2, 3],
-             "api": [2]
-        }
-}
-
+<table width='640' border='0' align='center' cellpadding='0' cellspacing='1' bgcolor='#999999'>
+    <tbody>
+        <tr>
+            <td>
+                <table width='640' border='0' cellpadding='0' cellspacing='0' bgcolor='#FFFFFF'>
+                    <tbody>
+                        <tr>
+                            <td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td height='30'>&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table width='600' border='0' align='center' cellpadding='0' cellspacing='0'>
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                <h3>
+                                                    <strong><font color='#000066'>Transaction Alert</font></strong>
+                                                </h3>
+                                                <br>Dear NABEEL AHMED JAMEEL<br><br>
+                                                A Debit transaction of PKR "$arbic" was made in your Account No: "$arbic" (NABEEL AHMED JAMEEL) in MAIN MARKET GULBERG, LAHORE branch on Friday, 13 Apr 2018 at&nbsp; 9:11AM.
+                                                <br>
+                                                <br>
+                                               Transaction description :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;CASH WITHDRAWAL "$arbic"
+                                               <br>
+                                               Instrument / Cheque# &nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;"$arbic"<br>
+                                               <br>
+                                               If you need any further assistance, please contact our HelpLine on "$arbic". <br>
+                                               <br>A"$arbic"<br>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height='30'>&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>

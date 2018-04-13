@@ -5,6 +5,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+// jsoup used to parse the HTML
 public class JsoupTester {
 
     public static void main(String[] args) {
