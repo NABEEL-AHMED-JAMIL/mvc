@@ -1,7 +1,7 @@
 package com.admaxim.mvc.stream;
 
 
-import rx.Observable;
+//import rx.Observable;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -16,7 +16,7 @@ public class HelloStream {
         number.add("Admaxim");
         number.add("Barco");
         // take mean only two item exe
-        Observable.from(number).take(2).subscribe((arg) -> { System.out.println(arg); });
+//        Observable.from(number).take(2).subscribe((arg) -> { System.out.println(arg); });
 
         List<Integer> list = new ArrayList<>();
         for (int i = 0; i < 1000; i++) {
